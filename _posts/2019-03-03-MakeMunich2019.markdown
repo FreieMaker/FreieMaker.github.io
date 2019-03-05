@@ -15,3 +15,10 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 Ceyda, Cihan, Chris, Dimitri, Lukas, Rene und Jan.
+
+Fabscan (der faltbare), nen Monoprice Mini Delta (langweilig, da gekauft... wissen aber jetzt: der kann gut in jeder Lage, auch auf dem Kopf drucken ^^), dann Chris Schlüsselstecksystem mit Klinkensteckern, Uhr aus Analoganzeigen, Retro-Pong-Spiel, seine Useless Machine, Zufallswahrsager, und eine "Digitaluhr" (8 Pixel)
+
+euchtende Spazierstöcke (auch ne neue Einfachversion), durchscheinende Spiralographgravur, HaptiVision Bauchgurt, die Pong Version davon, BrailleMemory, HaptiKniffel, Slatelite Wordclock/YinYang, YAWN, Endless-LED-Cube und der dezente Obelisk...
+
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mm19a.jpg);"></div>
