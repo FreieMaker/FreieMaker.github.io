@@ -34,6 +34,6 @@ Neben dem MakerSpace konnten die Besucher folgende Highlights betrachten und aus
  	<li>Projekte aus unserem <strong>Buch "Licht und Spaß"</strong> - Fast alle Autoren des Buchs waren vor Ort und haben ihre Projekte dem Publikum vorgestellt.</li>
 </ul>
 
-<div class="VideoWrapper">
+<div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZHnPr4DKXU0" frameborder="0" allowfullscreen></iframe>
 </div>
