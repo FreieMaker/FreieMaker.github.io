@@ -1687,7 +1687,7 @@ body {
 .section-backgroundImage .post-featuredImage {
   min-width: 100%;
   min-height: 28.5rem;
-  width: 2000px;
+  width: 1024;
   height: auto;
   position: fixed;
   left: 50%;
