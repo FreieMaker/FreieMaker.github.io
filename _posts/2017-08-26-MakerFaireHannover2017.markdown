@@ -14,10 +14,9 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Der Bericht folgt...
-
-
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}WP_20170826_18_11_28_Pro.jpg);"></div>
-
+17.800 Besucherinnen und Besucher haben sich im HCC in Hannover die Projekte von 800 Makern angeschaut. Unser Verein war mit dabei und wir haben monatelange Vorbereitungen getroffen und am Ende hat alles geklappt. Unser größtes Exponat war der Hangprinter. Mit diesem riesigen 3D-Drucker kann man fast alles drucken.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}WP_20170826_18_11_40_Pro.jpg);"></div>
+
+Es gab aber auch viele kleinere Projekte auf unseren Tischen zu sehen.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}WP_20170826_18_11_28_Pro.jpg);"></div>
