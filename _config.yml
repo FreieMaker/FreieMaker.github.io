@@ -26,14 +26,9 @@ disqus:              disqus_shortname # get it on https://disqus.com/admin/
 author:
   name:           	 FreieMaker
   url:            	 'freiemaker.github.io'
-  facebook:          username
-  twitter:           username
-  google_plus:       username
-  linkedin:          username
-  dribbble:          username
-  pinterest:         username
-  kiva:              username
-
+  facebook:          freiemaker
+  twitter:           FreieMaker
+  
 fb_admins:           your facebook profile id
 fb_appid:            your facebook app id
 
