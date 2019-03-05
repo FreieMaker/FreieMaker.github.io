@@ -1772,6 +1772,7 @@ body {
 .section-title h1{
   display:inline-block;
   margin: 0 auto;
+  font-size: 16;
 }
 
 .section-title h2,
