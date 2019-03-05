@@ -16,9 +16,18 @@ syntaxHighlighter: no
 ---
 Ceyda, Cihan, Chris, Dimitri, Lukas, Rene und Jan.
 
-Fabscan (der faltbare), nen Monoprice Mini Delta (langweilig, da gekauft... wissen aber jetzt: der kann gut in jeder Lage, auch auf dem Kopf drucken ^^), dann Chris Schlüsselstecksystem mit Klinkensteckern, Uhr aus Analoganzeigen, Retro-Pong-Spiel, seine Useless Machine, Zufallswahrsager, und eine "Digitaluhr" (8 Pixel)
+Freie Maker waren wieder auf Tour. Zusammen mit PersonalPhotonics aus dem Fab Lab Aachen wurde die Make Munich unsicher gemacht. Natürlich auch mit eigenem Stand, man lebt ja schliesslich vom Austausch untereinander. Eigentlich alles natürlich auch nachbaubar und Open-Source, wenn noch nicht veröffentlicht liegt das höchstens daran das wir bloss noch nicht die Zeit gefunden haben :)
 
-euchtende Spazierstöcke (auch ne neue Einfachversion), durchscheinende Spiralographgravur, HaptiVision Bauchgurt, die Pong Version davon, BrailleMemory, HaptiKniffel, Slatelite Wordclock/YinYang, YAWN, Endless-LED-Cube und der dezente Obelisk...
+Das Spektrum ging dabei vom Upcycling alter Elektronik wie eine Uhr aus analogen Anzeigeinstrumenten, Nutzung seltsamer Materialien mit dem Lasercutter (Durchscheinendes Steinfurnier für eine Wordclock - https://www.instructables.com/id/StoneLights/) bis hin zu wichtigen Projekten wie einem haptisch erfühlbaren Pong Spiel und natürlich auch dem FabScan Pi (https://fabscan.org/), allerdings nur in der mobilen faltbaren Variante. 
+
+Insbesondere Chris handwerklich sauber ausgeführten Projekte wie die Nutzung von Klinkensteckern als Schlüsselanhänger mit dazu passendem Schüsselbrett wollten einige Personen direkt nachbauen, aber auch alte Projekte wie die Useless Machine kamen gut an.
+
+Für etwas Beleuchtung und um den Stand besser zu finden sorgten einige Endless-Mirror-Objekte, allerdings offensichtlich noch zu klein, wir konnten nicht aus jeder Ecke der Halle direkt unseren Stand sehen.
+
+Die Make Munich war ein ähnlich wilder Mix aus Makern, Startups, Hochschulforschung und Industrie, aber alle mit dem gleichen Ziel udn AUfbau: Objekte zum staunen und spielen, sowie Workshops an allen Ecken zum selber aktiv werden. Das Publikum war wie üblich auch interessiert und voller Begeisterung mit der ganzen Familie dabei. Die Make Munich war natürlich auch wieder ein grosses Klassentreffen unter der Makerszene in Deutschland.
+
+
+
 
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mm19a.jpg);"></div>
