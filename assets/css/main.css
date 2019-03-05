@@ -1650,7 +1650,7 @@ body {
 
 .section--frontpage,
 .section--frontpage ~ .post-featuredImage {
-  height: 18rem;
+  height: 28rem;
 }
 
 @media (max-width: 767px) {
