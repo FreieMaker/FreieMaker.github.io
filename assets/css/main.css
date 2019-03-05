@@ -436,6 +436,7 @@ hr {
 
 .img--fullContainer img {
   width: 100%;
+  background-size: conzain;
 }
 
 .img--5xLeading {
