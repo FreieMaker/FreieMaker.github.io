@@ -1769,6 +1769,11 @@ body {
   text-align: center;
 }
 
+.section-title h1{
+  display:inline-block;
+  margin: 0 auto;
+}
+
 .section-title h2,
 .section-title h4 {
   margin-top: 0;
