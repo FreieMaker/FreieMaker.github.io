@@ -15,17 +15,12 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 Auf der Maker Faire Berlin 2016 war mal wieder viel los! Über 17500 Besucher haben die Projekte an den Ständen von mehr als 200 Makern angeguckt und ausprobiert.
-Am Freitag hatte ich am Make Light Symposium teilgenommen und abends die Eröffnungfeier des HappyLabs besucht. Samstag und Sonntag war dann die eigentliche Maker Faire.
 
-Am Samstag eröffnete ich das Vortragsprogramm der Maker Faire mit meinem Vortrag über Wearables und intelligente Kleidung.
-Hier gibt es mehr Infos:
-[http://maker-faire.de/vortrag/berlin/2016/wie-ich-mal-leds-auf-kleidung-gebuegelt-habe/](http://maker-faire.de/vortrag/berlin/2016/wie-ich-mal-leds-auf-kleidung-gebuegelt-habe/){:target="_blank"}
-
-## Freie-Maker-Award für Wolfgang Back
-
-Am Samstag hatte ich gemeinsam mit meinem Kumpel Mario Lukas die große Bühne spontan übernommen, um dem bekannten TV-Moderator Wolfgang Back den Freie-Maker-Award zu überreichen.
-![Wolfgang Back Award]({{ site.baseurl }}/assets/images/posts/Back_Bohne_Award_klein.jpg){: .center-image }
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}Back_Bohne_Award_klein.jpg);"></div>
+Am Samstag Mario Lukas und René Bohne dem bekannten TV-Moderator Wolfgang Back den Freie-Maker-Award zu überreichen.
 Der Preisträger ist bekannt aus der Hobbythek und dem WDR Computer Club. Damals haben sie z.B. Computerprogramme in Form von Audiosignalen am Ende jeder Sendung übermittelt. Die Zuschauer konnten diese Töne mit einem Diktiergerät aufzeichnen und anschließend in ihre Computer laden, die damals noch Datasetten besaßen. Das war lange vor dem Internet! Später ging man dazu über, die Programme in unsichtbare Zeilen des TV-Bilds zu integrieren. Dieses System ist ein Beispiel für den Einfallsreichtum der Sendung, der uns Maker heute noch begeistert.
+
+
 
 
 ## Interview mit Deutschlandfunk
