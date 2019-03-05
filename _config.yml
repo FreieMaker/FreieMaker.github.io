@@ -13,7 +13,7 @@ name:				         'Freie Maker'
 title:               'Freie Maker'
 tagline:             'Verein zur Förderung der Makerkultur in Deutschland'
 description:         'Verein zur Förderung der Makerkultur in Deutschland'
-url:                 freiemaker.github.io
+url:                 'freiemaker.github.io'
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
@@ -25,7 +25,7 @@ disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
   name:           	 FreieMaker
-  url:            	 freiemaker.github.io
+  url:            	 'freiemaker.github.io'
   facebook:          username
   twitter:           username
   google_plus:       username
