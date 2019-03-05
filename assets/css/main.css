@@ -2007,7 +2007,8 @@ body {
 }
 
 .blockGroup-list .postArticle-image {
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
   background-position: center;
   padding-top: 100%;
   -webkit-transition-property: all, left, top, width;
