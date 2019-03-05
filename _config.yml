@@ -9,8 +9,8 @@ permalink:           /:title
 # Setup
 timezone:            Europe/Berlin # eg. Asia/Kathmandu
 locale:              de_de # eg. en_us
-name:				         Freie Maker
-title:               Freie Maker
+name:				         'Freie Maker'
+title:               'Freie Maker'
 tagline:             'Verein zur Förderung der Makerkultur in Deutschland'
 description:         'Verein zur Förderung der Makerkultur in Deutschland'
 url:                 site url
