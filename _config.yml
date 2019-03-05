@@ -5,7 +5,6 @@ highlighter:         pygments
 
 # Permalinks
 permalink:           /:title
-relative_permalinks: true
 
 # Setup
 timezone:            Europe/Berlin # eg. Asia/Kathmandu
