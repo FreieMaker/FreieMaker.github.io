@@ -17,15 +17,11 @@ syntaxHighlighter: no
 Auf der Maker Faire Berlin 2016 war mal wieder viel los! Über 17500 Besucher haben die Projekte an den Ständen von mehr als 200 Makern angeguckt und ausprobiert.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}Back_Bohne_Award_klein.jpg);"></div>
-Am Samstag Mario Lukas und René Bohne dem bekannten TV-Moderator Wolfgang Back den Freie-Maker-Award zu überreichen.
-Der Preisträger ist bekannt aus der Hobbythek und dem WDR Computer Club. Damals haben sie z.B. Computerprogramme in Form von Audiosignalen am Ende jeder Sendung übermittelt. Die Zuschauer konnten diese Töne mit einem Diktiergerät aufzeichnen und anschließend in ihre Computer laden, die damals noch Datasetten besaßen. Das war lange vor dem Internet! Später ging man dazu über, die Programme in unsichtbare Zeilen des TV-Bilds zu integrieren. Dieses System ist ein Beispiel für den Einfallsreichtum der Sendung, der uns Maker heute noch begeistert.
-
-
-
+Am Samstag haben Mario Lukas und René Bohne dem bekannten TV-Moderator Wolfgang Back den Freie-Maker-Award überreicht. Der Preisträger ist bekannt aus der Hobbythek und dem WDR Computer Club. Damals haben sie z.B. Computerprogramme in Form von Audiosignalen am Ende jeder Sendung übermittelt. Die Zuschauer konnten diese Töne mit einem Diktiergerät aufzeichnen und anschließend in ihre Computer laden, die damals noch Datasetten besaßen. Das war lange vor dem Internet! Später ging man dazu über, die Programme in unsichtbare Zeilen des TV-Bilds zu integrieren. Dieses System ist ein Beispiel für den Einfallsreichtum der Sendung, der uns Maker heute noch begeistert.
 
 ## Interview mit Deutschlandfunk
 
-Manfred Kloiber vom Deutschlandfunk hatte einen Ü-Wagen dabei und wir haben live im Radio über den Verein freie Maker e.V. gesprochen und über Maker, Makerspaces und Fab Labs - und darüber, wo die Reise hingeht.
+Manfred Kloiber vom Deutschlandfunk hatte einen Ü-Wagen dabei und wir haben live im Radio über den Verein gesprochen und über Maker, Makerspaces und Fab Labs - und darüber, wo die Reise hingeht.
 
 [Hier geht es zum Interview](http://www.deutschlandfunk.de/maker-faire-renaissance-des-guten-alten-radiobastelns.684.de.html?dram:article_id=367430){:target="_blank"}
 
