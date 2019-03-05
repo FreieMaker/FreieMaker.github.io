@@ -1563,7 +1563,7 @@ body {
 
 .sidebar-recentPosts-image-wrapper img {
   min-height: 4.5rem;
-  width: 150%;
+  width: 100%;
   height: auto;
   position: relative;
   left: 50%;
