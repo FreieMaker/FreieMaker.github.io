@@ -1650,7 +1650,7 @@ body {
 
 .section--frontpage,
 .section--frontpage ~ .post-featuredImage {
-  height: 28rem;
+  height: 18rem;
 }
 
 @media (max-width: 767px) {
@@ -1882,7 +1882,7 @@ body {
 .section--postsWrapper {
   width: 100%;
   background: #f2f2f2;
-  padding-top: 0;
+  padding-top: 20;
   position: relative;
   clear: both;
   z-index: 400;
