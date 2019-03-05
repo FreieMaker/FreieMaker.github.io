@@ -1,0 +1,15 @@
+- name: Mario Lukas
+  role: Vorstand
+  about: Mario ist ein Maker...
+
+- name: Christoph Emonds
+  role: Vorstand
+  about: Christoph ist ein Maker...
+
+- name: Jan Thar
+  role: Mitglied
+  about: Jan ist ein Maker...
+
+- name: René Bohne
+  role: Mitglied
+  about: René ist ein Maker...    

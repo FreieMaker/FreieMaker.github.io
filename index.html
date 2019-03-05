@@ -38,3 +38,12 @@ title: Home
     </div>
   </div>
 </section>
+<section class="section--postsWrapper">
+<ul>
+{% for member in site.data.members %}
+  <li>
+      {{ member.name }}
+  </li>
+{% endfor %}
+</ul>
+</section>
