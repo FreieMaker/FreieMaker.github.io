@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Maker Faire Hannover 2017"
-date:   2017-06-09 01:00:00
+date:   2017-08-26 01:00:00
 author: "Chris"
-last_modified_at:  2017-10-04 01:00:00
+last_modified_at:  2017-08-26 01:00:00
 excerpt: "Der Verein hat viele Exponate in Hannover ausgestellt"
 categories: events
 tags:  Back
