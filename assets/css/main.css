@@ -1793,13 +1793,7 @@ body {
 }
 
 .postMeta-wrapper--frontpage {
-  position: absolute;
   display: inherit;
-  top: 150px;
-  left: 50%;
-  -webkit-transform: translateX(-50%);
-      -ms-transform: translateX(-50%);
-          transform: translateX(-50%);
   z-index: 500;
 }
 
