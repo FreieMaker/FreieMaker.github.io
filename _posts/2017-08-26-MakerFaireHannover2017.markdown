@@ -17,7 +17,7 @@ syntaxHighlighter: no
 Der Bericht folgt...
 
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}WP_20170826_18_11_28_Pro);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}WP_20170826_18_11_28_Pro.jpg);"></div>
 
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}WP_20170826_18_11_40_Pro);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}WP_20170826_18_11_40_Pro.jpg);"></div>
