@@ -4,7 +4,7 @@ title:  "Maker Faire Berlin 2016"
 date:   2016-10-04 01:00:00
 last_modified_at:  2016-10-04 01:00:00
 excerpt: "Wolfgang Back erhält Freie Maker Award"
-categories: history
+categories: events
 tags:  Back
 image:
   feature: freie-maker-award-back.jpg
