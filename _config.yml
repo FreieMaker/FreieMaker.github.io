@@ -4,7 +4,7 @@ markdown:            kramdown
 highlighter:         rouge
 
 # Permalinks
-#permalink:           /:title
+permalink:           /:title
 
 # Setup
 timezone:            Europe/Berlin # eg. Asia/Kathmandu
