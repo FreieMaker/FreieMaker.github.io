@@ -16,4 +16,7 @@ syntaxHighlighter: no
 ---
 Bericht folgt...
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}fabscanpi_award.jpg);"></div>
+
+
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}Berlin2018_1.jpg);"></div>
