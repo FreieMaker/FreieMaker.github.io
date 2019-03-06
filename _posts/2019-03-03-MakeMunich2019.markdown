@@ -17,7 +17,7 @@ syntaxHighlighter: no
 Ceyda, Cihan, Chris, Dimitri, Lukas, Rene und Jan waren mal wieder für die Freien Maker auf Tour. Zusammen mit PersonalPhotonics aus dem Fab Lab Aachen wurde die Make Munich unsicher gemacht. Natürlich auch mit einem eigenen Stand, denn man lebt ja schließlich vom Austausch untereinander. Eigentlich alles natürlich auch nachbaubar und Open-Source - wenn etwas noch nicht veröffentlicht sein sollte, liegt das höchstens daran, dass wir noch nicht die Zeit gefunden haben :)
 
 Das Spektrum ging dabei vom Upcycling alter Elektronik, wie einer Uhr aus analogen Anzeigeinstrumenten, Nutzung seltsamer Materialien mit dem Lasercutter
-([Durchscheinendes Steinfurnier für eine Wordclock](https://www.instructables.com/id/StoneLights/)), bis hin zu Projekten wie einem haptisch erfühlbaren Pong Spiel. Natürlich war auch der [FabScan Pi](https://fabscan.org/) dabei, allerdings nur in der mobilen, faltbaren Variante.
+([Durchscheinendes Steinfurnier für eine Wordclock](https://www.instructables.com/id/StoneLights/){:target="_blank"}), bis hin zu Projekten wie einem haptisch erfühlbaren Pong Spiel. Natürlich war auch der [FabScan Pi](https://fabscan.org/){:target="_blank"} dabei, allerdings nur in der mobilen, faltbaren Variante.
 
 Für etwas Beleuchtung, und um den Stand besser zu finden, sorgten einige Endless-Mirror-Objekte, allerdings offensichtlich noch zu klein, wir konnten nicht aus jeder Ecke der Halle direkt unseren Stand sehen.
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mm19a.jpg);"></div>
