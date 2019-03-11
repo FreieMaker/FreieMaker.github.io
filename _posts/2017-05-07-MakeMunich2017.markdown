@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Freie Maker Award für Mitch Altman auf Make Munich 2017"
+date:   2017-05-07 01:00:00
+author: "René Bohne"
+last_modified_at:  2017-05-07 01:00:00
+excerpt: "Der Verein hat viele Exponate in München ausgestellt"
+categories: events
+tags:  Back
+image:
+  feature: mm17.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+Wir waren einer von 130 Ausstellern auf der 4. Make Munich, doch neben dem Stand hatten wir ein besonderes Highlight auf diesem Event: Wir nutzen es, um Mitch Altman den Freie Maker Award 2017 zu überreichen.
+
+Die Preisverleihung wurde vom Veranstalter auf Video festgehalten:
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hJbGHOXpNjY?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+Die Preisverleihung wurde vom Veranstalter auf Video festgehalten:
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y0EfncPUyF8?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
