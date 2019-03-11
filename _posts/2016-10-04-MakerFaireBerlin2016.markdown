@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Maker Faire Berlin 2016"
+title:  "Freie Maker Award für Wolfgang Back auf Maker Faire Berlin 2016"
 date:   2016-10-04 01:00:00
 author: "René Bohne"
 last_modified_at:  2016-10-04 01:00:00
