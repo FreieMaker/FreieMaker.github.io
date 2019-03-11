@@ -21,8 +21,7 @@ Die Preisverleihung wurde vom Veranstalter auf Video festgehalten:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hJbGHOXpNjY?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
-Die Preisverleihung wurde vom Veranstalter auf Video festgehalten:
+Mario hat ein 360 Grad Video der Preisverleihung erstellt:
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y0EfncPUyF8?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
