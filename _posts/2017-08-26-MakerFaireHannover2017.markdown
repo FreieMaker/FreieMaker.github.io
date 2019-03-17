@@ -18,5 +18,10 @@ syntaxHighlighter: no
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}WP_20170826_18_11_40_Pro.jpg);"></div>
 
-Es gab aber auch viele kleinere Projekte auf unseren Tischen zu sehen.
+Ein weiteres Highlight war der "Make Your Own Give Away"-Stand. Bei dem mit einer Vielzahl von Vorrichtungen ein simpler LED-Flasher mit Knopfzelle  Besucher selbst zusammengebaut wurde. Die Fertigungsstraße bestand aus einem LED-Spender, pneumatische Biegemaschine, LED-Prüfstation, Vibrationsförder für Schrumpfschläuche, Knopfzellen-Magazin, Stempelstation, Aufkleber-Spender und der finalen Montagestation  An dem Wochenende wurden ca. 400 Give-Aways von Groß und Klein gebastelt.
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}WP_20170826_18_11_28_Pro.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}LED-Flasher-Stationen.jpg);"></div>
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}LED-Flasher2.jpg);"></div>
+
+Es gab aber auch viele kleinere Projekte auf unseren Tischen zu sehen, wie zum Beispiel die Arduino basierte Pong-Spielekonsole "chaw Teletron 200" mit AV-Ausgang um echtes Retrogaming zu erleben.
