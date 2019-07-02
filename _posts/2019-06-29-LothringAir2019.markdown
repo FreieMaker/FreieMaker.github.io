@@ -8,7 +8,7 @@ excerpt: "Der Verein hat viele Exponate in Aachen ausgestellt"
 categories: events
 tags:  LothringAir
 image:
-  feature: LothringAir2019-2.jpg
+  feature: LothringAir2019.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
