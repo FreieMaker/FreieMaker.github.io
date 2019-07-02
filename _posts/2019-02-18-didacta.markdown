@@ -15,4 +15,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Auf der Didacta 2019 wurden im Rahmen der Open Photonics Projekte des BMBF auch Ergebnisse aus Personal Photonics des Fab Lab Aachens vorgestellt, insbesondere von unseren beiden Mitglieder Sophy Stönner und Jan Thar. Womit wieder die üblichen Überschneidungen bei der Projektauswahl ergaben, so wurden acuh hierbei wieder Vereinsprojekte wie Spiegelikosaeder präsentiert.
+Auf der Didacta 2019 wurden im Rahmen der Open Photonics Projekte des BMBF auch Ergebnisse aus Personal Photonics des Fab Lab Aachens vorgestellt, insbesondere von unseren beiden Mitglieder Sophy Stönner und Jan Thar. Womit wieder die üblichen Überschneidungen bei der Projektauswahl ergaben, so wurden auch hierbei wieder Vereinsprojekte wie Spiegelikosaeder präsentiert.
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}didacta.jpg);"></div>
+
