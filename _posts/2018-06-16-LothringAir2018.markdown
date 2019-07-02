@@ -14,6 +14,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Bericht folgt...
+Lothringair 2018: Christoph Emonds hatte die gute Idee einfach mit UV-Markern und Blitzen auf einer nachleuchtenden zu malen (und seine Mate-Light-Kästen als Eyecatcher zu verwenden). Kam erstaunlich gut an, mit einem einfachen Aufbau. Im besten Fall kam ein Pärchen gerade raus aus dem Hinterraum, traf ein paar Freunde und ging zusammen mit denen wieder zurück in den Raum zum malen: "Das ist so geil, das müsst ihr auch mal probieren". Ein weiteres gutes Exponat das wir jetzt in der Hinterhand haben, und da das ganze gut funktioniert hatte: Auf das nächste Mal 2019!
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}LothringAir2018_2.jpg);"></div>
