@@ -2,7 +2,7 @@
 layout: post
 title:  "Maker Faire Hannover 2018"
 date:   2018-09-16 01:00:00
-author: "Mario Lukas"
+author: "Jan Thar"
 last_modified_at:  2018-09-16 01:00:00
 excerpt: "Der Verein hat viele Exponate in Hannover ausgestellt"
 categories: events
