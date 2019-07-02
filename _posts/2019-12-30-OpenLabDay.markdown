@@ -17,3 +17,4 @@ syntaxHighlighter: no
 
 jeden Dienstag gegen 19.30 Uhr haben wir unseren OpenLabDay. Hier kann jeder uns mal kennenlernen! Besucht uns in unserem Maker-Spaces kurz hinter Vaals(bei Aachen ):
 Schoolstraat 2, 6295 AV Lemiers
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}openlabdayhack.png);"></div>
