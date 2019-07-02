@@ -14,7 +14,11 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Vom 17. bis 19. Mai 2019 fand die fünfte Maker Faire Berlin statt. Zum zweiten mal in Folge wurde das FEZ Wuhlheide zum Veranstaltungsort. Da das Wetter wirklich sehr gut war, verteilten sich die Besucher auf die zwei großen Hallen und die riesige Außenanlage. Der Verein hatte einen ziemlich prominenten Stand direkt am Eingang der Multifunktionshalle. Das führte zu zahlreichen Gesprächen mit Makern und Besuchern. Dieses Jahr waren wir sogar am Schülertag dabei! Das bedeutet zwar erhöhten Aufwand, da wir bereits Donnerstag anreisen und aufbauen mussten, um am Freitag die Schulklassen begrüßen zu drüfen, aber es hat uns sehr viel Spaß gemacht! Außerdem war es eine gute Gelegenheit, um mit anderen Ausstellern ins Gespräch zu kommen und eine ruhige Runde über die gesamte Anlage zu drehen. Freitagabend war das Get-together, bei dem wir viele alte Bekannte wieder getroffen haben. Allerdings war insgesamt weniger los als im Vorjahr, was sicher mit dem Schülertag zu tun hat.
+Vom 17. bis 19. Mai 2019 fand die fünfte Maker Faire Berlin statt. Zum zweiten mal in Folge wurde das FEZ Wuhlheide zum Veranstaltungsort. Da das Wetter wirklich sehr gut war, verteilten sich die Besucher auf die zwei großen Hallen und die riesige Außenanlage.
+
+Der Verein hatte einen ziemlich prominenten Stand direkt am Eingang der Multifunktionshalle. Das führte zu zahlreichen Gesprächen mit Makern und Besuchern.
+
+Dieses Jahr waren wir sogar am Schülertag dabei! Das bedeutet zwar erhöhten Aufwand, da wir bereits Donnerstag anreisen und aufbauen mussten, um am Freitag die Schulklassen begrüßen zu drüfen, aber es hat uns sehr viel Spaß gemacht! Außerdem war es eine gute Gelegenheit, um mit anderen Ausstellern ins Gespräch zu kommen und eine ruhige Runde über die gesamte Anlage zu drehen. Freitagabend war das Get-together, bei dem wir viele alte Bekannte wieder getroffen haben. 
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfb19a.jpg);"></div>
 
