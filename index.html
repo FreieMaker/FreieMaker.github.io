@@ -30,7 +30,9 @@ title: Home
                 {% endif %}
                 <a class="postArticle-title" href="{{ post.url }}">{{ post.title }}</a>
               </article>
+              {% if post.categories contains 'events' %}
               <div class="block-postMeta">{{ post.date | date_to_string }}</div>
+              {% endif %}
             </div>
           </li>
         {% endfor %}
