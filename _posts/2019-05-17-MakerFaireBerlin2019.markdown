@@ -18,11 +18,11 @@ Vom 17. bis 19. Mai 2019 fand die fünfte Maker Faire Berlin statt. Zum zweiten 
 
 Der Verein hatte einen ziemlich prominenten Stand direkt am Eingang der Multifunktionshalle. Das führte zu zahlreichen Gesprächen mit Makern und Besuchern.
 
-Dieses Jahr waren wir sogar am Schülertag dabei! Das bedeutet zwar erhöhten Aufwand, da wir bereits Donnerstag anreisen und aufbauen mussten, um am Freitag die Schulklassen begrüßen zu drüfen, aber es hat uns sehr viel Spaß gemacht! Außerdem war es eine gute Gelegenheit, um mit anderen Ausstellern ins Gespräch zu kommen und eine ruhige Runde über die gesamte Anlage zu drehen. Freitagabend war das Get-together, bei dem wir viele alte Bekannte wieder getroffen haben. 
+Dieses Jahr waren wir sogar am Schülertag dabei! Das bedeutet zwar erhöhten Aufwand, da wir bereits Donnerstag anreisen und aufbauen mussten, um am Freitag die Schulklassen begrüßen zu drüfen, aber es hat uns sehr viel Spaß gemacht! Außerdem war es eine gute Gelegenheit, um mit anderen Ausstellern ins Gespräch zu kommen und eine ruhige Runde über die gesamte Anlage zu drehen. Freitagabend war das Get-together, bei dem wir viele alte Bekannte wieder getroffen haben.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfb19a.jpg);"></div>
 
-Den Stand teilten wir uns mit dem Fab Lab Aachen, da Jan, Ceyda und Cihan zu beiden Organisationen gehören und wir so neben unseren Maker-Projekten auch die neuste Forschung ausstellen konnten. Unser Blickfand war der [Infinity Obelisk](https://www.instructables.com/id/Infinity-Obelsik/) von Jan. Die Funktionsweise erklärten wir am kleineren Exemplar, dem [Enless-Ikosahedron](https://www.instructables.com/id/Endless-Ikosahedron/). Das Interesse der Besucher war wieder sehr groß und wir haben von ersten Leuten Feedback erhalten, dass sie die Projekte nun nachbauen.
+Den Stand teilten wir uns mit dem Fab Lab Aachen, da Jan, Ceyda und Cihan zu beiden Organisationen gehören und wir so neben unseren Maker-Projekten auch die neuste Forschung ausstellen konnten. Unser Blickfand war der [Infinity Obelisk](https://www.instructables.com/id/Infinity-Obelsik/){:target="_blank"} von Jan. Die Funktionsweise erklärten wir am kleineren Exemplar, dem [Endless-Ikosahedron](https://www.instructables.com/id/Endless-Ikosahedron/){:target="_blank"}. Das Interesse der Besucher war wieder sehr groß und wir haben von ersten Leuten Feedback erhalten, dass sie die Projekte nun nachbauen.
 
 René hat zwei Videos gedreht, die ein paar Highlights der Maker Faire Berlin 2019 zeigen:
 
