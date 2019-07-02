@@ -14,6 +14,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Bericht folgt...
+Mal etwas anderes: Eine Medizinmesse, aber ist ja nicht so das wir (bzw. das Personal Photonics Projekt des Fab Lab Aachens im Rahmen der Open Innovation Calls des Bundesministeriums für Bildung und Forschung, aber da gibt es ja ganz leichte Personalüberschneidungen) nichts zum Thema ausstellen können. Interessanterweise war wieder einmal der Badgemaker von Moritz Messerschmidt das Highlight, aber auch Fabscan, andere Tools, Poster und natürlich durch uns entwickelte Hilfsmittel wurden ausgestellt. Hat insgesamt wie üblich viel Spass gemacht.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}Medica2018.jpg);"></div>
