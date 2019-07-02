@@ -17,4 +17,4 @@ syntaxHighlighter: no
 Auf dem Straßenfestival LothringAir 2019 im Herzen von Aachen haben wir unsere Makes ausgestellt. Wir hatten unter anderem Endless-Mirror-Cubes, LED-Tower, Uhranzeigegerät und einen DIY-Geigermüller-Zähler dabei.
 Bei einem Lötworkshop könnte Groß und Klein seine Lötkenntnisse bei einem LED-Badges unter Beweis stellen. 
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}LothringAir2018_2.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}LothringAir2019-2kl.jpg);"></div>
