@@ -8,7 +8,7 @@ excerpt: "Der Verein hat viele Exponate in Berlin ausgestellt"
 categories: events
 tags:  Back
 image:
-  feature: Berlin2018.jpg
+  feature: openlabdayhack.png
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
