@@ -4,8 +4,8 @@ title:  "OpenLabDay"
 date:   2020-02-30 01:00:00
 author: "Christopher Werner"
 last_modified_at:  2020-02-30 01:00:00
-excerpt: "Open Lab Day in Lemies"
-categories: events
+excerpt: "Open Lab Day in Lemiers"
+categories: announcements
 tags:  Openlabday
 image:
   feature: openlabdayhack.png
