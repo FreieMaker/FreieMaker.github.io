@@ -14,7 +14,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Wir waren einer von 130 Ausstellern auf der 4. Make Munich, doch neben dem Stand hatten wir ein besonderes Highlight auf diesem Event: Wir nutzen es, um Mitch Altman den Freie Maker Award 2017 zu überreichen.
+Wir waren einer von 130 Ausstellern auf der 4. Make Munich. Neben dem Stand hatten wir ein besonderes Highlight auf diesem Event: Wir nutzen die Gelegenheit, um Mitch Altman den Freie Maker Award 2017 zu überreichen.
 
 Die Preisverleihung wurde vom Veranstalter auf Video festgehalten:
 <div class="videoWrapper">
