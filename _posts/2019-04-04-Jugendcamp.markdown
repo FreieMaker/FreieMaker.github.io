@@ -14,7 +14,8 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Im Rahmen von Aktion Mensch, Personal Photonics, Make Light, Freie Maker - jedenfalls gefördert vom BMBF - waren unsere Mitglieder Sophy Stönner und Jan Thar zum Support der Projektwerkstatt des Jugendcamps 2019 unterwegs. Dabei wurden natürlich auch als Inspirationsquelle viele alte Projekte präsentiert. Zusätzlich hatten wir noch die OpenLights aus MadeForMy Wheelchair mit im Gepäck, wobei wir da direkt ein paar Gedanken hatten was man vielleicht sonst so als Beleuchtung machen kann. Naja, wie das nummal so ist, damit sind wir dann erst nach der Veranstaltung etwas weiter gekommen:
+Im Rahmen von Aktion Mensch, Personal Photonics, Make Light, Freie Maker - jedenfalls gefördert vom BMBF - waren unsere Mitglieder Sophy Stönner und Jan Thar zum Support der Projektwerkstatt des [Jugendcamps 2019](https://www.aktion-mensch.de/aktionstag-5-mai/aktionstag-2019/jugendaktionscamp.html){:target="_blank"} unterwegs. 
+Dabei wurden natürlich auch als Inspirationsquelle viele alte Projekte präsentiert. Zusätzlich hatten wir noch die OpenLights aus MadeForMy Wheelchair mit im Gepäck, wobei wir da direkt ein paar Gedanken hatten was man vielleicht sonst so als Beleuchtung machen kann. Naja, wie das nummal so ist, damit sind wir dann erst nach der Veranstaltung etwas weiter gekommen:
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}AMJC_0.jpg);"></div>
 
 Aber natürlich gab da auch viele praxisnahere spannende Ideen wofür man mal was an Hilfsmitteln entwicklen könnte, wie z.B. wohin mit der Krücke, wenn man mal die Hand freihaben muss, mometnan denken wir da über einb Einhaksystem nach:
