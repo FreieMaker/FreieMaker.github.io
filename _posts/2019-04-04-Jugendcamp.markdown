@@ -28,7 +28,7 @@ Aber natürlich gab da auch viele praxisnahere spannende Ideen wofür man mal wa
 
 Unsere großen Buttons für einen Rollstuhlfahrer sind wohl auch für andere Rollifahrer interessant, jedenfalls konnten wir direkt noch mal welche bauen und zum Testen schicken. Lektion gelernt: Am besten das Design noch mal skalierbarer machen, jeder hat so seine eigene optimalen Vorstellungen bezüglich Grösse und Tastendruck.
 
-Insgesamt also: Hat superviel Spass gemacht, viel gelernt und einiges an (freiwilligen ^^) Hausaufgaben mit nachhause genommen.
+Insgesamt also: Hat superviel Spass gemacht, viel gelernt und einiges an (freiwilligen ^^) Hausaufgaben mit nach Hause genommen.
 
 
 
