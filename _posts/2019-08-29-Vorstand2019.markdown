@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Neuer Vorstand"
+date:   2019-08-29 01:00:00
+author: "René Bohne"
+last_modified_at:  2019-08-29 01:00:00
+excerpt: "Jan und Chris werden unterstützt von Christoph und Felix"
+categories: events
+tags:  Back
+image:
+  feature: Vorstand.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+Bei der heutigen Mitgliederversammlung wurde einstimmig ein neuer Vorstand gewählt.
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}Vorstand.jpg);"></div>
+
+Der Vorstand besteht nun aus:
+
+* Vorsitzender: Jan Thar
+* Stellv. Vorsitzender: Christopher Werner
+* Beisitzende: Christoph Emonds, Felix Plitzko
