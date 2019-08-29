@@ -8,7 +8,7 @@ excerpt: "Förderung von Volks- und Berufsbildung in Technik, Kunst und Handwerk
 categories: events
 tags:  Back
 image:
-  feature: eumakerspace.jpg
+  feature: V1_Raumschiff.png
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -16,7 +16,7 @@ syntaxHighlighter: no
 ---
 Am 18. September 2015 haben wir unsere Satzung beschlossen.
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}GrandOpening.png);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}V1_Raumschiff.png);"></div>
 
 # Satzung
 des Freie Maker e.V.
