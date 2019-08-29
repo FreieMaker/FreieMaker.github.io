@@ -1,0 +1,153 @@
+---
+layout: post
+title:  "Satzung"
+date:   2016-06-25 08:00:00
+author: "René Bohne"
+last_modified_at:  2016-06-25 01:00:00
+excerpt: "Förderung von Volks- und Berufsbildung in Technik, Kunst und Handwerk"
+categories: events
+tags:  Back
+image:
+  feature: eumakerspace.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+Am 18. September 2015 haben wir unsere Satzung beschlossen.
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}GrandOpening.png);"></div>
+
+# Satzung
+des Freie Maker e.V.
+
+## Präambel
+In der heutigen Gesellschaft ermöglicht der rasante technische Fortschritt durch neue Techniken,
+Zugang zu unermesslichen Wissen durch das Internet sowie die einfachere Verfügbarkeit von
+Werkzeugen und Ressourcen aller Art einen Umbruch in der Art und Weise, wie wir mit Dingen, die
+uns umgeben, umgehen. Es ist viel einfacher die Welt um sich herum selber mit Hilfe von Technik
+zu gestalten und diese Technik mit anderen Menschen zu teilen. Die Makerbewegung setzt sich aus
+Menschen zusammen, die aktiv Technik gestalten, und das Wissen über das Wie teilen. Diesen
+gesellschaftlichen Wandel vom reinen Konsument hin zum Produzent gilt es zu begleiten und dabei
+alle Menschen einzubeziehen.
+
+## § 1 Name, Sitz, Geschäftsjahr
+Der Verein soll ins Vereinsregister eingetragen werden und heißt dann “Freie Maker e.V.”. Er hat
+seinen Sitz in Aachen. Geschäftsjahr ist das Kalenderjahr.
+
+## § 2 Vereinszweck
+Zweck des Vereins ist die Förderung von Volks- und Berufsbildung in Technik, Kunst und
+Handwerk. Wichtige Ziele dabei sind das Vermitteln von Wissen über die Funktionweise von
+Technik sowie die Erlangung handwerklicher Fähigkeiten. Der Vereinszweck soll insbesondere
+durch folgende Mittel erreicht werden:
+• Organisation von Informations- und Bildungsveranstaltungen in Form von Vorträgen,
+Schulungen und Workshops zu aktuellen Themen
+• Anbieten einer Plattform für den Erfahrungsaustausch für Mitglieder und Nichtmitglieder
+• Initierung von Projekten deren Ziel das gemeinsame Bauen und Tüfteln ist, um darüber
+Wissen über technische Verfahren und Zusammenhänge zu erfahren und zu vermitteln
+• Anregen und Beteiligen von und an Diskussionen über den Einfluss von Technik und Kunst
+auf die Gesellschaft
+• Unterstützung durch Rat und Tat bei der Umsetzung von Projekten, deren Inhalt sich im
+wesentlichen aus Technik, Handwerk oder Kunst zusammensetzt
+• Aufbau eines Kontaktnetzwerks zwischen Mitgliedern und Schaffung von Ansprechpartnern
+für Außenstehende
+
+## § 3 Selbstlosigkeit
+1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des
+Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
+2. Der Verein ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
+3. Mittel des Vereins dürfen nur für satzungsmäßige Zwecke verwendet werden. Die Mitglieder
+erhalten keine Zuwendungen aus Mitteln des Vereins.
+4. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind oder
+durch unverhältnismäßig hohe Vergütung begünstigt werden.
+
+## § 4 Organe des Vereins
+Organe des Vereins sind:
+• die Mitgliederversammlung
+• der Vorstand
+
+## § 5 Mitgliedschaft
+1. Mitglied kann jede natürliche oder juristische Person werden.
+2. Über Anträge auf Mitgliedschaft, die in Textform an den Vorstand zu richten sind,
+entscheidet der Vorstand.
+3. Die Mitglieder sind verpflichtet, die festgelegten Mitgliedsbeiträge zu zahlen und die
+satzungsgemäßen Zwecke des Vereins aktiv oder fördernd zu unterstützen.
+4. Die Mitgliedschaft endet mit Tod, Austritt oder Ausschluß aus dem Verein, bei juristischen
+Personen auch durch Auflösung und Erlöschen.
+5. Der Austritt kann nur zum Ende eines Kalenderjahres erfolgen und muss dem Vorstand
+mindestens einen Monat vor dem Jahresende in Textform mitgeteilt werden.
+6. Bei groben Verletzungen der Vereinspflichten, z.B. Nichtzahlung des Mitgliedsbeitrages
+trotz einmaliger Mahnung, kann der Vorstand den Ausschluß eines Mitglieds beschließen.
+7. Die Mitglieder sind verpflichtet, dem Vorstand eine elektronische Adresse (z.B. E-MailAdresse) zur Kommunikation in Textform mitzuteilen. Mitteilungen des Vorstands an das
+Mitglied erfolgen an diese elektronische Adresse. Ändert sich die Adresse, so ist diese
+Änderung dem Vorstand unmittelbar anzuzeigen.
+
+## § 6 Mitgliederversammlung
+1. Die ordentliche Mitgliederversammlung findet einmal jährlich statt.
+2. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn der Vorstand es für
+erforderlich erachtet oder wenn mindestens ein Drittel der Mitglieder dies unter Angabe
+eines Grundes bei dem Vorstand beantragen.
+3. Die Mitgliederversammlung ist durch ein Vorstandsmitglied in Textform unter Einhaltung
+einer Ladungsfrist von zwei Wochen unter Angabe der Tagesordnung einzuberufen. Jede
+ordnungsgemäß einberufene Mitgliederversammlung ist ab einer Zahl von drei erschienenen
+Mitgliedern beschlussfähig. Die Mitgliederversammlung fasst mit der einfachen Mehrheit
+der anwesenden Mitglieder Beschlüsse.
+4. Es werden Mitgliedsbeiträge erhoben. Über Fälligkeit und Höhe entscheidet die
+Mitgliederversammlung.
+5. Beschlüsse der Mitgliederversammlung werden protokolliert und von einem
+Vorstandsmitglied unterschrieben.
+6. Aufgaben der Mitgliederversammlung:
+1. Über Satzungsänderungen und über die Auflösung des Vereins beschließt die
+Mitgliederversammlung mit Zweidrittelmehrheit der anwesenden Mitglieder.
+2. Die Mitgliederversammlung beschließt über die Entlastung des Vorstandes.
+3. Die Mitgliederversammlung wählt aus den Vereinsmitgliedern einen
+Vorstandsvorsitzenden, einen stellvertretenden Vorstandsvorsitzenden, sowie
+mindestens einen Vorstandsbeisitzer für zwei Jahre als Vorstand.
+4. Die Mitgliederversammlung kann mit Zweidrittelmehrheit der Vereinsmitglieder eine
+außerordentliche Neuwahl des Vorstands in frühstens zwei Wochen beschließen.
+
+## § 7 Teilnahme an Mitgliederversammlung per Sprach- und Videokommunikation (SVK)
+1. Mitglieder können ohne physische Präsenz an Mitgliederversammlungen per SVK
+teilnehmen und haben dann die gleichen Rechte und Pflichten wie physisch anwesende
+Mitglieder. Voraussetzung ist, dass alle Teilnehmer der Versammlung einwandfrei als
+Mitglieder identifiziert werden können und die Versammlung unter Hinweis auf eine
+geeignete Kommunikationsadresse oder -möglichkeit für die SVK einberufen wurde.
+2. Wurde eine Mitgliederversammlung unter Hinweis auf die Möglichkeit einer Teilnahme per
+SVK einberufen, so ist im Rahmen der Möglichkeiten des Vereins technisch sicherzustellen,
+dass die Teilnahme allen Mitgliedern offensteht.
+3. Beschlüsse, die Aufgrund eines Gesetzes oder aus anderen Gründen eine physische Präsenz
+der Abstimmenden erfordern, können nur auf einer Mitgliederversammlung gefasst werden,
+bei der alle Teilnehmer physisch anwesend sind.
+
+## § 8 Vorstand
+1. Der Vorstand des Vereins im Sinne von §26 BGB besteht aus dem Vorsitzenden, dem
+stellvertretenden Vorsitzenden sowie den von der Mitgliederversammlung gewählten
+Beisitzern.
+2. Beschlüsse des Vorstandes werden mit einfacher Mehrheit gefasst; hierüber werden
+Protokolle angefertigt.
+3. Die Vertretungsmacht des Vorstands ist dahingehend beschränkt, dass für Rechtsgeschäfte,
+die den Verein mit mehr als 500,00 Euro verpflichten, ein Vorstandsbeschluss erforderlich
+ist.
+4. Der Verein wird gerichtlich und außergerichtlich durch den Vorsitzenden, seinen
+Stellvertreter oder die Beisitzer vertreten. Der Vorsitzende und der stellvertretende
+Vorsitzende sind jeweils einzelvertretungsberechtigt. Beisitzer sind gemeinsam mit einem
+weiteren Vorstandsmitglied vertretungsberechtigt. Auf Vorstandsbeschluss können für
+einzelne außergerichtliche Aufgaben, beispielsweise die Verwaltung der Finanzen, Vertreter
+aus dem Vorstand benannt werden, denen diese Aufgaben durch die Erteilung einer
+Einzelvollmacht übertragen werden. Diese Erteilung einer Einzelvollmacht kann
+einhergehen mit der Benennung eines Amts, das das bevollmächtigte Vorstandsmitglied
+übernimmt.
+5. Endet die Vereinsmitgliedschaft eines Vorstandmitglieds oder legt ein Vorstandsmitglied sein
+Amt nieder, und verbleiben weniger als drei Mitglieder im Vorstand, so muss eine
+außerordentliche Neuwahl des gesamten Vorstands stattfinden.
+6. Eine außerordentliche Neuwahl des Vorstands findet spätestens acht Wochen nach dem
+Ereignis statt, das die Neuwahl bedingt.
+7. Scheidet der Vorsitzende oder sein Stellvertreter aus dem Vorstand aus und verbleiben
+mindestens drei Mitglieder im Vorstand, so wählen diese aus ihrem Kreis einen neuen
+Vorsitzenden bzw. Stellvertreter.
+8. Der Vorstand bleibt im Amt bis ein neuer Vorstand gewählt wurde.
+
+## § 9 Auflösung / Wegfall des steuerbegünstigten Zweckes
+Bei Auflösung des Vereins oder bei Wegfall seines steuerbegünstigten Zweckes fällt das Vermögen
+der Körperschaft an die Stiftungsgemeinschaft anstiftung & ertomis, gemeinnützige GmbH,
+München, die es für gemeinnützige Zwecke zu verwenden hat.
