@@ -40,16 +40,17 @@ Zweck des Vereins ist die Förderung von Volks- und Berufsbildung in Technik, Ku
 Handwerk. Wichtige Ziele dabei sind das Vermitteln von Wissen über die Funktionweise von
 Technik sowie die Erlangung handwerklicher Fähigkeiten. Der Vereinszweck soll insbesondere
 durch folgende Mittel erreicht werden:
-• Organisation von Informations- und Bildungsveranstaltungen in Form von Vorträgen,
+
+* Organisation von Informations- und Bildungsveranstaltungen in Form von Vorträgen,
 Schulungen und Workshops zu aktuellen Themen
-• Anbieten einer Plattform für den Erfahrungsaustausch für Mitglieder und Nichtmitglieder
-• Initierung von Projekten deren Ziel das gemeinsame Bauen und Tüfteln ist, um darüber
+* Anbieten einer Plattform für den Erfahrungsaustausch für Mitglieder und Nichtmitglieder
+* Initierung von Projekten deren Ziel das gemeinsame Bauen und Tüfteln ist, um darüber
 Wissen über technische Verfahren und Zusammenhänge zu erfahren und zu vermitteln
-• Anregen und Beteiligen von und an Diskussionen über den Einfluss von Technik und Kunst
+* Anregen und Beteiligen von und an Diskussionen über den Einfluss von Technik und Kunst
 auf die Gesellschaft
-• Unterstützung durch Rat und Tat bei der Umsetzung von Projekten, deren Inhalt sich im
+* Unterstützung durch Rat und Tat bei der Umsetzung von Projekten, deren Inhalt sich im
 wesentlichen aus Technik, Handwerk oder Kunst zusammensetzt
-• Aufbau eines Kontaktnetzwerks zwischen Mitgliedern und Schaffung von Ansprechpartnern
+* Aufbau eines Kontaktnetzwerks zwischen Mitgliedern und Schaffung von Ansprechpartnern
 für Außenstehende
 
 ## § 3 Selbstlosigkeit
@@ -63,8 +64,9 @@ durch unverhältnismäßig hohe Vergütung begünstigt werden.
 
 ## § 4 Organe des Vereins
 Organe des Vereins sind:
-• die Mitgliederversammlung
-• der Vorstand
+
+* die Mitgliederversammlung
+* der Vorstand
 
 ## § 5 Mitgliedschaft
 1. Mitglied kann jede natürliche oder juristische Person werden.
