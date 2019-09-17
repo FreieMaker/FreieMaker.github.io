@@ -15,7 +15,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Jeden Donnerstag gegen 19.30 Uhr haben wir unseren OpenLabDay. Hier kann jeder vorbeikomen und uns und die Werkzeuge kennenlernen! Besucht uns in unserem Maker-Spaces kurz hinter Vaals (bei Aachen):
+Jeden Donnerstag gegen 20.00 Uhr haben wir unseren OpenLabDay. Hier kann jeder vorbeikomen und uns und die Werkzeuge kennenlernen! Besucht uns in unserem Maker-Spaces kurz hinter Vaals (bei Aachen):
 Schoolstraat 2, 6295 AV Lemiers
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}openlabday.jpg);"></div>
 
