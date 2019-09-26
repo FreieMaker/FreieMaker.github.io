@@ -14,4 +14,4 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Momentan sind die Freien Maker im Urlaub in Mildenberg im CCCamp, mehr Bilder und Bericht dann wenn wir wieder etwas fitter sind...
+Freie Maker waren im Urlaub auf dem CCCamp 2019 in Mildenberg. Mit dem üblichen Leuchtzeug unterwegs, wobei man bei diesem Event schon sagen konnte um nicht unter den anderen Besuchern aufzufallen ^^. Wie auch bei unserem letzten Besuch dort eine magische Mischung insbesonders Nachts aus Licht, Nebel, Musik und lauter netten Leuten, von denen man viel lernen konnte. 
