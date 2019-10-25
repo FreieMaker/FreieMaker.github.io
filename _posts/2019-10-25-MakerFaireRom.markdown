@@ -29,7 +29,7 @@ Auch schon bekannt, mit neune Versionen unterwegs die Photogrammetrie-3D-Scanner
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019openscan.jpg);"></div>
 
 Als weitere Werkzeuge für die Makerdspace-erweiterung: Der neue Prusa Mini macht einen sehr guten Eindruck, und die an vielen Ständen laufenden Styroporschneidemaschinen sind interessant.
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019mfr2019prusa.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019prusa.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019styropor.jpg);"></div>
 
 Wie wir schon bei Twang und 1D-Pong und dem Highstriker gesehen haben: 1D-Spielen gehört die Zukunft.
@@ -38,6 +38,6 @@ Wie wir schon bei Twang und 1D-Pong und dem Highstriker gesehen haben: 1D-Spiele
 Auch wenn auch hier auf Makers Care gesetzt wurde...
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019makercare.jpg);"></div>
 ...muss man allerdings sagen: Die Rikscha-Fahrer sahen etwas unterernährt und ungesund aus.
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019mfr2019sceleton.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019sceleton.jpg);"></div>
 
 
