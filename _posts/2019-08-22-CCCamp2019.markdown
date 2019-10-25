@@ -15,3 +15,17 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 Freie Maker waren im Urlaub auf dem CCCamp 2019 in Mildenberg. Mit dem üblichen Leuchtzeug unterwegs, wobei man bei diesem Event schon sagen konnte um nicht unter den anderen Besuchern aufzufallen ^^. Wie auch bei unserem letzten Besuch dort eine magische Mischung insbesonders Nachts aus Licht, Nebel, Musik und lauter netten Leuten, von denen man viel lernen konnte. 
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019cyberwehr.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019el.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019forrest.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019general.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019harbour.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019hill.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019obelisk.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019palm.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019rocket.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019rocket2.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019tiki.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019unicorn.jpg);"></div>
+
