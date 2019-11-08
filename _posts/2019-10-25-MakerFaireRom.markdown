@@ -16,14 +16,14 @@ syntaxHighlighter: no
 ---
 Auf zur Makerfaire Rome... bescheidene 7 Messehallen mit Makern, Startups, Unis und allem drumherum. Ausser der eigenen Standbetreuung leider nicht viel Zeit gehabt zum umschauen, aber ein paar nette Bilder gibt es schon:
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019painting.jpg);"></div>
-So gab es in allen Hallen einige (interaktive) Makerkunstwerke, besonders gut fand ich die obige Zeichenmaschinierie
+So gab es in allen Hallen einige (interaktive) Makerkunstwerke, besonders gut fand ich die obige Zeichenmaschine.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019holo.jpg);"></div>
 Peppers Ghost Pyramiden gab es hier relativ viele, auch wir haben ja mal welche gebaut.
 
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019pinball.jpg);"></div>
-Auf der Makerfaire Berlin hatten wir ja swchon die tollen Flipper und ähnliches in kleinem Umfang gesehen, hier gabs das in gross (das ist nur ein kleiner Ausschnitt).
+Auf der Makerfaire Berlin hatten wir ja schon die tollen Flipper und ähnliches in kleinem Umfang gesehen, hier gabs das in gross (das ist nur ein kleiner Ausschnitt).
 
 Auch schon bekannt, mit neune Versionen unterwegs die Photogrammetrie-3D-Scanner-Alternative zum FabScan.
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019openscan.jpg);"></div>
