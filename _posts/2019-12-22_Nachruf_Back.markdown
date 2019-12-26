@@ -2,7 +2,7 @@
 layout: post
 title:  "Nachruf Wolfgang Back"
 date:   2019-12-22 01:00:00
-author: "Jan Thar"
+author: "Jan Thar, René Bohne"
 last_modified_at:  2019-12-22 01:00:00
 excerpt: "Wolfgang Back "
 categories: events
