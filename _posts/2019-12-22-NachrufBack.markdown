@@ -21,7 +21,7 @@ Insbesondere Wolfgangs Neugierde für neue Technologien und die Bereitschaft, da
 Im folgenden Video von HiZ sprechen Heinz Schmitz und Wolfgang Back u.a. über die Maker Bewegung, die Maker Faire Berlin und den freie Maker Award, den wir Wolfgang verliehen hatten.
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=OnMTwxLiHbc?rel=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OnMTwxLiHbc" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Jeder normale Preisträger eines normalen Preises wird wohl seine Trophäe einfach an einem schönen Ort aufstellen. Wolfgang hingegen hat seinen Award vorher noch modifiziert, da er gerne Strom aus der Steckdose statt Batterien als Energiequelle nutzen wollte. Ein echter Maker!
