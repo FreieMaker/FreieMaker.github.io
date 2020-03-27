@@ -22,4 +22,4 @@ Schoolstraat 2, 6295 AV Lemiers
 # Slack
 
 Wer es nicht nach Lemiers schafft, kann sich in Slack mit uns austauschen:
-[Slack Einladung](https://join.slack.com/t/freie-maker/shared_invite/enQtNzM5NDAxNTA1MDI5LTcwZmFkNzY3MjgxZTk3YmMxMjEyZDNjMmM5Mzg2ZGMxNmRiNzQ1ZTVjZTA5MDVkMTM2ODU2NGRjNzQ2MGU1MDQ){:target="_blank}
+[Slack Einladung](https://join.slack.com/t/freie-maker/shared_invite/zt-d5m5abvp-Tp_YvBSpusGmmT6bFfTpKw){:target="_blank}
