@@ -32,5 +32,5 @@ Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen blei
 
 # Slack
 
-Wer es nicht nach Lemiers schafft, kann sich in Slack mit uns austauschen:
+Bitte stellt eure Fragen im Livestream auf Youtube oder Facebook. Wenn ihr in der Zwischenzeit Fragen habt, findet ihr uns auf Slack:
 [Slack Einladung](https://join.slack.com/t/freie-maker/shared_invite/zt-d5m5abvp-Tp_YvBSpusGmmT6bFfTpKw){:target="_blank}
