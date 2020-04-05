@@ -28,7 +28,11 @@ layout: default
           <ul class="postMeta">
             <li class="postMeta-datetime">
               <time datetime="{{ page.date }}">
+                {% if post.categories contains 'announcements' %}
+                Ankündigung
+                {% else %}
                 {{ page.date | date_to_string }}
+                {% endif %}
               </time>
             </li>
             <li class="postMeta-author">
