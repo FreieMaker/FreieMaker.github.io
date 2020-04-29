@@ -26,17 +26,18 @@ Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen blei
 ## Episode 5: 3D-Scanner Special
 
 Special Guests:
-Peter König, Stellv. Chefredakteur Make: Deutschland,
-Jens Hakel
+</br>Peter König, Stellv. Chefredakteur Make: Deutschland,
+</br>Jens Hakel
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eAWiw15GF9s?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Episode 4: Hochspannung, Strom und DIY Projekte
+
 Special Guests:
-Mayer Makes, mayermakes.at
-Roger Leifert, Geschäftsführer www.ak-modul-bus.de
+</br>Mayer Makes, mayermakes.at,
+</br>Roger Leifert, Geschäftsführer www.ak-modul-bus.de
 
 
 <div class="videoWrapper">
@@ -45,22 +46,24 @@ Roger Leifert, Geschäftsführer www.ak-modul-bus.de
 
 ## Episode 3: Roboter und Robotikprojekte zu Ostern
 Special Guests:
-Daniel Bachfeld, Chefredakteur Make: Deutschland,
-Heinz Schmitz, heinz-schmitz.org
+</br>Daniel Bachfeld, Chefredakteur Make: Deutschland,
+</br>Heinz Schmitz, heinz-schmitz.org
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e7nORPZib0w?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Episode 2: Eine ganz normale Online-Lab-Night
+
 Special Guest:
-Thomas Sebastian mit seiner IoT Wetterstation
+</br>Thomas Sebastian mit seiner IoT Wetterstation
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KKUXKE9cm5M?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Episode 1: Der Start
+
 Jan, Rick und René haben sich online getroffen, um einene Ausgleich für den Wegfall des Open Lab Days zu finden.
 
 <div class="videoWrapper">
