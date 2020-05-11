@@ -16,12 +16,31 @@ syntaxHighlighter: no
 ---
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Donnerstag ab 21 Uhr hier:
 
+
+Seit mehr als 10 Jahren gehören 3D-Drucker zu den Werkzeugen, die die Maker-Bewegung revolutioniert haben. Neben einer beachtlichen Entwicklung der Hardware, ist es vor allem der modernen Software zu verdanken, dass 3D-Drucker heute auch von Einsteigern leicht zu bedienen sind. Profis steuern ihre Geräte mittlerweile über das Netzwerk und überwachen sie mit Kameras.
+In dieser Episode diskutieren wir die Entwicklung der 3D-Drucker und freuen uns besonders auf das Gespräch mit Gina, die das octopring.org Projekt betreut.
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zlBk5vWwJCs?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+# Vergangene Episoden
+
+## Episode 7: Lasercutter
+
+Das wichtigste Gerät in jedem FabLab ist der Lasercutter. Allerdings waren diese Werkzeuge bisher ziemlich teuer. In diesem Livestream sprechen wir mit Pionieren der Maker Community und erklären, warum preiswerte Lasercutter heute in keinem Makerspace und in keiner privaten Maker-Werkstatt mehr fehlen sollten!
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WyHJX2dIvnk?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Episode 6: CNC Fräsen
+
+In dieser Folge geht es um CNC Maschinen. Mario wird seine Portalfräse im Hobbykeller zeigen. Chris hat diverse computergesteuerte Maschinen im Einsatz und Moritz wird seine riesige Maslow  CNC sogar live laufen lassen.  Jan hat natürlich auch viele CNC Maschinen in seiner Werkstatt.
+
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jJgPTsvOOgM?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-
-
-# Vergangene Episoden
 
 ## Episode 5: 3D-Scanner Special
 
