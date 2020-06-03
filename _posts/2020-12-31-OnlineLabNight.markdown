@@ -16,6 +16,27 @@ syntaxHighlighter: no
 ---
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Donnerstag ab 21 Uhr hier:
 
+## 04.06.2020 21 Uhr
+
+Wir bauen unsere eigenen Controller und Synthesizer und erzeugen damit Klänge. Steckt die Hardware zusammen und hört, was passiert, wenn Arduino und Raspberry Pi auf analoge Klänge treffen! Freut auf auf technische Musikgeräte und kreative Künstler - LIVE!
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0vTsVsi4s28?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+# Vergangene Episoden
+
+## Episode 9: Internet der Dinge
+
+Milliarden Geräte formen das Internet der Dinge. In diesem Livestream wollen wir uns ein paar DIY IoT Projekte angucken. Thomas und René zeigen ihre Wetterstationen und wir werden uns über die senseBox und Citizen Science unterhalten und wie man da mitmachen kann.
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dnFyZlNgL-s?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+## Episode 8: 3D Drucker
 
 Seit mehr als 10 Jahren gehören 3D-Drucker zu den Werkzeugen, die die Maker-Bewegung revolutioniert haben. Neben einer beachtlichen Entwicklung der Hardware, ist es vor allem der modernen Software zu verdanken, dass 3D-Drucker heute auch von Einsteigern leicht zu bedienen sind. Profis steuern ihre Geräte mittlerweile über das Netzwerk und überwachen sie mit Kameras.
 In dieser Episode diskutieren wir die Entwicklung der 3D-Drucker und freuen uns besonders auf das Gespräch mit Gina, die das octopring.org Projekt betreut.
@@ -23,8 +44,6 @@ In dieser Episode diskutieren wir die Entwicklung der 3D-Drucker und freuen uns 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zlBk5vWwJCs?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-
-# Vergangene Episoden
 
 ## Episode 7: Lasercutter
 
