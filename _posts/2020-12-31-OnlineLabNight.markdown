@@ -16,16 +16,24 @@ syntaxHighlighter: no
 ---
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Donnerstag ab 21 Uhr hier:
 
-## 04.06.2020 21 Uhr
+
+## 11.6.2020 21:00 Uhr
+Wer für die Kleinen etwas basteln möchte, kann sich in diesem Livestream Inspirationen holen. Neben dem smarten Stofftier Nokolino, das jeder einfach selbst basteln kann, werden wir eine selbstgebaute Musikbox und ein Puppenhaus mit Fahrstuhl und Alexa-Anbindung vorstellen. Wenn ihr immer schon einen Arduino oder Raspberry Pi in euer Spielzeug einbauen wolltet, dann ist dies der richtige Stream für euch!
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2-8zZcLHn1o?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+# Vergangene Episoden
+
+## Episode 10: DIY Music Tech
 
 Wir bauen unsere eigenen Controller und Synthesizer und erzeugen damit Klänge. Steckt die Hardware zusammen und hört, was passiert, wenn Arduino und Raspberry Pi auf analoge Klänge treffen! Freut auf auf technische Musikgeräte und kreative Künstler - LIVE!
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0vTsVsi4s28?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-
-
-# Vergangene Episoden
 
 ## Episode 9: Internet der Dinge
 
