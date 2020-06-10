@@ -37,7 +37,8 @@ Wir bauen unsere eigenen Controller und Synthesizer und erzeugen damit Klänge. 
 
 ## Episode 9: Internet der Dinge
 
-Milliarden Geräte formen das Internet der Dinge. In diesem Livestream wollen wir uns ein paar DIY IoT Projekte angucken. Thomas und René zeigen ihre Wetterstationen und wir werden uns über die senseBox und Citizen Science unterhalten und wie man da mitmachen kann.
+Milliarden Geräte formen das Internet der Dinge. In diesem Livestream wollen wir uns ein paar DIY IoT Projekte angucken.
+<br />Thomas und René zeigen ihre Wetterstationen und wir werden uns über die senseBox und Citizen Science unterhalten und wie man da mitmachen kann.
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dnFyZlNgL-s?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -47,7 +48,7 @@ Milliarden Geräte formen das Internet der Dinge. In diesem Livestream wollen wi
 ## Episode 8: 3D Drucker
 
 Seit mehr als 10 Jahren gehören 3D-Drucker zu den Werkzeugen, die die Maker-Bewegung revolutioniert haben. Neben einer beachtlichen Entwicklung der Hardware, ist es vor allem der modernen Software zu verdanken, dass 3D-Drucker heute auch von Einsteigern leicht zu bedienen sind. Profis steuern ihre Geräte mittlerweile über das Netzwerk und überwachen sie mit Kameras.
-In dieser Episode diskutieren wir die Entwicklung der 3D-Drucker und freuen uns besonders auf das Gespräch mit Gina, die das octopring.org Projekt betreut.
+<br />In dieser Episode diskutieren wir die Entwicklung der 3D-Drucker und freuen uns besonders auf das Gespräch mit Gina, die das octopring.org Projekt betreut.
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zlBk5vWwJCs?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -71,7 +72,11 @@ In dieser Folge geht es um CNC Maschinen. Mario wird seine Portalfräse im Hobby
 
 ## Episode 5: 3D-Scanner Special
 
-Special Guests:
+Diese Woche gibt es ein 3D-Scanner Special.
+<br />Wir zeigen euch die neusten Features des FabScan Projekts und wie immer werden wir dafür Gäste einladen, die sich richtig gut mit dem Thema auskennen.
+<br />Wir freuen uns auf eure Fragen und Kommentare im Livestream!
+
+<br />Special Guests:
 <br />Peter König, Stellv. Chefredakteur Make: Deutschland,
 <br />Jens Hakel
 
@@ -81,9 +86,12 @@ Special Guests:
 
 ## Episode 4: Hochspannung, Strom und DIY Projekte
 
-Special Guests:
 <br />Mayer Makes, mayermakes.at,
 <br />Roger Leifert, Geschäftsführer www.ak-modul-bus.de
+
+<br />Mario wird ein Update aus dem Vogelhaus geben und dann mit Jürgen gemeinsam einen Lego-Turm präsentieren. Roger erklärt uns die Influenz und führt seine Wimshurst-Maschine vor.
+Mayer Makes zeigt uns die neusten Updates aus seiner Werkstatt.
+Special Guests:
 
 
 <div class="videoWrapper">
@@ -91,9 +99,19 @@ Special Guests:
 </div>
 
 ## Episode 3: Roboter und Robotikprojekte zu Ostern
-Special Guests:
-<br />Daniel Bachfeld, Chefredakteur Make: Deutschland,
-<br />Heinz Schmitz, heinz-schmitz.org
+
+Heute zu Gast:
+<br />Daniel Bachfeld vom Make Magazine Deutschland
+<br />Heinz Schmitz von heinz-schmitz.org
+<br />Jan, Mario, Rick, René von den freien Makern.
+
+<br />Daniel zeigt uns den TeehasenTheodor und die Roboterplattform. Das Make Magazin wird in Deutschland auch weiterhin regelmäßig erscheinen.
+
+<br />Heinz hat den Datenlogger und seinen Drehteller präsentiert und mit einem Barcode-Scanner kann er seinen Lagerbestand in Excel updaten. Der Präsentierteller kann sogar über MIDI als Musikinstrument genutzt werden und wird von einem Arduino gesteuert. Heinz schaltet mit einem HDMI-Matrix-Splitter zwischen verschiedenen Kameras um.
+
+<br />Mario bemalt Ostereier mit einem Egg-Bot und hat das sogar live vorgeführt. Bald gibt es ein Update zum Fabscan Pi 3D-Scanner und zu Marios DIY CNC-Fräse!
+
+<br />Jan hat einen leuchtenden Osterhasen mit dem Lasercutter gebastelt. Ein weiteres raffiniertes Design von Jan kann helfen, Masken komfortabler zu machen, damit sie nicht mehr hinter den Ohren einschneiden.
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e7nORPZib0w?rel=0" frameborder="0" allowfullscreen></iframe>
