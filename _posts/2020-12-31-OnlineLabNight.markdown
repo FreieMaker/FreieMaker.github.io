@@ -17,15 +17,31 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Donnerstag ab 21 Uhr hier:
 
 
-## 11.6.2020 21:00 Uhr
-Wer für die Kleinen etwas basteln möchte, kann sich in diesem Livestream Inspirationen holen. Neben dem smarten Stofftier Nokolino, das jeder einfach selbst basteln kann, werden wir eine selbstgebaute Musikbox und ein Puppenhaus mit Fahrstuhl und Alexa-Anbindung vorstellen. Wenn ihr immer schon einen Arduino oder Raspberry Pi in euer Spielzeug einbauen wolltet, dann ist dies der richtige Stream für euch!
+
+## 25.6. 21 Uhr
+Mario gibt ein Update von seinem SLA 3D-Drucker und wir werfen einen Blick in das FabScan Pi Release, das bald veröffentlich wird.
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yJB97Lb9QUg?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+# Vergangene Episoden
+
+## Episode 12: Jetzt MAKEN wir mal richtig was!
+Wir hatten nun viele tolle Nächte mit vielen tollen Gästen. Und das war wirklich toll! Doch jetzt maken wir mal richtig was! Freut euch auf ein paar absolute Highlights, mehr verraten wir vorher nicht ;)
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zMF2PsDccyI?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Episode 11: DIY Spielzeug
+Wer für die Kleinen etwas basteln möchte, kann sich in diesem Video Inspirationen holen. Neben dem smarten Stofftier Nokolino, das jeder einfach selbst basteln kann, werden wir eine selbstgebaute Musikbox und ein Puppenhaus mit Fahrstuhl und Alexa-Anbindung vorstellen. Wenn ihr immer schon einen Arduino oder Raspberry Pi in euer Spielzeug einbauen wolltet, dann ist dies der richtige Stream für euch!
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2-8zZcLHn1o?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
-# Vergangene Episoden
 
 ## Episode 10: DIY Music Tech
 
