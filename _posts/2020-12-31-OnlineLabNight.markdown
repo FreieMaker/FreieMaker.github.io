@@ -18,15 +18,22 @@ Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen blei
 
 
 
-## 25.6. 21 Uhr
-Mario gibt ein Update von seinem SLA 3D-Drucker und wir werfen einen Blick in das FabScan Pi Release, das bald veröffentlich wird.
+## 9.7. 21 Uhr
+Marios neues Buch über 3D-Scanner ist fertig, deshalb machen wir eine Sondersendung mit diversen Autoren, die ihre Bücher live vorstellen und mit euch im Live-Chat diskutieren.
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yJB97Lb9QUg?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KUZYPFFOBoQ?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
 # Vergangene Episoden
+
+## Episode 13: Wichtige Updates
+Mario gibt ein Update von seinem SLA 3D-Drucker und wir werfen einen Blick in das FabScan Pi Release, das kurz nach der Sendung veröffentlicht wurde.
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yJB97Lb9QUg?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Episode 12: Jetzt MAKEN wir mal richtig was!
 Wir hatten nun viele tolle Nächte mit vielen tollen Gästen. Und das war wirklich toll! Doch jetzt maken wir mal richtig was! Freut euch auf ein paar absolute Highlights, mehr verraten wir vorher nicht ;)
