@@ -17,18 +17,24 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Donnerstag ab 21 Uhr hier:
 
 
-## 16.7. 21 Uhr
-Marios neues Buch über 3D-Scanner ist fertig, deshalb machen wir eine Sondersendung mit diversen Autoren, die ihre Bücher live vorstellen und mit euch im Live-Chat diskutieren.
+## 23.7. 21 Uhr
+Was gehört alles in eine Werkstatt und wie kann man trotz Werkzeug und Arbeitsmaterial ein Setup für Livestreams umsetzen?
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FHfjtSVKi-Y?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+
+# Vergangene Episoden
+
+## Episode 15
+Diese Woche sprechen wir über das neue FabScan Forum, DIY Getränkeautomaten und wie man einen kostenlosen MQTT Broker für IoT Projekte mit dem Arduino, ESP32 oder Raspberry Pi benutzen kann.
+Wir freuen uns auf eure Fragen und Kommentare im Live Chat!
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CkZV4MFbUiE?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-
-Diese Woche sprechen wir über das neue FabScan Forum, DIY Getränkeautomaten und wie man einen kostenlosen MQTT Broker für IoT Projekte mit dem Arduino, ESP32 oder Raspberry Pi benutzen kann.
-Wir freuen uns auf eure Fragen und Kommentare im Live Chat!
-
-
-# Vergangene Episoden
 
 ## Episode 14: MAKER und ihre BÜCHER
 Marios neues Buch über 3D-Scanner ist fertig, deshalb machen wir eine Sondersendung mit diversen Autoren, die ihre Bücher live vorstellen und mit euch im Live-Chat diskutieren.
