@@ -17,16 +17,29 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Donnerstag ab 21 Uhr hier:
 
 
-## 23.7. 21 Uhr
-Was gehört alles in eine Werkstatt und wie kann man trotz Werkzeug und Arbeitsmaterial ein Setup für Livestreams umsetzen?
+## 30.07. 21:00 Uhr
+Diese Woche sprechen wir mit Experten über den ESP8266 und den ESP32. Wir freuen uns besonders auf den Support von bitluni, der diese Woche live dabei sein wird. Freut euch auf interessante Projekte vor und Antworten auf eure Fragen, die ihr während der Sendung im Live-Chat oder vor der Sendung auf Facebook, Youtube oder Slack stellen könnt. Webcam, VGA, Game-Console, Synthesizer, IoT mit MQTT, alles geht mit diesen tollen Mikrocontrollern!
+
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FHfjtSVKi-Y?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/472rL_gDYDE?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
 
 # Vergangene Episoden
+
+## Episode 16
+Was gehört alles in eine Werkstatt und wie kann man trotz Werkzeug und Arbeitsmaterial ein Setup für Livestreams umsetzen?
+<br />Zu Gast waren:
+<br />Professor Dr. Jan Borchers von der RWTH Aachen hat uns mitgenommen auf eine Reise durch das FabLab Aachen: http://fablab.rwth-aachen.de
+<br />Mario Parade vom Wissenschaftsladen Potsdam, wo es u.a. ein Bio Hacking Labor gibt: http://www.wissenschaftsladen-potsdam.de/
+<br />Jan Zimmermann streamt live aus seiner Werkstatt als Professor Cosplay auf Twitch: https://www.twitch.tv/professorcosplay
+<br />Und Jan Thar ist der Vorsitzende der freien Maker e.V. ;)
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FHfjtSVKi-Y?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Episode 15
 Diese Woche sprechen wir über das neue FabScan Forum, DIY Getränkeautomaten und wie man einen kostenlosen MQTT Broker für IoT Projekte mit dem Arduino, ESP32 oder Raspberry Pi benutzen kann.
