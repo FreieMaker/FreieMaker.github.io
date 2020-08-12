@@ -16,16 +16,22 @@ syntaxHighlighter: no
 ---
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Donnerstag ab 21 Uhr hier:
 
-
-## 06.08. 21:00 Uhr
-Die unendlichen Weiten bieten eine relativ große Spielwiese für Maker. Wir freuen uns ganz besonders, dass Katja Seidel von nacht-lichter.de uns erklärt, wie man tolle Fotos von den Perseiden und vom Nachthimmel macht. Roger wird uns die Pioneer-Plakette erklären und vielleicht gibt es darauf sogar Fehler? Und wie entschlüsselt man die Bilder, die auf der Tonspur des Voyager Golden Records gespeichert sind? Paul von uac-lab.com zeigt uns die Satelliten, die er gebaut hat und die nun im Weltraum um uns kreisen. Vielleicht präsentiert René seine 3D-gedruckte Teleskopsteuerung für Arduino und Raspberry Pi. Wir freuen uns auf eure Fragen im Livechat!
+## 13.08. 21:00 Uhr
+Diese Woche Donnerstag (21 Uhr) wird live gebastelt. Blickt hinter die Kulissen und erfahrt, an was wir gerade arbeiten. Wenn ihr live dabei sein wollt, kontaktiert uns in Slack:
+https://join.slack.com/t/freie-maker/shared_invite/zt-d5m5abvp-Tp_YvBSpusGmmT6bFfTpKw
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RX5uf1hCgyQ?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WNEJuupgUlk?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 # Vergangene Episoden
 
+## Episode 18
+Die unendlichen Weiten bieten eine relativ große Spielwiese für Maker. Wir freuen uns ganz besonders, dass Katja Seidel von nacht-lichter.de uns erklärt, wie man tolle Fotos von den Perseiden und vom Nachthimmel macht. Roger wird uns die Pioneer-Plakette erklären und vielleicht gibt es darauf sogar Fehler? Paul von uac-lab.com zeigt uns die Satelliten, die er gebaut hat und die nun im Weltraum um uns kreisen.
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RX5uf1hCgyQ?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Episode 17
 Diese Woche haben wir mit Experten über den ESP8266 und den ESP32 gesprochen. Wir freuen uns besonders auf den Support von bitluni, der diese Woche live dabei war. Webcam, VGA, Game-Console, Synthesizer, IoT mit MQTT, alles geht mit diesen tollen Mikrocontrollern!
