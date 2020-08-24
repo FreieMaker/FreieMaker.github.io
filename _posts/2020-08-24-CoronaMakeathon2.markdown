@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Makeathons"
+title:  "Corona Makeathon: Earsaver"
 date:   2020-08-24 00:16:00
 author: "Jan Thar"
 last_modified_at:  2020-08-24 00:16:00
