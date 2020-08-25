@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OpenLabDay"
-date:   2020-02-30 01:00:00
+date:   2020-09-30 01:00:00
 author: "Christopher Werner"
 last_modified_at:  2020-02-30 01:00:00
 excerpt: "Open Lab Day in Lemiers (... momentan nur Online...)"
