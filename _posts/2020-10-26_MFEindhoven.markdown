@@ -27,8 +27,10 @@ War leider dann doch am Ende etwas aufwendiger als gedacht - und vor allem grös
 Aber dafür haben wir inzwischen schon mal ein passendes Flightcase.
 
 Glücklicherweie passt ja unser Deko-Spiegelzeug zum Titel, den Besuchern ist es also nicht aufgefallen und sie hatten Spass. 
-Wir haben jetzt also dank Cecile Ravaux jetzt auch eine Erklärung auf Französisch dazu (oder so, dazu müsste ich es ja verstehen ^^):
+Wir haben jetzt also dank Cecile Ravaux (dem "sehr netten" können wir uns nur anschliessen)jetzt auch eine Erklärung auf Französisch dazu (oder so, dazu müsste ich es ja verstehen ^^):
 https://www.facebook.com/shares/view?id=10222914286863375&overlay=1&notif_id=1601239761546168&notif_t=story_reshare&ref=notif
 Auch für Chris Ohrringe wurde da gut Reklame gemacht, und seine Useless-Box hat den Kindern wieder viel Spass gemacht. 
 Auch wenn das Teil ein Alptraum beispielsweise für die Steampunk-Aussteller sein dürfte, da wir hier dem Kindern ja beibringen das dont touch heisst sie sollen mal probieren den Schalter zu betätigen.
 Jedenfalls müssen wir jetzt mal auf der Makerfaire Paris und vor allem Nantes (mit den grössenwahnsinnigen Puppen) ausstellen, wenn es denn irgendwann wieder geht.
+
+Ansonsten wieder viele Bekannte getroffen, neue Ideen gesammelt - und da wir so langsam in den WInterlockdown gleiten haben wir ja auch was Zeit zum Basteln.
