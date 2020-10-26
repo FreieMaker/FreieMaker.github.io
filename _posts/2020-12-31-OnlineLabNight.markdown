@@ -14,7 +14,29 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Donnerstag ab 21 Uhr hier:
+Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
+
+# Staffel 2
+
+Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. Schaltet live ein, dienstags um 21 Uhr!
+
+Hier sind die Termine für Staffel 2:
+
+* 3.11.
+* 10.11.
+* 17.11.
+* 24.11.
+* 1.12.
+* 8.12.
+* 15.12.
+* 22.12.
+* 29.12.
+
+
+
+# Staffel 1
+
+In der ersten Staffel haben wir uns mit spannenden Gästen zu allen Themen unterhalten, die uns als Maker bewegen. Die Sendungen waren für uns sehr wichtig, um uns trotzt räumlicher Trennung auszutauschen und um an gemeinsamen Projekten zu arbeiten.
 
 ## 13.08. 21:00 Uhr
 Diese Woche Donnerstag (21 Uhr) wird live gebastelt. Blickt hinter die Kulissen und erfahrt, an was wir gerade arbeiten. Wenn ihr live dabei sein wollt, kontaktiert uns in Slack:
