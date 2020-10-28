@@ -20,19 +20,17 @@ Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen blei
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. Schaltet live ein, dienstags um 21 Uhr!
 
-Hier sind die Termine für Staffel 2:
+Folgende Themen erwarten euch in Staffel 2:
 
-* 3.11.
-* 10.11.
-* 17.11.
-* 24.11.
-* 1.12.
-* 8.12.
-* 15.12.
-* 22.12.
-* 29.12.
-
-
+* 03.11. MAKER IM LOCKDOWN mit ESP32 und Arduino
+* 10.11. CO2-Ampeln selber bauen
+* 17.11. Musik machen mit dem Raspberry Pi
+* 24.11. FabScan Pi: 3D-Scanner Update
+* 01.12. LoRa und Mobilfunk für IoT
+* 08.12. GELD VERDIENEN mit Maker Projekten
+* 15.12. Software für CNC Fräse und 3D-Drucker
+* 22.12. Quantenphotonik und Projection Mapping
+* 29.12. Drohnen und Quadcopter
 
 # Staffel 1
 
