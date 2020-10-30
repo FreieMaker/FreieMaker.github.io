@@ -22,7 +22,7 @@ Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschrä
 
 Folgende Themen erwarten euch in Staffel 2:
 
-* 03.11. MAKER IM LOCKDOWN mit ESP32 und Arduino
+* 03.11. ESP32 und TonUINO
 * 10.11. CO2-Ampeln selber bauen
 * 17.11. Musik machen mit dem Raspberry Pi
 * 24.11. FabScan Pi: 3D-Scanner Update
