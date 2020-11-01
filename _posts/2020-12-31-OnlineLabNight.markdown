@@ -18,11 +18,11 @@ Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen blei
 
 # Staffel 2
 
-Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. Schaltet live ein, dienstags um 21 Uhr!
+Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
 
 Folgende Themen erwarten euch in Staffel 2:
 
-<div class="img img--fullContainer img--20xLeading" style="background-image: url({{ site.baseurl_posts_img }}OLNS2.png);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}OLNS2.png);"></div>
 
 
 # Staffel 1
