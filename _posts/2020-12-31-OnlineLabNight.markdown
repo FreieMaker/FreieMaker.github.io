@@ -31,7 +31,7 @@ In der ersten Staffel haben wir uns mit spannenden Gästen zu allen Themen unter
 
 ## Episode 19
 Diese Woche Donnerstag (21 Uhr) wird live gebastelt. Blickt hinter die Kulissen und erfahrt, an was wir gerade arbeiten. Wenn ihr live dabei sein wollt, kontaktiert uns in Slack:
-https://join.slack.com/t/freie-maker/shared_invite/zt-d5m5abvp-Tp_YvBSpusGmmT6bFfTpKw
+[Slack Einladung](https://join.slack.com/t/freie-maker/shared_invite/zt-d5m5abvp-Tp_YvBSpusGmmT6bFfTpKw){:target="_blank}
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WNEJuupgUlk?rel=0" frameborder="0" allowfullscreen></iframe>
