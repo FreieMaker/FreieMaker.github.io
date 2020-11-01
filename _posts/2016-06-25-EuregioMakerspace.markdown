@@ -16,7 +16,7 @@ syntaxHighlighter: no
 ---
 Am 25. Juni haben wir den Euregio Makerspace offiziell eröffnet. Das ist die Werkstatt des gemeinnützigen Vereins freie Maker e.V.
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}GrandOpening.png);"></div>
+<div class="img img--fullContainer" style="background-image: url({{ site.baseurl_posts_img }}GrandOpening.png);"></div>
 
 ## Highlights
 
