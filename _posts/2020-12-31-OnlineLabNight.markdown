@@ -22,17 +22,7 @@ Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschrä
 
 Folgende Themen erwarten euch in Staffel 2:
 
-* 03.11. ESP32 und TonUINO
-* 10.11. CO2-Ampeln selber bauen
-* 17.11. Musik machen mit dem Raspberry Pi
-* 24.11. FabScan Pi: 3D-Scanner Update
-* 01.12. LoRa und Mobilfunk für IoT
-* 08.12. GELD VERDIENEN mit Maker Projekten
-* 15.12. Software für CNC Fräse und 3D-Drucker
-* 22.12. Quantenphotonik und Projection Mapping
-* 29.12. Drohnen und Quadcopter
-
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}OLNS2.png);"></div>
+<div class="img img--fullContainer" style="background-image: url({{ site.baseurl_posts_img }}OLNS2.png);"></div>
 
 
 # Staffel 1
