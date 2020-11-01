@@ -22,23 +22,20 @@ Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschrä
 
 Folgende Themen erwarten euch in Staffel 2:
 
-<div class="img img--fullContainer img--16xLeading" style="background-image: url({{ site.baseurl_posts_img }}OLNS2.png);"></div>
-
+![Programm Online Lab Night Staffel 2]({{ site.baseurl_posts_img }}OLNS2.png){: .center-image }
 
 
 # Staffel 1
 
 In der ersten Staffel haben wir uns mit spannenden Gästen zu allen Themen unterhalten, die uns als Maker bewegen. Die Sendungen waren für uns sehr wichtig, um uns trotzt räumlicher Trennung auszutauschen und um an gemeinsamen Projekten zu arbeiten.
 
-## 13.08. 21:00 Uhr
+## Episode 19
 Diese Woche Donnerstag (21 Uhr) wird live gebastelt. Blickt hinter die Kulissen und erfahrt, an was wir gerade arbeiten. Wenn ihr live dabei sein wollt, kontaktiert uns in Slack:
 https://join.slack.com/t/freie-maker/shared_invite/zt-d5m5abvp-Tp_YvBSpusGmmT6bFfTpKw
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WNEJuupgUlk?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-
-# Vergangene Episoden
 
 ## Episode 18
 Die unendlichen Weiten bieten eine relativ große Spielwiese für Maker. Wir freuen uns ganz besonders, dass Katja Seidel von nacht-lichter.de uns erklärt, wie man tolle Fotos von den Perseiden und vom Nachthimmel macht. Roger wird uns die Pioneer-Plakette erklären und vielleicht gibt es darauf sogar Fehler? Paul von uac-lab.com zeigt uns die Satelliten, die er gebaut hat und die nun im Weltraum um uns kreisen.

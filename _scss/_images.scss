@@ -60,3 +60,10 @@
 .img--16xLeading {
   height: 16*$leading;
 }
+
+/* To center images */
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
