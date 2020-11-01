@@ -61,10 +61,8 @@
   height: 16*$leading;
 }
 
-/* To center images */
-.center-image
+.img--auto
 {
-    margin: 0 auto;
-    display: block;
     width: 100%;
+    height: auto;
 }
