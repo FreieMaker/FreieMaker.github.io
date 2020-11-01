@@ -22,7 +22,8 @@ Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschrä
 
 Folgende Themen erwarten euch in Staffel 2:
 
-<div class="img" style="background-image: url({{ site.baseurl_posts_img }}OLNS2.png);"></div>
+<div class="img img--fullContainer img--16xLeading" style="background-image: url({{ site.baseurl_posts_img }}OLNS2.png);"></div>
+
 
 
 # Staffel 1
