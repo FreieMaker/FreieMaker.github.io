@@ -9,6 +9,13 @@
   background-size: cover;
 }
 
+.img--contain {
+  margin-top: $leading;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+}
+
 .img--fullContainer img {
   width: 100%;
 }
