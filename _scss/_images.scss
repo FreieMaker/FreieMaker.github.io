@@ -9,13 +9,6 @@
   background-size: cover;
 }
 
-.img--auto {
-  margin-top: $leading;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: auto;
-}
-
 .img--fullContainer img {
   width: 100%;
 }
@@ -66,4 +59,8 @@
 
 .img--16xLeading {
   height: 16*$leading;
+}
+
+.img--20xLeading {
+  height: 20*$leading;
 }
