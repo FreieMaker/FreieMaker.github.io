@@ -32,6 +32,9 @@ Folgende Themen erwarten euch in Staffel 2:
 * 22.12. Quantenphotonik und Projection Mapping
 * 29.12. Drohnen und Quadcopter
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}OLNS2.png);"></div>
+
+
 # Staffel 1
 
 In der ersten Staffel haben wir uns mit spannenden Gästen zu allen Themen unterhalten, die uns als Maker bewegen. Die Sendungen waren für uns sehr wichtig, um uns trotzt räumlicher Trennung auszutauschen und um an gemeinsamen Projekten zu arbeiten.
