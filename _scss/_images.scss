@@ -9,11 +9,11 @@
   background-size: cover;
 }
 
-.img--contain {
+.img--auto {
   margin-top: $leading;
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: contain;
+  background-size: auto;
 }
 
 .img--fullContainer img {
@@ -66,9 +66,4 @@
 
 .img--16xLeading {
   height: 16*$leading;
-}
-
-.img--auto
-{
-  height: auto;
 }
