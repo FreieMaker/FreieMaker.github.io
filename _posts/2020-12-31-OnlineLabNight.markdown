@@ -33,11 +33,11 @@ In der ersten Episode der zweiten Staffel ging es unter anderem um DIY Musikboxe
 
 Links:
 
-* [Unser Streamyard Affiliate-Link](https://streamyard.com?pal=6208557628784640){:target="_blank}
-* [Das ursprüngliche TonUINO Projekt, das auf dem Arduino basiert](https://www.voss.earth/tonuino/){:target="_blank}
-* [ESP32 Tonino Projekt, das Mario gezeigt hat](https://github.com/biologist79/Tonuino-ESP32-I2S){:target="_blank}
-* [ESP32 Board, das René gezeigt hat](https://github.com/LilyGO/TTGO-TAudio){:target="_blank}
-* [Slack Einladung](https://join.slack.com/t/freie-maker/shared_invite/zt-d5m5abvp-Tp_YvBSpusGmmT6bFfTpKw){:target="_blank}
+* [Unser Streamyard Affiliate-Link](https://streamyard.com?pal=6208557628784640){:target="_blank"}
+* [Das ursprüngliche TonUINO Projekt, das auf dem Arduino basiert](https://www.voss.earth/tonuino/){:target="_blank"}
+* [ESP32 Tonino Projekt, das Mario gezeigt hat](https://github.com/biologist79/Tonuino-ESP32-I2S){:target="_blank"}
+* [ESP32 Board, das René gezeigt hat](https://github.com/LilyGO/TTGO-TAudio){:target="_blank"}
+* [Slack Einladung](https://join.slack.com/t/freie-maker/shared_invite/zt-d5m5abvp-Tp_YvBSpusGmmT6bFfTpKw){:target="_blank"}
 
 
 # Staffel 1
@@ -46,7 +46,7 @@ In der ersten Staffel haben wir uns mit spannenden Gästen zu allen Themen unter
 
 ## Episode 19
 Diese Woche Donnerstag (21 Uhr) wird live gebastelt. Blickt hinter die Kulissen und erfahrt, an was wir gerade arbeiten. Wenn ihr live dabei sein wollt, kontaktiert uns in Slack:
-[Slack Einladung](https://join.slack.com/t/freie-maker/shared_invite/zt-d5m5abvp-Tp_YvBSpusGmmT6bFfTpKw){:target="_blank}
+[Slack Einladung](https://join.slack.com/t/freie-maker/shared_invite/zt-d5m5abvp-Tp_YvBSpusGmmT6bFfTpKw){:target="_blank"}
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WNEJuupgUlk?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -225,4 +225,4 @@ Jan, Rick und René haben sich online getroffen, um einene Ausgleich für den We
 # Slack
 
 Bitte stellt eure Fragen im Livestream auf Youtube oder Facebook. Wenn ihr in der Zwischenzeit Fragen habt, findet ihr uns auf Slack:
-[Slack Einladung](https://join.slack.com/t/freie-maker/shared_invite/zt-d5m5abvp-Tp_YvBSpusGmmT6bFfTpKw){:target="_blank}
+[Slack Einladung](https://join.slack.com/t/freie-maker/shared_invite/zt-d5m5abvp-Tp_YvBSpusGmmT6bFfTpKw){:target="_blank"}
