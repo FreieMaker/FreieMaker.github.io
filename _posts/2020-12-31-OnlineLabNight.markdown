@@ -16,11 +16,6 @@ syntaxHighlighter: no
 ---
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 
-
-<div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ip07hsXSWMU?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
@@ -28,6 +23,21 @@ Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschrä
 Folgende Themen erwarten euch in Staffel 2:
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}OLNS2.png);"></div>
+
+## S2E1 - ESP32 und TonUINO
+In der ersten Episode der zweiten Staffel ging es unter anderem um DIY Musikboxen und wie man einen TonUINO mit dem ESP32 bauen kann.
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ip07hsXSWMU?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Links:
+
+* [Unser Streamyard Affiliate-Link](https://streamyard.com?pal=6208557628784640){:target="_blank}
+* [Das ursprüngliche TonUINO Projekt, das auf dem Arduino basiert](https://www.voss.earth/tonuino/){:target="_blank}
+* [ESP32 Tonino Projekt, das Mario gezeigt hat](https://github.com/biologist79/Tonuino-ESP32-I2S){:target="_blank}
+* [ESP32 Board, das René gezeigt hat](https://github.com/LilyGO/TTGO-TAudio){:target="_blank}
+* [Slack Einladung](https://join.slack.com/t/freie-maker/shared_invite/zt-d5m5abvp-Tp_YvBSpusGmmT6bFfTpKw){:target="_blank}
 
 
 # Staffel 1
