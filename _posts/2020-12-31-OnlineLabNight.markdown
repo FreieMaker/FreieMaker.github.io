@@ -17,12 +17,9 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8-zDkPUfFIk?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qITZh38wQKQ?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Was man alles mit dem Raspberry Pi machen kann, schauen wir uns in dieser Episode an. Wir freuen uns, dass der Youtuber Floyd Steinberg (http://floydsteinberg.com/) sich damit beschäftigt, wie man mit dem Raspberry Pi Musik machen kann. Ist die Hardware in der Lage, einen Synthesizer zu betreiben? Kann eine Tür zum Instrument werden, wenn man die passenden Sensoren hat?
-Und wer hochwertige Musik-Hardware sucht, wird bei unserem zweiten Gast auf seine Kosten kommen. Frank Hund präsentiert uns ein neues, modulares Gehäuse für den Raspberry Pi und gibt einen Ausblick, was man damit in den Bereichen Smart Home, Video Editiing, Live Streaming und natürlich in der Audiowelt machen kann.
-Schaltet live ein am 17.11. um 21:00 Uhr - wir freuen uns auf eure Fragen und Kommentare!
-
+Der FabScan Pi ist ein Open Source 3D-Scanner zum selberbauen. Mario präsentiert die neusten Updates und weist auf die häufigsten Probleme und die passenden Lösungen hin. Wer einen 3D-Scanner bauen möchte oder ein neues Projekt für den Raspberry Pi sucht, sollte am 24.11. um 21:00 Uhr live einschalten!
 
 # Staffel 2
 
@@ -31,6 +28,15 @@ Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschrä
 Folgende Themen erwarten euch in Staffel 2:
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}OLNS2.png);"></div>
+
+## S2E3 - Musik machen mit dem Raspberry Pi
+
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8-zDkPUfFIk?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Was man alles mit dem Raspberry Pi machen kann, schauen wir uns in dieser Episode an. Wir freuen uns, dass der Youtuber Floyd Steinberg (http://floydsteinberg.com/) sich damit beschäftigt, wie man mit dem Raspberry Pi Musik machen kann. Ist die Hardware in der Lage, einen Synthesizer zu betreiben? Kann eine Tür zum Instrument werden, wenn man die passenden Sensoren hat?
+Und wer hochwertige Musik-Hardware sucht, wird bei unserem zweiten Gast auf seine Kosten kommen. Frank Hund präsentiert uns ein neues, modulares Gehäuse für den Raspberry Pi und gibt einen Ausblick, was man damit in den Bereichen Smart Home, Video Editiing, Live Streaming und natürlich in der Audiowelt machen kann.
 
 ## S2E2 - CO2 Ampeln selber bauen
 
