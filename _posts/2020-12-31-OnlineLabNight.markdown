@@ -17,9 +17,9 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qITZh38wQKQ?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ACyQx2zupxM?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Der FabScan Pi ist ein Open Source 3D-Scanner zum selberbauen. Mario präsentiert die neusten Updates und weist auf die häufigsten Probleme und die passenden Lösungen hin. Wer einen 3D-Scanner bauen möchte oder ein neues Projekt für den Raspberry Pi sucht, sollte am 24.11. um 21:00 Uhr live einschalten!
+Wäre es nicht schön, wenn wir unsere IoT Projekte vom WLAN befreien könnten? Das Mobilfunknetz ermöglicht es, Geräte überall mit dem Internet zu verbinden. Mobile Anwendungen werden durch Mobilfunk erst möglich und bei stationären Projekten erspart es die Konfiguration der WLAN-Zugangsdaten. Wir freuen uns über Deine Fragen und Kommentare zu dem Thema und beantworten die Beiträge live am 1.12. um 21 Uhr!
 
 # Staffel 2
 
@@ -29,8 +29,14 @@ Folgende Themen erwarten euch in Staffel 2:
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}OLNS2.png);"></div>
 
-## S2E3 - Musik machen mit dem Raspberry Pi
+## S2E4 - 3D-Scanner Update
 
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qITZh38wQKQ?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Der FabScan Pi ist ein Open Source 3D-Scanner zum selberbauen. Mario präsentiert die neusten Updates und weist auf die häufigsten Probleme und die passenden Lösungen hin. Wer einen 3D-Scanner bauen möchte oder ein neues Projekt für den Raspberry Pi sucht, sollte am 24.11. um 21:00 Uhr live einschalten!
+
+## S2E3 - Musik machen mit dem Raspberry Pi
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8-zDkPUfFIk?rel=0" frameborder="0" allowfullscreen></iframe>
