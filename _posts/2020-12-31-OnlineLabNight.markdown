@@ -63,6 +63,8 @@ In der ersten Episode der zweiten Staffel ging es unter anderem um DIY Musikboxe
 Links:
 
 * [Unser Streamyard Affiliate-Link](https://streamyard.com?pal=6208557628784640){:target="_blank"}
+* [Marios ESP32 BREAKOUT PCB](https://aisler.net/mariolukas/tonuino-esp-32-i2s/tonuino-esp32_2){:target="_blank"}
+* [Marios ESP32 Sourcecode](https://github.com/mariolukas/Tonuino-ESP32-I2S/tree/feature/breakoutpcb){:target="_blank"}
 * [Das ursprüngliche TonUINO Projekt, das auf dem Arduino basiert](https://www.voss.earth/tonuino/){:target="_blank"}
 * [ESP32 Tonino Projekt, das Mario gezeigt hat](https://github.com/biologist79/Tonuino-ESP32-I2S){:target="_blank"}
 * [ESP32 Board, das René gezeigt hat](https://github.com/LilyGO/TTGO-TAudio){:target="_blank"}
