@@ -17,9 +17,9 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ACyQx2zupxM?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ckbFPbb8iTE?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Wäre es nicht schön, wenn wir unsere IoT Projekte vom WLAN befreien könnten? Das Mobilfunknetz ermöglicht es, Geräte überall mit dem Internet zu verbinden. Mobile Anwendungen werden durch Mobilfunk erst möglich und bei stationären Projekten erspart es die Konfiguration der WLAN-Zugangsdaten. Wir freuen uns über Deine Fragen und Kommentare zu dem Thema und beantworten die Beiträge live am 1.12. um 21 Uhr!
+Maker teilen ihr Wissen und ihre Designs unter offenen Lizenzen. Open Source und Open Hardware sind sehr wichtige Komponten der Maker Bewegung. Und für die meisten ist es ein Hobby... doch kann man als Maker auch Geld verdienen? Wo geht das am besten? Das verraten unsere Gäste am Dienstag um 21 Uhr! Wir sind sehr gespannt, welche Tipps wir abgreifen können und natürlich werden wir im Live Chat wieder auf eure Fragen und Kommentare eingehen!
 
 # Staffel 2
 
@@ -28,6 +28,13 @@ Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschrä
 Folgende Themen erwarten euch in Staffel 2:
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}OLNS2.png);"></div>
+
+## S2E5 - LoRa und Mobilfunk für das Internet der Dinge
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ACyQx2zupxM?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Wäre es nicht schön, wenn wir unsere IoT Projekte vom WLAN befreien könnten? Das Mobilfunknetz ermöglicht es, Geräte überall mit dem Internet zu verbinden. Mobile Anwendungen werden durch Mobilfunk erst möglich und bei stationären Projekten erspart es die Konfiguration der WLAN-Zugangsdaten. Wir freuen uns über Deine Fragen und Kommentare zu dem Thema und beantworten die Beiträge live am 1.12. um 21 Uhr!
 
 ## S2E4 - 3D-Scanner Update
 
