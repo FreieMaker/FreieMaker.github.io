@@ -17,9 +17,9 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ckbFPbb8iTE?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bhIM7i4fktM?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Maker teilen ihr Wissen und ihre Designs unter offenen Lizenzen. Open Source und Open Hardware sind sehr wichtige Komponten der Maker Bewegung. Und für die meisten ist es ein Hobby... doch kann man als Maker auch Geld verdienen? Wo geht das am besten? Das verraten unsere Gäste am Dienstag um 21 Uhr! Wir sind sehr gespannt, welche Tipps wir abgreifen können und natürlich werden wir im Live Chat wieder auf eure Fragen und Kommentare eingehen!
+Diese Woche bekommen wir von flowwies corner (https://www.youtube.com/user/stolz3d) einen Crash-Kurs für FreeCAD. Das Modell wird Mario dann weiter optimieren, damit er es in dieser Sendung live auf seiner selbstgebauten CNC-Fräse herstellen kann. Wenn alles klappt, wird parallel mit dem 3D-Drucker das gleiche Objekt erzeugt. Wir zeigen euch den gesamten Prozess von der Idee bis zum fertigen Werkstück. Und natürlich freuen wir uns auf eure Fragen und Kommentare im Live Chat!
 
 # Staffel 2
 
@@ -28,6 +28,14 @@ Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschrä
 Folgende Themen erwarten euch in Staffel 2:
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}OLNS2.png);"></div>
+
+## S2E6 - Geld verdienen mit Maker Projekten
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ckbFPbb8iTE?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Maker teilen ihr Wissen und ihre Designs unter offenen Lizenzen. Open Source und Open Hardware sind sehr wichtige Komponten der Maker Bewegung. Und für die meisten ist es ein Hobby... doch kann man als Maker auch Geld verdienen? Wo geht das am besten? Das verraten unsere Gäste am Dienstag um 21 Uhr! Wir sind sehr gespannt, welche Tipps wir abgreifen können und natürlich werden wir im Live Chat wieder auf eure Fragen und Kommentare eingehen!
+
 
 ## S2E5 - LoRa und Mobilfunk für das Internet der Dinge
 
