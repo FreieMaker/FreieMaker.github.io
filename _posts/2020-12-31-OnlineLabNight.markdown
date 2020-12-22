@@ -16,10 +16,12 @@ syntaxHighlighter: no
 ---
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 
+
+
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bhIM7i4fktM?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uj-v7Xs4P98?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Diese Woche bekommen wir von flowwies corner (https://www.youtube.com/user/stolz3d) einen Crash-Kurs für FreeCAD. Das Modell wird Mario dann weiter optimieren, damit er es in dieser Sendung live auf seiner selbstgebauten CNC-Fräse herstellen kann. Wenn alles klappt, wird parallel mit dem 3D-Drucker das gleiche Objekt erzeugt. Wir zeigen euch den gesamten Prozess von der Idee bis zum fertigen Werkstück. Und natürlich freuen wir uns auf eure Fragen und Kommentare im Live Chat!
+Kurz vor Weihnachten geht uns ein Licht auf! Diese Woche wollen wir kurz anreißen, was die freien Maker mit Quantenphotonik zu tun haben und ob wir vielleicht an einem Quantencomputer arbeiten. Dass man mit Licht auch ganz praktisch betrachtet sehr schöne Dinge machen kann, werden wir von grobkorn.de lernen! Wir freuen uns auf eure Fragen und Kommentare im Live Chat!
 
 # Staffel 2
 
@@ -28,6 +30,13 @@ Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschrä
 Folgende Themen erwarten euch in Staffel 2:
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}OLNS2.png);"></div>
+
+## S2E7 Software für CNC-Fräse und 3D-Drucker: FreeCAD
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bhIM7i4fktM?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Diese Woche bekommen wir von flowwies corner (https://www.youtube.com/user/stolz3d) einen Crash-Kurs für FreeCAD. Das Modell wird Mario dann weiter optimieren, damit er es in dieser Sendung live auf seiner selbstgebauten CNC-Fräse herstellen kann. Wenn alles klappt, wird parallel mit dem 3D-Drucker das gleiche Objekt erzeugt. Wir zeigen euch den gesamten Prozess von der Idee bis zum fertigen Werkstück. Und natürlich freuen wir uns auf eure Fragen und Kommentare im Live Chat!
+
 
 ## S2E6 - Geld verdienen mit Maker Projekten
 
