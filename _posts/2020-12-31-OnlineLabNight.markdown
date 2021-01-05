@@ -17,13 +17,19 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b4XbS-3zwDE?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DkQBc3_fEoY?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Was vor ein paar Jahren noch eine technische Herausforderung war, ist heute für jeden Maker leicht und preiswert umsetzbar: die selbstgebaute Drohne! Wir werden über 3D-gedruckte Gehäuse sprechen, welche Elektronik und Firmware man braucht und natürlich geben wir einen Überblick, was für den Einstieg nötig ist. Wie immer freuen wir uns auf eure Fragen und Kommentare im Live Chat!
+Jeden Dienstag in Januar werden wir uns um 21 Uhr mit Smart Home Themen beschäftigen. Am 5.1. beginnen wir mit einer interessanten Übersicht und sammeln eure Fragen und Anregungen im Live Chat!
 
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+## S2E9 Drohnen und Quadrocopter
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b4XbS-3zwDE?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Was vor ein paar Jahren noch eine technische Herausforderung war, ist heute für jeden Maker leicht und preiswert umsetzbar: die selbstgebaute Drohne! Wir werden über 3D-gedruckte Gehäuse sprechen, welche Elektronik und Firmware man braucht und natürlich geben wir einen Überblick, was für den Einstieg nötig ist. Wie immer freuen wir uns auf eure Fragen und Kommentare im Live Chat!
 
 ## S2E8 Projection Mapping
 <div class="videoWrapper">
