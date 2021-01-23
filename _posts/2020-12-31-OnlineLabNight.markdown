@@ -17,13 +17,21 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lO6wOHVKnpY?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/msMIl7NOSpE?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Zu keinem Thema gab es so viele Anfragen wie zu ioBroker. Wie kann man mit dieser kostenlosen Software die verschiedenen Insel-Lösungen im Smart Home integrieren und läuft das ganze auch auf dem Raspberry Pi? Wir freuen uns auf eure Fragen und Kommentare im Live Chat!
+FHEM ist kostenlos, open-source, in Perl programmiert und sehr beliebt, da es Geräte von vielen Herstellern unterstützt. Außerdem wollen wir einen Blick auf DIY Smart Home Sensoren werfen. Wir freuen uns auf Deine Fragen und Kommentare im Live Chat! Diese Woche sind wir sogar zeitgleich live bei clubhouse: https://www.joinclubhouse.com/event/9myjRoaP
 
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+
+## S2E12 ioBroker Einführung
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lO6wOHVKnpY?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Zu keinem Thema gab es so viele Anfragen wie zu ioBroker. Wie kann man mit dieser kostenlosen Software die verschiedenen Insel-Lösungen im Smart Home integrieren und läuft das ganze auch auf dem Raspberry Pi? Wir freuen uns auf eure Fragen und Kommentare im Live Chat!
 
 ## S2E11 KNX
 
