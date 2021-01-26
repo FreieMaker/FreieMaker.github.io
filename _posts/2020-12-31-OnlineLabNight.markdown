@@ -15,6 +15,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
+Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/msMIl7NOSpE?rel=0" frameborder="0" allowfullscreen></iframe>
