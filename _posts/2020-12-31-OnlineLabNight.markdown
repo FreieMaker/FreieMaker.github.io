@@ -18,13 +18,20 @@ Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen blei
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/msMIl7NOSpE?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3lOASouI9K8?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-FHEM ist kostenlos, open-source, in Perl programmiert und sehr beliebt, da es Geräte von vielen Herstellern unterstützt. Außerdem wollen wir einen Blick auf DIY Smart Home Sensoren werfen. Wir freuen uns auf Deine Fragen und Kommentare im Live Chat! Diese Woche sind wir sogar zeitgleich live bei clubhouse: https://www.joinclubhouse.com/event/9myjRoaP
+Diese Woche zeigen wir spannende Smart Home Projekte. Wir werden Zuschauer in die Live-Show holen und herausfinden, was an einem Smart Home überhaupt Smart sein soll. Wir freuen uns wie jeden Dienstag um 21 Uhr über Deine Fragen und Kommentare im Live Chat bei Youtube und Facebook. Außerdem kannst Du uns bei Discord treffen: [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+## S2E13 FHEM und DIY Smart Home Sensoren
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/msMIl7NOSpE?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+FHEM ist kostenlos, open-source, in Perl programmiert und sehr beliebt, da es Geräte von vielen Herstellern unterstützt. Außerdem wollen wir einen Blick auf DIY Smart Home Sensoren werfen. Wir freuen uns auf Deine Fragen und Kommentare im Live Chat! Diese Woche sind wir sogar zeitgleich live bei clubhouse: https://www.joinclubhouse.com/event/9myjRoaP
 
 
 ## S2E12 ioBroker Einführung
