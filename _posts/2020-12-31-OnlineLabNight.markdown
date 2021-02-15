@@ -20,7 +20,7 @@ Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JCu1UOPOtQo?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Was ist eignetlich die Cloud und wer braucht sie? Sollte ich die Cloud für mein Smart Home benutzen oder ist das am Ende sogar gefährlich? Falls ihr diese oder ähnliche Fragen habt, freuen wir uns auf eure Beiträge im Livechat bei Youtube und auf Facebook!
+Was ist eigentlich die Cloud und wer braucht sie? Sollte ich die Cloud für mein Smart Home benutzen oder ist das am Ende sogar gefährlich? Falls ihr diese oder ähnliche Fragen habt, freuen wir uns auf eure Beiträge im Livechat bei Youtube und auf Facebook!
 
 # Staffel 2
 
