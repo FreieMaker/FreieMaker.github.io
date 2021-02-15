@@ -18,13 +18,20 @@ Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen blei
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-5R9S8rels?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JCu1UOPOtQo?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Was ist eigentlich Node-RED und wie setzt man es im Smart Home oder mit dem Internet der Dinge ein? Falls ihr solche oder ähnliche Fragen habt oder gar die Antworten kennt, dann seid ihr diese Woche genau richtig bei der Online Lab Night! Wir freuen uns auf eure Fragen und Kommentare im Live Chat bei YouTube und Facebook oder in [unserem Discord](https://discord.gg/FRPbrSP){:target="_blank"}
+Was ist eignetlich die Cloud und wer braucht sie? Sollte ich die Cloud für mein Smart Home benutzen oder ist das am Ende sogar gefährlich? Falls ihr diese oder ähnliche Fragen habt, freuen wir uns auf eure Beiträge im Livechat bei Youtube und auf Facebook!
 
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+## S2E15 Node-RED
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-5R9S8rels?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Was ist eigentlich Node-RED und wie setzt man es im Smart Home oder mit dem Internet der Dinge ein? Falls ihr solche oder ähnliche Fragen habt oder gar die Antworten kennt, dann seid ihr diese Woche genau richtig bei der Online Lab Night!
 
 ## S2E14 Smart Home Show and Tell
 
