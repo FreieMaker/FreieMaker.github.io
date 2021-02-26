@@ -17,6 +17,11 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/986xnRKceT0?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Was ist der Unterschied zwischen LoRa und LoRaWAN? Was ist TTN und wie kann ich selbst ein Gateway installieren und dem The Things Network beitreten? Diese Folge richtet sich an alle Enthusiasten, die Interesse an IoT Infrastruktur haben. Wir freuen uns auf eure Fragen und Kommentare im Live-Chat und bei [Discord](https://discord.gg/FRPbrSP){:target="_blank"}
+
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
