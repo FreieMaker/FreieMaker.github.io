@@ -17,14 +17,23 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
+# Staffel 2
+
+Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+## S2E17 LoRa und Radioshuttle
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ZhgMb-GHT8?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Long Range und Low Power sind tolle Eigenschaften für eine Funktechnik. Diese Woche wollen wir über die Grundlagen von LoRa und LoRaWAN sprechen und uns mit dem passendem RadioShuttle Netzwerkprotokoll beschäftigen. Unser Gast Helmut kann euch alle Fragen beantworten, die ihr im Live Chat stellt.
+
+## S2E16 Die Cloud
+
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JCu1UOPOtQo?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 Was ist eigentlich die Cloud und wer braucht sie? Sollte ich die Cloud für mein Smart Home benutzen oder ist das am Ende sogar gefährlich? Falls ihr diese oder ähnliche Fragen habt, freuen wir uns auf eure Beiträge im Livechat bei Youtube und auf Facebook!
-
-# Staffel 2
-
-Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
 
 ## S2E15 Node-RED
 
