@@ -18,14 +18,20 @@ Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen blei
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4gSSeBC_U8o?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E-a871AqNsM?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Diese Woche beschäftigen wir uns mit neuen Mikrocontrollern. Unter anderem werden wir uns den Raspberry Pi Pico anschauen und einen Blick auf das M5Stack und M5Stick System werfen. Einen RISC-V haben wir ebenfalls am Start. Wir freuen uns auf eure Fragen und Kommentare im Live-Chat bei YouTube und Facebook.
+Diese Woche feiern wir die fünfzigste Folge der Online Lab Night! In dieser Jubiläumssendung beantworten wir Eure Fragen im Live Chat bei YouTube und Facebook und wir freuen uns, euch auf unserem Discord zu sehen
 
 
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+## S2E20 Raspberry Pi Pico, M5Stack und RISC-V
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4gSSeBC_U8o?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Diese Woche beschäftigen wir uns mit neuen Mikrocontrollern. Unter anderem werden wir uns den Raspberry Pi Pico anschauen und einen Blick auf das M5Stack und M5Stick System werfen. Einen RISC-V haben wir ebenfalls am Start. Wir freuen uns auf eure Fragen und Kommentare im Live-Chat bei YouTube und Facebook.
 
 ## S2E19 Raspberry Pi Projekte für Schildkröten
 <div class="videoWrapper">
