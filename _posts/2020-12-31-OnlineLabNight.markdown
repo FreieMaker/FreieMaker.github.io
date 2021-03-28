@@ -17,15 +17,23 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
+
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E-a871AqNsM?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LVpjOVPPuL4?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Diese Woche feiern wir die fünfzigste Folge der Online Lab Night! In dieser Jubiläumssendung beantworten wir Eure Fragen im Live Chat bei YouTube und Facebook und wir freuen uns, euch auf unserem Discord zu sehen
+In dieser Episode beschäftigen wir uns mit der Frage, was nötig ist für den Einstieg in die Welt der Funkamateure. Neben der Technik betrachten wir auch die Community und die Prüfungen. Wir freuen uns auf Deine Fragen und Kommentare im Live Chat bei Facebook, Discord und YouTube :)
 
 
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+## S2E21 - Die 50te Folge
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E-a871AqNsM?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Diese Woche feiern wir die fünfzigste Folge der Online Lab Night! In dieser Jubiläumssendung beantworten wir Eure Fragen im Live Chat bei YouTube und Facebook und wir freuen uns, euch auf unserem Discord zu sehen
+
 
 ## S2E20 Raspberry Pi Pico, M5Stack und RISC-V
 <div class="videoWrapper">
