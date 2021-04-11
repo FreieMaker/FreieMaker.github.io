@@ -18,14 +18,21 @@ Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen blei
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bq_y7gggolE?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pxAmfjRiPA?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Computer und Algorithmen - damit machen Maker Kunst. Wir freuen uns auf unsere Gästin bleeptrack und packen ein paar zeitlose, generative Projekte aus. Haut eure Fragen und Kommentare in den Live Chat bei YouTube und Facebook oder kommt direkt zu uns ins Discord.
+Virtuelle Maschinen und Container kann man mit der kostenlosen Software Proxmox verwalten. Das lohnt sich für Entwickler und für Smart Home. Wie das geht und worauf man achten muss, besprechen wir in dieser Sendung. Wie immer, kannst Du Fragen und Kommentare im Live Chat bei Facebook, YouTube und Discord schreiben!
 
 
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+## S2E23 - Generative Kunst
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bq_y7gggolE?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Computer und Algorithmen - damit machen Maker Kunst. Wir freuen uns auf unsere Gästin bleeptrack und packen ein paar zeitlose, generative Projekte aus. Haut eure Fragen und Kommentare in den Live Chat bei YouTube und Facebook oder kommt direkt zu uns ins Discord.
 
 ## S2E22 - Amateurfunk
 
