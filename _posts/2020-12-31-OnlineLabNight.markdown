@@ -18,14 +18,20 @@ Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen blei
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pxAmfjRiPA?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EEWpvUaRo4M?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Virtuelle Maschinen und Container kann man mit der kostenlosen Software Proxmox verwalten. Das lohnt sich für Entwickler und für Smart Home. Wie das geht und worauf man achten muss, besprechen wir in dieser Sendung. Wie immer, kannst Du Fragen und Kommentare im Live Chat bei Facebook, YouTube und Discord schreiben!
-
+Nach vielen, vielen Jahren gibt es endlich das Update auf die Version 2.0 der Arduino IDE! Wir werden uns gemeinsam anschauen, was neu ist und testen, ob ein Upgrade lohnt und ob man damit auch Boards mit ESP32, ESP8266 oder den Raspberry Pi Pico programmieren kann. Wenn ihr Fragen oder Kommentare habt, freuen wir uns auf eure Beiträge im Live Chat bei YouTube, Facebook und Discord!
 
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+## S2E24 - Virtualisierung mit Proxmox
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pxAmfjRiPA?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Virtuelle Maschinen und Container kann man mit der kostenlosen Software Proxmox verwalten. Das lohnt sich für Entwickler und für Smart Home. Wie das geht und worauf man achten muss, besprechen wir in dieser Sendung. Wie immer, kannst Du Fragen und Kommentare im Live Chat bei Facebook, YouTube und Discord schreiben!
 
 ## S2E23 - Generative Kunst
 
