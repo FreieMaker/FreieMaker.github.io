@@ -18,13 +18,20 @@ Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen blei
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EEWpvUaRo4M?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1470Pl3gubU?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Nach vielen, vielen Jahren gibt es endlich das Update auf die Version 2.0 der Arduino IDE! Wir werden uns gemeinsam anschauen, was neu ist und testen, ob ein Upgrade lohnt und ob man damit auch Boards mit ESP32, ESP8266 oder den Raspberry Pi Pico programmieren kann. Wenn ihr Fragen oder Kommentare habt, freuen wir uns auf eure Beiträge im Live Chat bei YouTube, Facebook und Discord!
+Normalerweise basteln wir erst gemeinsam im Makerspace, um die Ergebnisse anschließend auf Maker Faires und anderen Veranstaltungen vorzuführen. Der Ersatz für das gemeinsame Basteln ist die Online Lab Night und der tägliche Austausch auf Discord. Aber was kann die Events ersetzen? Darüber sprechen wir diese Woche mit dem Team der Maker Faire Hannover, welche dieses Jahr am 18. Juni virtuell stattfinden wird. Wenn Du Fragen zur Maker Faire hast oder wissen möchtest, wie Du mitmachen kannst, solltest Du diese Episode nicht verpassen!
 
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+## S2E25 - Arduino IDE 2.0
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EEWpvUaRo4M?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Nach vielen, vielen Jahren gibt es endlich das Update auf die Version 2.0 der Arduino IDE! Wir werden uns gemeinsam anschauen, was neu ist und testen, ob ein Upgrade lohnt und ob man damit auch Boards mit ESP32, ESP8266 oder den Raspberry Pi Pico programmieren kann. Wenn ihr Fragen oder Kommentare habt, freuen wir uns auf eure Beiträge im Live Chat bei YouTube, Facebook und Discord!
 
 ## S2E24 - Virtualisierung mit Proxmox
 
