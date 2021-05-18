@@ -20,7 +20,7 @@ Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8FBTE2IX46c?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Diese Woche sprechen wir über Maker und ihre Projekte. An was arbeitet ihr gerade oder woran würdet ihr gerne arbeiten? Wir freuen uns auf den Austausch im Live-Chat bei YouTube, Facebook und Discod: https://discord.gg/FRPbrSP
+Diese Woche sprechen wir über Maker und ihre Projekte. An was arbeitet ihr gerade oder woran würdet ihr gerne arbeiten? Wir freuen uns auf den Austausch im Live-Chat bei YouTube, Facebook und Discord: https://discord.gg/FRPbrSP
 
 
 # Staffel 2
