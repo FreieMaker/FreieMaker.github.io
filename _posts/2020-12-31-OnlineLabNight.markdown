@@ -17,17 +17,22 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
-
-
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0-ILGn0M2Vc?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8FBTE2IX46c?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Was auf den ersten Blick wie eine Sushi-Sorte klingt, ist in Wirklichkeit eine offene Firmware für Smart Home Geräte. Günstigen Lampen, Steckern, Schaltern und Sensoren aus Fernost verleiht diese Software ein zweites Leben ganz ohne Cloud. Wie das im Detail funktioniert und auf was man achten muss, diskutieren wir in dieser Episode. Wie immer freuen wir uns auf eure Fragen und Kommentare im Live Chat bei Facebook und YouTube!
+Diese Woche sprechen wir über Maker und ihre Projekte. An was arbeitet ihr gerade oder woran würdet ihr gerne arbeiten? Wir freuen uns auf den Austausch im Live-Chat bei YouTube, Facebook und Discod: https://discord.gg/FRPbrSP
 
 
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+## S2E28 - Smart Home mit TASMOTA
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0-ILGn0M2Vc?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Was auf den ersten Blick wie eine Sushi-Sorte klingt, ist in Wirklichkeit eine offene Firmware für Smart Home Geräte. Günstigen Lampen, Steckern, Schaltern und Sensoren aus Fernost verleiht diese Software ein zweites Leben ganz ohne Cloud. Wie das im Detail funktioniert und auf was man achten muss, diskutieren wir in dieser Episode. Wie immer freuen wir uns auf eure Fragen und Kommentare im Live Chat bei Facebook und YouTube!
 
 ## S2E27 - Smart Home mit Shelly und Alexa
 
