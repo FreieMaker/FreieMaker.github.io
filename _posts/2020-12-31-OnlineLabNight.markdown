@@ -18,14 +18,22 @@ Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen blei
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
 
+
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qs_cEDE2ipY?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8DCdmDNFnqU?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Da es viele günstige Smart Home Geräte gibt, die Bluetooth Low Energy benutzen, wollen wir uns diese Woche diese Technologie ein wenig genauer anschauen. Wie immer freuen wir uns über Fragen und Kommentare im Live Chat bei YouTube, Facebook und Discord: https://discord.gg/FRPbrSP
+Wer eine alte Klingel hat, kann sie mit verschiedenen Tricks smart machen. Wer eine neue Klingel installiert, steht ebenfalls vor Herausforderungen, lasst uns darüber sprechen! Außerdem wollen wir über Makrobuttons, Fotofallen und 3D-Renderings von Platinen sprechen. Deswegen freuen wir uns, dass Sebastian von https://there.oughta.be/ diese Woche zu Gast ist!
 
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+## S2E30 - Bluetooth Low Energy (BLE)
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qs_cEDE2ipY?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Da es viele günstige Smart Home Geräte gibt, die Bluetooth Low Energy benutzen, wollen wir uns diese Woche diese Technologie ein wenig genauer anschauen. Wie immer freuen wir uns über Fragen und Kommentare im Live Chat bei YouTube, Facebook und Discord: https://discord.gg/FRPbrSP
 
 ## S2E29 - Machine Learning, AI und Schildkröten - und was Maker sonst noch so machen
 
