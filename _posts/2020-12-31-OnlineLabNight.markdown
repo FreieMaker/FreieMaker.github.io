@@ -17,16 +17,21 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
-
-
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8DCdmDNFnqU?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Img4iaUYoTI?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Wer eine alte Klingel hat, kann sie mit verschiedenen Tricks smart machen. Wer eine neue Klingel installiert, steht ebenfalls vor Herausforderungen, lasst uns darüber sprechen! Außerdem wollen wir über Makrobuttons, Fotofallen und 3D-Renderings von Platinen sprechen. Deswegen freuen wir uns, dass Sebastian von https://there.oughta.be/ diese Woche zu Gast ist!
+Lange angekündigt und nun ist es endlich soweit: Mario zeigt uns, wie man alte Schätze auf 8mm und super8 mit einem Raspberry Pi digitalisiert! Welche Open Source Tools eignen sich, welchen 3D-Drucker benötigt man und was gibt es sonst noch zu beachten? Wir freuen uns auf eure Fragen und Kommentare im Live Chat bei YouTube, Facebook und Discord!
 
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+# S2E31 - Türklingeln smart machen
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8DCdmDNFnqU?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Wer eine alte Klingel hat, kann sie mit verschiedenen Tricks smart machen. Wer eine neue Klingel installiert, steht ebenfalls vor Herausforderungen, lasst uns darüber sprechen! Außerdem wollen wir über Makrobuttons, Fotofallen und 3D-Renderings von Platinen sprechen. Deswegen freuen wir uns, dass [Sebastian](https://there.oughta.be/){:target="_blank"} diese Woche zu Gast ist!
 
 ## S2E30 - Bluetooth Low Energy (BLE)
 
