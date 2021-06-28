@@ -18,13 +18,20 @@ Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen blei
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Img4iaUYoTI?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5C2OoSmF6o4?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Lange angekündigt und nun ist es endlich soweit: Mario zeigt uns, wie man alte Schätze auf 8mm und super8 mit einem Raspberry Pi digitalisiert! Welche Open Source Tools eignen sich, welchen 3D-Drucker benötigt man und was gibt es sonst noch zu beachten? Wir freuen uns auf eure Fragen und Kommentare im Live Chat bei YouTube, Facebook und Discord!
+Nachdem wir uns zwei Wochen Pause gegönnt haben, geht es nun wieder richtig los!  Unter anderem werden wir einen ESP32 mit Ethernet und RS485 in Betrieb nehmen und einen Blick auf weitere Arduino und Raspberry Pi Projekte jenseits von 3D-Druckern und Smart Home werfen. Wir freuen uns auf eure Fragen und Kommentare im Live Chat bei YouTube, Facebook und Discord!
 
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+# S2E32 - 8mm und Super8 Filme digitalisieren
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Img4iaUYoTI?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Lange angekündigt und nun ist es endlich soweit: Mario zeigt uns, wie man alte Schätze auf 8mm und super8 mit einem Raspberry Pi digitalisiert! Welche Open Source Tools eignen sich, welchen 3D-Drucker benötigt man und was gibt es sonst noch zu beachten? Wir freuen uns auf eure Fragen und Kommentare im Live Chat bei YouTube, Facebook und Discord!
 
 # S2E31 - Türklingeln smart machen
 
