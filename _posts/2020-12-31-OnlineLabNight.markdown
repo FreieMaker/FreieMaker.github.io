@@ -27,19 +27,20 @@ Diese Woche beschäftigen wir uns mit dem kostenlosen, open-source Projekt Chirp
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
 
-## S3E33 - Ethernet und RS485 am ESP32 und Preview auf LoRaWAN ChirpStack
-
-<div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5C2OoSmF6o4?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-Nachdem wir uns zwei Wochen Pause gegönnt haben, geht es nun wieder richtig los!  Unter anderem werden wir einen ESP32 mit Ethernet und RS485 in Betrieb nehmen und einen Blick auf weitere Arduino und Raspberry Pi Projekte jenseits von 3D-Druckern und Smart Home werfen. Außerdem siehst Du in dieser Episode eine Vorschauf auf den LoRaWAN ChirpStack, den wir in wenigen Wochen im Detail behandeln werden!
-
-## S2E33 - Javascript für Maker - Espruino und node.js
+## S2E34 - Javascript für Maker - Espruino und node.js
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uh7A43wIRTs?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 Javascript ist mittlerweile eine sehr beliebte Programmiersprache. Wir wollen uns anschauen, wie wir Maker sie auf einem Mikrocontroller oder auf einem Server einsetzen können. Auch wenn Dich Javascript nicht interessiert, darfst Du Dich auf eine interessante Sendung freuen und uns Deine Fragen und Kommentare in den Live Chat bei YouTube schreiben!
+
+
+## S3E33 - Ethernet und RS485 am ESP32
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5C2OoSmF6o4?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Nachdem wir uns zwei Wochen Pause gegönnt haben, geht es nun wieder richtig los!  Unter anderem werden wir einen ESP32 mit Ethernet und RS485 in Betrieb nehmen und einen Blick auf weitere Arduino und Raspberry Pi Projekte jenseits von 3D-Druckern und Smart Home werfen. Außerdem siehst Du in dieser Episode eine Vorschauf auf den LoRaWAN ChirpStack, den wir in wenigen Wochen im Detail behandeln werden!
 
 ## S2E32 - 8mm und Super8 Filme digitalisieren
 
