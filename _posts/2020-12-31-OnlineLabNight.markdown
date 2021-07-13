@@ -17,10 +17,11 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
+
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uh7A43wIRTs?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fSp-NiVyhxw?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Javascript ist mittlerweile eine sehr beliebte Programmiersprache. Wir wollen uns anschauen, wie wir Maker sie auf einem Mikrocontroller oder auf einem Server einsetzen können. Auch wenn Dich Javascript nicht interessiert, darfst Du Dich auf eine interessante Sendung freuen und uns Deine Fragen und Kommentare in den Live Chat bei YouTube schreiben!
+Diese Woche beschäftigen wir uns mit dem kostenlosen, open-source Projekt ChirpStack. Wir werden die Software gemeinsam installieren und in Betrieb nehmen. Damit kannst Du Dein eigenes LoRaWAN Netzwerk aufbauen. Nächste Woche werden wir dann im Detail besprechen, wie man ein Gateway verbindet und LoRaWAN Geräte mit einem ESP32 baut.
 
 # Staffel 2
 
@@ -33,6 +34,12 @@ Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschrä
 </div>
 Nachdem wir uns zwei Wochen Pause gegönnt haben, geht es nun wieder richtig los!  Unter anderem werden wir einen ESP32 mit Ethernet und RS485 in Betrieb nehmen und einen Blick auf weitere Arduino und Raspberry Pi Projekte jenseits von 3D-Druckern und Smart Home werfen. Außerdem siehst Du in dieser Episode eine Vorschauf auf den LoRaWAN ChirpStack, den wir in wenigen Wochen im Detail behandeln werden!
 
+## S2E33 - Javascript für Maker - Espruino und node.js
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uh7A43wIRTs?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Javascript ist mittlerweile eine sehr beliebte Programmiersprache. Wir wollen uns anschauen, wie wir Maker sie auf einem Mikrocontroller oder auf einem Server einsetzen können. Auch wenn Dich Javascript nicht interessiert, darfst Du Dich auf eine interessante Sendung freuen und uns Deine Fragen und Kommentare in den Live Chat bei YouTube schreiben!
 
 ## S2E32 - 8mm und Super8 Filme digitalisieren
 
