@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Makerfaire Hannover / Maker Campus Nantes 2021"
+title:  "Makerfaire Hannover und Maker Campus Nantes 2021"
 date:   2021-7-21 00:16:00
 author: "Jan Thar"
 last_modified_at:  2021-17-21 00:16:00
