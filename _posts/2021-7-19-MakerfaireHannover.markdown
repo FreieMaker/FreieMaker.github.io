@@ -8,7 +8,7 @@ excerpt: "Makerfaire presentation: Alice - Between The Mirrors"
 categories: events
 tags:  Back
 image:
-  feature: mcn2021_stand2.jpg
+  feature: mcn2021_stand2x.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
