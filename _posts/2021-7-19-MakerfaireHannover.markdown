@@ -51,7 +51,7 @@ Peppers-Ghost Displays, die wir in Zukunft eigentlich für Erklärungen nutzen w
 War als System natürlich witzig und fanden die Leute prima, es brauchte damit aber selber Erklärungen... also eher das Gegenteil des geplanten Zwecks.
 
 Soweit zu unserem Stand, es gab aber prima Inspirationen für neue Ideen an den anderen Ständen.
-Einer der benachbarten Stände hat zum Beispiel ein Spiel entwickelt, wo die Gegner nach Musik erzeugt werden... noch nicht ganz sicher wie sich das übertragen lässt, aber Mikro+Audiospekrtum gibt es ja schon für die LED-Matrix... oder man benutzt einen Quantenzustand als Generator. Mal schauen.
+Einer der benachbarten Stände hat zum Beispiel ein Spiel entwickelt, wo die Gegner nach Musik erzeugt werden... noch nicht ganz sicher wie sich das übertragen lässt, aber Mikro+Audiospektrum gibt es ja schon für die LED-Matrix... oder man benutzt einen Quantenzustand als Generator. Mal schauen.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_hilf1.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_hilf2.jpg);"></div>
