@@ -17,8 +17,8 @@ syntaxHighlighter: no
 Am 18.6. war die - pandemiebedingt virtuelle - Makerfaire Hannover. 
 Wir konnten es uns natürlich nicht lassen dafür auch etwas aufzubauen, das meiste hat aber René für Ruhm und Ehre des Vereins getan, er hat den Wissenschaftslifestream moderiert und auch die Makerfaire eröffnet, prima Sache.
 Dank niedriger Inzidenzen haben wir uns sogar ausnahmsweise nach Lemiers getraut, was wie sich herausgestellt hatte ein guter Test war für die nächsten Makerfaires:
-Aluquerstreben statt Kunststoffquerstreben in Säulen ergab prima Kurzschlüsse zwischen den einzelnen LED-Streifen, was mehr zu einer Heizung als einer Beleuchtung führte :)
-Auch bei ein paar anderen Exponaten muss noch nachgearbeitet werden - schwere Massen sind eh doof für den Transport, und das rollen über wege und damit bewegte Massen ist auch nicht so gut für die Struktur.
+Aluquerstreben statt Kunststoffquerstreben in Säulen ergab gute Kurzschlüsse zwischen den einzelnen LED-Streifen, was mehr zu einer Heizung als einer Beleuchtung führte :)
+Auch bei ein paar anderen Exponaten muss noch nachgearbeitet werden - schwere Massen sind eh doof für den Transport, und das Rollen über Wege und damit bewegte Massen ist auch nicht so gut für die Struktur.
 Aber zumindest ein paar Sachen haben wir ans Leuchten bekommen. - etwas zu sehr für die Kameras zum Streamen und auch die Interaktivität kam etwas zu kurz.
 
 Fazit: Ein gutes Warmup um hoffentlich so langsam wieder zu "echten" Messen und Makerfaires überzugehen - und die neuen Exponate etwas robuster zu gestalten.
@@ -27,22 +27,24 @@ Fazit: Ein gutes Warmup um hoffentlich so langsam wieder zu "echten" Messen und 
 
 Kurze Zeit später ging es dann tatsächlich in die Welt hinaus - zumindest bis nach Nantes, wo der Maker Campus Nantes stattfand, eine ziemlich verrückte Mischung unterschiedlichster Kreationen.
 Mag auch am Ort liegen, eine alte Werfthalle wo Les Machines de l’île spannende Sachen bauen.
-Die Ausstellung war somit unter Dach, ohne Wände, was eine gute Durchlüftung ergab. Masken waren auch vorgeschrieben, und mit einem Miniumum an akuten Corona-Fällen sowohl in Frankreich wie auch in Deutschland fühlte man sich doch ziemlich sicher.
+Die Ausstellung war somit unter Dach, ohne Wände, was eine gute Durchlüftung ergab. 
+Masken waren auch vorgeschrieben, und mit einem Miniumum an akuten Corona-Fällen sowohl in Frankreich wie auch in Deutschland fühlte man sich doch ziemlich sicher.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021-fernbedienung.jpg);"></div>
 
-Erste Nacharbeiten nach der Makerfaire Hannover waren erfolgreich - beim Flipper gibts für diese Art von Reisen wohl eine neue, leichtere Version, der war nicht mit dabei, aber die Säulen liefen, und man konnte schön 1D-Spiele spielen.
+Erste Nacharbeiten nach der Makerfaire Hannover waren erfolgreich - beim Flipper gibts für diese Art von Reisen wohl in Zukunft eine neue, leichtere Version, der war nicht mit dabei, aber die Säulen liefen, und man konnte schön 1D-Spiele spielen.
 Diese sind (halbwegs) passend zu verschiedenen Vorteilen den Quantensensorik - nur ist der Dreizeiler dazu auf der Fernsteuerung natürlich auf Deutsch, was somit nicht soviel brachte.
-Auch gab insgesamt eine leichte Zurückhaltung mit den Sachen zu spielen, vermutlich weil auf der Ausstellung realtiv viele künstlerische Sachen waren - gekauften Fernbedienungen wurden eher angefasst, die Eigenbauten eher nicht.
+Auch gab insgesamt eine leichte Zurückhaltung mit den Sachen zu spielen, vermutlich weil auf der Ausstellung realtiv viele künstlerische Sachen waren - gekauften Fernbedienungen wurden in die Hand genommen, die Eigenbauten eher nicht.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_stand.jpg);"></div>
 
-Hingucker war natürlich weiterhin der Hypercube - auch im vergleich zum ikosaeder, der ja eigentlich viel komplizierter zu bauen war. 
-Da müssen wir mal schauen wie wir den für Quantenspiele nutzen können - als Darstellung der Blochsphäre für QuantumHero passt er nicht so ganz, da die Achsen ja nicht den standardrotationen enstprechen, sondern Kombinationen von diesen.
+Hingucker war natürlich weiterhin der Spiegelwürfel - auch im Vergleich zum Ikosaeder, der eigentlich viel komplizierter zu bauen war. 
+Da müssen wir mal schauen wie wir den für Quantenspiele nutzen können - als Darstellung der Blochsphäre für QuantumHero passt er nicht so ganz, da die Achsen ja nicht den Standardrotationen enstprechen, sondern Kombinationen von diesen.
 
 Für andere Spiele funktionierte die LED-Matrizen mit unterschiedlichen Diffusormaterialien schon ganz gut (Textil, Holz, Stein).
-Insbesondere zu unserem Beispiel einfach einen Slazkristall zu nutzen gab es bei beiden Messen positives Feedback - eigentlich erstaunlich, Salzkristallampen sind ja nichts neues.
-Bei der nächsten Veranstaltung gibt es damit wohl ein Spiel pro Matrix - um Umschalten zu vermeiden und die Tasten auf das notwendigste zu reduzieren, um die Einstiegshürde damit herumzuspielen zu reduzieren.
+Insbesondere zu unserem Beispiel einfach einen Salzkristall zu nutzen gab es bei beiden Messen positives Feedback - eigentlich erstaunlich, Salzkristallampen sind ja nichts neues.
+Bei der nächsten Veranstaltung gibt es damit wohl ein Spiel pro Matrix - um Umschalten zu vermeiden und die Tasten auf das notwendigste zu reduzieren. 
+Dies sollte die Einstiegshürde damit herumzuspielen etwas reduzieren.
 Wobei dabei das obige Problem der DIY-Steuerungen fasst man nicht an noch irgendwie umgangen/reduziert werden muss.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_pg.jpg);"></div>
@@ -51,7 +53,9 @@ Peppers-Ghost Displays, die wir in Zukunft eigentlich für Erklärungen nutzen w
 War als System natürlich witzig und fanden die Leute prima, es brauchte damit aber selber Erklärungen... also eher das Gegenteil des geplanten Zwecks.
 
 Soweit zu unserem Stand, es gab aber prima Inspirationen für neue Ideen an den anderen Ständen.
-Einer der benachbarten Stände hat zum Beispiel ein Spiel entwickelt, wo die Gegner nach Musik erzeugt werden... noch nicht ganz sicher wie sich das übertragen lässt, aber Mikro+Audiospektrum gibt es ja schon für die LED-Matrix... oder man benutzt einen Quantenzustand als Generator. Mal schauen.
+Einer der benachbarten Stände hat zum Beispiel ein Spiel entwickelt, wo die Gegner nach Musik erzeugt werden.
+Noch nicht ganz sicher wie sich das übertragen lässt, aber Mikro+Audiospektrum gibt es ja schon für die LED-Matrix... oder man benutzt einen Quantenzustand als Generator. 
+Mal schauen.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_hilf1.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_hilf2.jpg);"></div>
