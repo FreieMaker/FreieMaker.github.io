@@ -17,15 +17,29 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8fKSlUCivcs?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Normale Web-Server stehen in Rechenzentren und bedienen sehr viele Besucher weltweit. Aber man kann die Technologie aus lokal sehr gut verwenden, um einen Arduino zu steuern oder Sensordaten auszulesen. Wir zeigen euch diese Woche, wie man einen HTTP-Server mit einem ESP32 implementiert - ganz einfach!
+
+# Staffel 2
+
+Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+## S2E36 - Wir bauen ein Thermometer mit LoRaWAN
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sspyWKI3O10?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Diese Woche bauen wir ein eigenes LoRaWAN Gerät. Wir wollen einen ESP32 mit der Arduino IDE verwenden und daran einen DS18B20 Temperatursensor anschließen. Die Messwerte wollen wir über LoRaWAN verschicken. Wenn euch diese Themen interessieren, freuen wir uns auf Fragen und Kommentare im Live-Chat bei YouTube und in Discord!
+
+## S2E35 - LoRaWAN Server mit ChirpStack
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fSp-NiVyhxw?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 Diese Woche beschäftigen wir uns mit dem kostenlosen, open-source Projekt ChirpStack. Wir werden die Software gemeinsam installieren und in Betrieb nehmen. Damit kannst Du Dein eigenes LoRaWAN Netzwerk aufbauen. Nächste Woche werden wir dann im Detail besprechen, wie man ein Gateway verbindet und LoRaWAN Geräte mit einem ESP32 baut.
-
-# Staffel 2
-
-Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
 
 ## S2E34 - Javascript für Maker - Espruino und node.js
 
