@@ -36,7 +36,7 @@ Erste Nacharbeiten nach der Makerfaire Hannover waren erfolgreich - beim Flipper
 Diese sind (halbwegs) passend zu verschiedenen Vorteilen den Quantensensorik - nur ist der Dreizeiler dazu auf der Fernsteuerung natürlich auf Deutsch, was somit nicht soviel brachte.
 Auch gab insgesamt eine leichte Zurückhaltung mit den Sachen zu spielen, vermutlich weil auf der Ausstellung realtiv viele künstlerische Sachen waren - gekauften Fernbedienungen wurden in die Hand genommen, die Eigenbauten eher nicht.
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_stand.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021-stand.jpg);"></div>
 
 Hingucker war natürlich weiterhin der Spiegelwürfel - auch im Vergleich zum Ikosaeder, der eigentlich viel komplizierter zu bauen war. 
 Da müssen wir mal schauen wie wir den für Quantenspiele nutzen können - als Darstellung der Blochsphäre für QuantumHero passt er nicht so ganz, da die Achsen ja nicht den Standardrotationen enstprechen, sondern Kombinationen von diesen.
