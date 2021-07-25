@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Online Lab Night"
-date:   2020-12-31 01:00:00
+date:   2021-12-31 01:00:00
 author: "René Bohne"
 last_modified_at:  2020-04-05 01:00:00
 excerpt: "Live Stream on YouTube"
