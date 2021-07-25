@@ -20,7 +20,7 @@ Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8fKSlUCivcs?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Normale Web-Server stehen in Rechenzentren und bedienen sehr viele Besucher weltweit. Aber man kann die Technologie aus lokal sehr gut verwenden, um einen Arduino zu steuern oder Sensordaten auszulesen. Wir zeigen euch diese Woche, wie man einen HTTP-Server mit einem ESP32 implementiert - ganz einfach!
+Normale Web-Server stehen in Rechenzentren und bedienen sehr viele Besucher weltweit. Aber man kann die Technologie auch lokal sehr gut verwenden, um einen Arduino zu steuern oder Sensordaten auszulesen. Wir zeigen euch diese Woche, wie man einen HTTP-Server mit einem ESP32 implementiert - ganz einfach!
 
 # Staffel 2
 
