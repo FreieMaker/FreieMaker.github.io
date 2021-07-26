@@ -22,11 +22,11 @@ Unter anderem durfte der Verein dort Printen per Laser veredeln... Der Hinweis d
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}tdp_2021_beam.jpg);"></div>
 
 Chris hat dazu einen kleinen Lasercutter gebaut, von [Laserkatze](http://www.laserkatze.de/){:target="_blank"}  haben wir uns noch einen [Mr Beam](https://www.mr-beam.org/){:target="_blank"} ausgeliehen, um eventuell grösserem Ansturm her zu werden und notfalls auch Massenproduktion machen zu können.
-Meist konnten wir aber die Printen nach wunsch herstellen, zumindest mit Namen, Chris hat aber sogar den gesamten "Aufdruck" nach Wunsch gestaltet.
+Meist konnten wir aber die Printen individuell lasern, zumindest mit Namen, Chris hat aber sogar den gesamten "Aufdruck" nach Wunsch gestaltet.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}tdp_2021_booth.jpg);"></div>
 
 Ein bisschen Leuchtsachen hatten wir auch dabei, das wäre ja sonst eine zu grosse Abweichung von unseren Standardausstellungen :)
 
-Hat glaube ich sowohl uns wie auch den Gästen Spass gemacht, mal schauen aif welche Verantaltungen wir dann in Zukunft noch Printen mitnehmen. 
-Quantentechnologie zweiter Art ist so ein Laser zwar nicht, aber so ein gutes altes System erster Art kann man ja auch mal als Belohnungsystem verwenden wenn man mal was gelernt hat.
+Hat glaube ich sowohl uns wie auch den Gästen Spass gemacht, mal schauen auf welche Verantaltungen wir dann in Zukunft noch Printen mitnehmen. 
+Quantentechnologie zweiter Art ist so ein Laser zwar nicht, aber so ein gutes altes System erster Art kann man ja auch mal als Belohnungsystem verwenden.
