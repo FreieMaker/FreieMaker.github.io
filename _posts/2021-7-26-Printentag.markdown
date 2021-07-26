@@ -15,13 +15,13 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 Im Centre Charlemagne in Aachen gab (bzw. zum Zeitpunkt als dieser Text geschrieben wurde: gibt) es eine Austellung zur Printe, dem Aachener Grundnahrungsmittel.
-Am 25. Juli gab es dazu einen [Aktionstag](http://www.centre-charlemagne.eu/termin/aktionstag-printe-live-es-lebe-die-printe/){:target="_blank"} mit freine Führungen und weiteren Sonderaktionen.
+Am 25. Juli gab es dazu einen [Aktionstag](http://www.centre-charlemagne.eu/termin/aktionstag-printe-live-es-lebe-die-printe/){:target="_blank"} mit freien Führungen und weiteren Sonderaktionen.
 Unter anderem durfte der Verein dort Printen per Laser veredeln... Der Hinweis das die danach Kunst und kein Lebensmittel mehr sind durfte natürlich nicht fehlen.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}tdp_2021_chris.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}tdp_2021_beam.jpg);"></div>
 
-Chris hat dazu einen kleinen Lasercutter gebaut, von Laserkatze haben wir uns noch einen Mr Beam ausgeliehen, um eventuell grösserem Ansturm her zu werden und notfalls auch Massenproduktion machen zu können.
+Chris hat dazu einen kleinen Lasercutter gebaut, von [Laserkatze](http://www.laserkatze.de/){:target="_blank"}  haben wir uns noch einen [Mr Beam](https://www.mr-beam.org/){:target="_blank"} ausgeliehen, um eventuell grösserem Ansturm her zu werden und notfalls auch Massenproduktion machen zu können.
 Meist konnten wir aber die Printen nach wunsch herstellen, zumindest mit Namen, Chris hat aber sogar den gesamten "Aufdruck" nach Wunsch gestaltet.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}tdp_2021_booth.jpg);"></div>
