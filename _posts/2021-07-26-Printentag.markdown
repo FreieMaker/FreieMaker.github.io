@@ -20,7 +20,7 @@ Am 25. Juli gab es dazu einen [Aktionstag](http://www.centre-charlemagne.eu/term
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}tdp_2021_poster.jpg);"></div>
 Unter anderem durfte der Verein dort Printen per Laser veredeln... Der Hinweis, dass diese danach Kunst und kein Lebensmittel mehr sind, durfte natürlich nicht fehlen.
 
-Chris extra dafür einen speziellen Lasercutter gebaut, der sehr gut Printen mit einem Laserstrahl bearbeiten kann. 
+Chris hat extra für den Aktionstag einen speziellen Lasercutter gebaut, der sehr gut Printen mit einem Laserstrahl bearbeiten kann. 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}tdp_2021_chris.jpg);"></div>
 
 Um für einen größeren Anstrum gerüstet zu sein, haben wir uns zur Sicherheit von [Laserkatze](http://www.laserkatze.de/){:target="_blank"} einen [Mr Beam](https://www.mr-beam.org/){:target="_blank"} ausgeliehen, mit welchem wir sogar die Massenproduktion starten könnten!
