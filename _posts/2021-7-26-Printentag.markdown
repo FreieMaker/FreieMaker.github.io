@@ -21,7 +21,7 @@ Unter anderem durfte der Verein dort Printen per Laser veredeln... Der Hinweis d
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}tdp_2021_chris.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}tdp_2021_beam.jpg);"></div>
 
-Chris hat dazu einen kleinen Lasercutter gebaut, von [Laserkatze] (https://laserkatze.de){:target="_blank"} haben wir uns noch einen [Mr Beam] (https://www.mr-beam.org/){:target="_blank"} ausgeliehen, um eventuell grösserem Ansturm her zu werden und notfalls auch Massenproduktion machen zu können.
+Chris hat dazu einen kleinen Lasercutter gebaut, von Laserkatze haben wir uns noch einen Mr Beam ausgeliehen, um eventuell grösserem Ansturm her zu werden und notfalls auch Massenproduktion machen zu können.
 Meist konnten wir aber die Printen nach wunsch herstellen, zumindest mit Namen, Chris hat aber sogar den gesamten "Aufdruck" nach Wunsch gestaltet.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}tdp_2021_booth.jpg);"></div>
