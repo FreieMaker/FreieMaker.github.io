@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Printentag 2021"
-date:   2016-10-04 01:00:00
+date:   2021-07-26 01:00:00
 author: "Jan Thar"
-last_modified_at:  2021-26-07
+last_modified_at:  2021-07-26
 excerpt: "Printe und Laser als die Aachener Variante von Laptop und Lederhose"
 categories: events
 tags:  Back
