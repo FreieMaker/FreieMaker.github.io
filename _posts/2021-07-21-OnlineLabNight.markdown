@@ -18,13 +18,29 @@ Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen blei
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8fKSlUCivcs?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s6VMI_H4zqg?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Normale Web-Server stehen in Rechenzentren und bedienen sehr viele Besucher weltweit. Aber man kann die Technologie auch lokal sehr gut verwenden, um einen Arduino zu steuern oder Sensordaten auszulesen. Wir zeigen euch diese Woche, wie man einen HTTP-Server mit einem ESP32 implementiert - ganz einfach!
+Neben 3D-Drucker, Lasercutter und CNC-Fräse ist ein Plotter eine sinnvolle Ergänzung für jeden Makerspace und jede Hobbywerkstatt. Diese Woche diskutieren wir ein paar Features, zeigen Geräte für den Einstieg wie den Cricut Joy oder den Silhouette Cameo 4 und welche Möglichkeiten diese eröffnen. 
 
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+## S2E38 - GraphQL mit nodejs und ESP32 
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YBMlk5UYmHo?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Diese Woche bauen wir eine API mit GraphQL und verwenden sie mit einem Arduino. GraphQL ist eine moderne Alternative zu einer REST API. Man kann sowas ganz leicht auf einem Raspberry Pi hosten oder Proxmox verwenden und mit einem ESP32 Daten an diese Schnittstelle senden. Das ist einfacher und praktischer als es klingt! Wir freuen uns auf Fragen und Kommentare im Livechat bei YouTube und bei Discord!
+
+## S2E37 - HTTP Server mit ESP32
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8fKSlUCivcs?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Diese Woche bauen wir eine API mit GraphQL und verwenden sie mit einem Arduino. GraphQL ist eine moderne Alternative zu einer REST API. Man kann sowas ganz leicht auf einem Raspberry Pi hosten oder Proxmox verwenden und mit einem ESP32 Daten an diese Schnittstelle senden. Das ist einfacher und praktischer als es klingt! Wir freuen uns auf Fragen und Kommentare im Livechat bei YouTube und bei Discord!
 
 ## S2E36 - Wir bauen ein Thermometer mit LoRaWAN
 
