@@ -18,13 +18,22 @@ Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen blei
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s6VMI_H4zqg?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lfqEi2GsSmU?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Neben 3D-Drucker, Lasercutter und CNC-Fräse ist ein Plotter eine sinnvolle Ergänzung für jeden Makerspace und jede Hobbywerkstatt. Diese Woche diskutieren wir ein paar Features, zeigen Geräte für den Einstieg wie den Cricut Joy oder den Silhouette Cameo 4 und welche Möglichkeiten diese eröffnen. 
+[Code bei github](https://github.com/renebohne/ttgo_taudio_webradio){:target="_blank"}
+
+Diese Woche basteln wir ein Webradio mit einem ESP32, einem DAC und unserem eigenen 3D-gedruckten Gehäuse. Wir schauen uns auch ganz kurz an, wie man einen icecast2 Server installiert und mit mixxx Musik an den Server streamt. Wir freuen uns auf eure Fragen und Kommentare im Live-Chat und bei Discord!
 
 # Staffel 2
 
 Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+## S2E39 - Plotter für Maker
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s6VMI_H4zqg?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Neben 3D-Drucker, Lasercutter und CNC-Fräse ist ein Plotter eine sinnvolle Ergänzung für jeden Makerspace und jede Hobbywerkstatt. Diese Woche diskutieren wir ein paar Features, zeigen Geräte für den Einstieg wie den Cricut Joy oder den Silhouette Cameo 4 und welche Möglichkeiten diese eröffnen. 
 
 ## S2E38 - GraphQL mit nodejs und ESP32 
 
