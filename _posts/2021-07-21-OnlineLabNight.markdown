@@ -17,14 +17,20 @@ syntaxHighlighter: no
 Da unser Maker Space wegen der Corona-Pandemie bis auf weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}
 
+<div class="videoWrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1V8XqHMmONg?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Mit Flutter kann man aus einem einzigen Source Code Apps für iOS, Android, Web oder Desktop erzeugen. Das ist auch für Maker sehr hilfreich. Wir freuen uns auf Deine Nachrichten im LiveChat bei YouTube und in unserem Discord.
+
+# Staffel 2
+Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+## S2E41 - Kostenlose 3D-Software: openSCAD
 
 <div class="videoWrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5MRsCmN8M_I?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 Jeder kann 3D-Modelle selbst erstellen. Wir schauen uns live an, wie das mit der kostenlosen Software openSCAD ganz einfach geht. Die Modelle können als STL Dateien für den 3D-Drucker exportiert werden oder 2D-Projektionen als SVG oder DXF auf einem Lasercutter, einer CNC-Fräse oder einem Schneide-Plotter verwendet werden. Super spannend, also schreibt eure Fragen und Kommentare im Live-Chat bei YouTube oder in unserem Discord!
-
-# Staffel 2
-Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
 
 ## S2E40 - Webradio selber bauen
 
