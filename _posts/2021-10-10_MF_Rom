@@ -1,1 +1,50 @@
+---
+layout: post
+title:  "Makerfaire Rom 2021"
+date:   2021-10-21 00:16:00
+author: "Jan Thar"
+last_modified_at:  2021-10-21 00:16:00
+excerpt: "Makerfaire presentation: Alice - Between The Mirrors"
+categories: events
+tags:  Back
+image:
+  feature: MFRom2021_Hero.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+Nach Eindhoven ging es dann für einen Teil von uns erstmal zu einer Lern-und Trainingswoche im Rahmen eines Erasmusprojekts.
+Glücklicherweise fanden sich genug Personen um auch den Stand auf der Makerfaire Rom zu bemannen (eher befrauen, ein grosses Dankeschön an Anika, Ceyda, Roxy, gut gemacht!).
+
+Exponate überleben auch Flüge, was schon mal ein gutes Zeichen ist. 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2021_5.jpg);"></div>
+
+Die Makerfaire fand diesmal nicht auf dem Messegelände statt, sondern teilweise virtuell im Internet, teilweise vor Ort in einem schönen alten Industriegebiet in Ostiense.
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2021_3.jpg);"></div>
+
+Wird wahrscheinlich grössenmässig nicht funktionieren wenn sich die Lage in Zukunft weiter normalisiert, aber an sich fanden wir das Gelände sogar besser als das normale Messegelände.
+Besucheransturm war gut, aber durch das Aussengelände und zusätzliche Eintrittsschlangen an den einzelnen Gebäuden gut organisiert.
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2021_2.jpg);"></div>
+
+Auch hier wieder eine gute Mischung im Publikum, insbesondere natürlich Mädchen/Jungs (fast schon mehr Interesse bei den Mädchen).
+Hier war vor allem der Flipper im Dauereinsatz, gefolgt von Tetris (als Spiel) und dem Salzkristalldisplay udn Spiegelobjekte als Haben-Wollen-Objekte.
+Müssen also tatsächlich zumindest über Bausätze nachdenken.
+
+Das 4 Gewinnt Spiel haben wir spontan schon einmal auf ein Tic-Tac-Toe-Spiel reduziert - mit der zusätzlichen Möglichkeit einen gesetzten Spin per Hadamard-Taste wieder in den Ausgangszufallszustand zu versetzen.
+Nach 9 Zügen wird dann ausgewertet, und alle noch zufälligen Spins zufällig einem Spieler zugewiesen. Fehlt noch der Computerspieler als Gegner, dann könnte das auch funtktionieren.
+
+Insgesamt kam es wohl ganz gut an - Wir sind ja schon vorher bildmässig in ein Ankündigung aufgetaucht (https://makerfairerome.eu/it/larte-che-piace-ai-maker-la-trovate-alla-maker-faire-rome/) und dann noch bei Instagram der Makerfaire Rom (https://www.instagram.com/p/CU2SPtaNHl9/?utm_medium=share_sheet).
+Auch von den Besuchern kam sehr positives Feedback, insbesondere das Anlocken über die "natürlichen" Oberflächen zum senken der Hemmschwelle kam gut an.
+Und bisher hat sich auch noch kein Mensch vom Fach beschwert das wir etwas falsch erklärt hatten (nur halt das es schon etwas kompliziert für Einsteiger ist, aber das wir noch zusätzlich Exponate brauchen wussten wir ja schon).
+
+Ansonsten gab es wieder einen schönen Mix an Ausstellern, was nett bei der Makerfaire Rom ist das ja auch schön nach Ausstellerarten unterschieden wird. 
+Hilfsmittel war ein grosser Bereich (Von Enable gab es Swimables), Recycling, Food, Solar-Und Elektrofahrzeuge, Pflanzenanbau & Ernährung, sowie Robtik und AI - es wurden alle wichtigen Zukunftsbereiche abgedeckt.
+
+Insofern: hat Spass gemacht, nächstes Jahr dann hoffentlich wieder.
+
+
+
 
