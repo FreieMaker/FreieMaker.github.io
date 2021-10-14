@@ -8,7 +8,7 @@ excerpt: "Makerfaire presentation: Alice - Between The Mirrors"
 categories: events
 tags:  Back
 image:
-  feature: MFRom2021_Hero.jpg
+  feature: MFRom2021_Hero.jepg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -18,16 +18,16 @@ Nach Eindhoven ging es dann für einen Teil von uns erstmal zu einer Lern-und Tr
 Glücklicherweise fanden sich genug Personen um auch den Stand auf der Makerfaire Rom zu bemannen (eher befrauen, ein grosses Dankeschön an Anika, Ceyda, Roxy, gut gemacht!).
 
 Exponate überleben auch Flüge, was schon mal ein gutes Zeichen ist. 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2021_5.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2021_5.jepg);"></div>
 
 Die Makerfaire fand diesmal nicht auf dem Messegelände statt, sondern teilweise virtuell im Internet, teilweise vor Ort in einem schönen alten Industriegebiet in Ostiense.
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2021_3.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2021_3.jepg);"></div>
 
 Wird wahrscheinlich grössenmässig nicht funktionieren wenn sich die Lage in Zukunft weiter normalisiert, aber an sich fanden wir das Gelände sogar besser als das normale Messegelände.
 Besucheransturm war gut, aber durch das Aussengelände und zusätzliche Eintrittsschlangen an den einzelnen Gebäuden gut organisiert.
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2021_2.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2021_2.jepg);"></div>
 
 Auch hier wieder eine gute Mischung im Publikum, insbesondere natürlich Mädchen/Jungs (fast schon mehr Interesse bei den Mädchen).
 Hier war vor allem der Flipper im Dauereinsatz, gefolgt von Tetris (als Spiel) und dem Salzkristalldisplay udn Spiegelobjekte als Haben-Wollen-Objekte.
