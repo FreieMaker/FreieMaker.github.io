@@ -8,7 +8,7 @@ excerpt: "Photonics Faire presentation: Alice - Between The Mirrors"
 categories: events
 tags:  Back
 image:
-  feature: w3+2021_Hero.jpg
+  feature: w3+2021_Hero.jpeg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -22,17 +22,17 @@ Der erste richtige Test mit unseren neuen Messeexponaten zum Thema Quantentechno
 Was aber auch langsam mal Zeit wurde, aber wie der Transport von Haus zur Werkstatt bei der virtuellen Makerfaire Hannover gezeigt hatte: 
 Manches war vorher zu schwach konstruiert, diesmal wars aber besser.
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}w3+2021_1.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}w3+2021_1.jpeg);"></div>
 
 Wobei wir vielleicht ein wenig übertrieben hatten in der Beschreibung, so ganz entsprach es am Ende wohl nicht dem was im Katalog versprochen wurde:
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}w3+2021_3.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}w3+2021_3.jpeg);"></div>
 
 Es hat sich aber niemand wirklich beschwert, im Gegenteil kam das Konzept gut an - allerdings gab es doch grosse Hemmungen tatsächlich damit zu spielen.
 Zumindest zwei Aussteller überlegten ob sie ein derartiges Konzept nicht auch in ihren Organisationen verwenden wollten. 
 Wobei das je auch nur eine Fortsetzung der Make-Light-Herangehensweise ist, also nicht wirklich etwas neues.
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}w3+2021_7.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}w3+2021_7.jpeg);"></div>
 
 Was man aber auch hier schon merkte: Wir brauchen noch weitere Zwischenexponate und eine Reihenfolge, aktuell überfordert die Erklärung zum Flipper immer noch etwas.
 Eines müsste über das QBit an sich gehen, dann über die verschiedenen Basen (und die Auswirkung aufs Messsergebnis).
