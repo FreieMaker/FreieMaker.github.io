@@ -36,7 +36,8 @@ Müssen also tatsächlich zumindest über Bausätze nachdenken.
 Das 4 Gewinnt Spiel haben wir spontan schon einmal auf ein Tic-Tac-Toe-Spiel reduziert - mit der zusätzlichen Möglichkeit einen gesetzten Spin per Hadamard-Taste wieder in den Ausgangszufallszustand zu versetzen.
 Nach 9 Zügen wird dann ausgewertet, und alle noch zufälligen Spins zufällig einem Spieler zugewiesen. Fehlt noch der Computerspieler als Gegner, dann könnte das auch funtktionieren.
 
-Insgesamt kam es wohl ganz gut an - Wir sind ja schon vorher bildmässig in ein Ankündigung aufgetaucht (https://makerfairerome.eu/it/larte-che-piace-ai-maker-la-trovate-alla-maker-faire-rome/) und dann noch bei Instagram der Makerfaire Rom (https://www.instagram.com/p/CU2SPtaNHl9/?utm_medium=share_sheet).
+Insgesamt kam es wohl ganz gut an - Wir sind ja schon vorher bildmässig in einer ([Ankündigung der MF Rom](https://makerfairerome.eu/it/larte-che-piace-ai-maker-la-trovate-alla-maker-faire-rome/){:target="_blank"} aufgetaucht und dann noch bei ([Instagram der Makerfaire Rom](https://www.instagram.com/p/CU2SPtaNHl9/?utm_medium=share_sheet){:target="_blank"}.
+
 Auch von den Besuchern kam sehr positives Feedback, insbesondere das Anlocken über die "natürlichen" Oberflächen zum senken der Hemmschwelle kam gut an.
 Und bisher hat sich auch noch kein Mensch vom Fach beschwert das wir etwas falsch erklärt hatten (nur halt das es schon etwas kompliziert für Einsteiger ist, aber das wir noch zusätzlich Exponate brauchen wussten wir ja schon).
 
