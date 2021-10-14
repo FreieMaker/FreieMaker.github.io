@@ -8,7 +8,7 @@ excerpt: "Makerfaire presentation: Alice - Between The Mirrors"
 categories: events
 tags:  Back
 image:
-  feature: MFEindhoven2021_Hero.jpg
+  feature: MFEindhoven2021_Hero.jpeg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -18,18 +18,18 @@ Direkt nach der W3+ gings weiter auf die Makerfaire Eindoven, eine der wenigen M
 Im letzten Jahr noch unter strikten Coronaregeln war es dieses Jahr fast normal, so das der Besucheransturm bei uns am Stand teilweise doch etwas beunruhigend wurde.
 Unser Platz im Darkroom war natürlich gut für die Lichteffekte, die Befürchung das man die Controller und den Text darauf nicht sieht war unbegründet.
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFEindhoven2021_4.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFEindhoven2021_4.jpeg);"></div>
 
 Die Exponate waren im Dauereinsatz, und haben es auch wieder gut überstanden. 
 Im Vergleich zur W3+, wo eher nach der allgemeinen Erklärung sowie Kommerzialisierung gefragt wurde, kam hier die Frage nach der Siegbedingung auf, also genau das was wir haben wollen.
 Ausserdem fanden einige Kinder schnell heraus das man ohne Tilt den Flipper ja auch anders spielen kann (was wir teilweise ja auch selber bei den Erklärungen nutzen um schnell durchzuspielen).
 Dies brachte uns direkt auf einen neue Spielidee: Ein labyrinth mit LEDs und Buttons darunter, wo man die Kugel durchschleusen muss.
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFEindhoven2021_7.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFEindhoven2021_7.jpeg);"></div>
 
 Wobei allgemein die Makerfaire Eindhoven wieder viele Mitmachexponate hatte, gerade auch zum Thema Lernen, Kugel durch ein Labyrinth zu balancieren geht zum Beispiel auch in gross:
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFEindhoven2021_2.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFEindhoven2021_2.jpeg);"></div>
 
 Was ingesamt auch erfreulich war: Die Exponate funktionieren sowohl bei Jungs und Mädchen (bzw. auch bei den älteren Generationen).
 Durch das einheitliche Controllerdesign fingen alle an direkt intuitiv zu spielen - wobei unser Camera/Glaskristallexponat damit aus der Reihe fällt weil nur Modus umgeschaltet werden kann.
