@@ -5,7 +5,7 @@ subtitle:   "IoT Community und Livestream"
 date:       2021-12-31 08:00:00
 author:     "René Bohne"
 image:
-  feature: digitale_dinge_banner.png
+  feature: DigitaleDingeBanner.png
   topPosition: 0px
 tags: youtube
 excerpt: "IoT Live Stream"
@@ -23,4 +23,4 @@ Nach zwei Staffeln und 64 Episoden lief die letzte Folge der Online Lab Night im
 
 Jeden Dienstag um 21 Uhr streamen wir live auf YouTube: ([youtube.digitale-dinge.de](https://youtube.digitale-dinge.de){:target="_blank"})
 
-![Online Lab Night]({{ site.baseurl }}/images/hero/digitale_dinge_banner.png){: .center-image }
+![Online Lab Night]({{ site.baseurl }}/images/hero/DigitaleDingeBanner.png){: .center-image }
