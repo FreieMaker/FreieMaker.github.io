@@ -22,5 +22,3 @@ Nach zwei Staffeln und 64 Episoden lief die letzte Folge der Online Lab Night im
 > Das Internet der Dinge wächst und wächst und man verliert schon fast die Übersicht. Unser zuhause wird immer smarter und wir finden auch hier immer mehr digitale Dinge. Wie kann man das alles miteinander verbinden? Wie kann man sich und seine Familie schützen und alles sicher machen? Welche Dinge sind wichtig und welche eher überflüssig oder schädlich? Wir schauen uns alles an!
 
 Jeden Dienstag um 21 Uhr streamen wir live auf YouTube: ([youtube.digitale-dinge.de](https://youtube.digitale-dinge.de){:target="_blank"})
-
-![Online Lab Night]({{ site.baseurl }}/images/hero/DigitaleDingeBanner.png){: .center-image }
