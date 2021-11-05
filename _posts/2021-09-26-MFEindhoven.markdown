@@ -23,7 +23,7 @@ Unser Platz im Darkroom war natürlich gut für die Lichteffekte, die Befürchun
 Die Exponate waren im Dauereinsatz, und haben es auch wieder gut überstanden. 
 Im Vergleich zur W3+, wo eher nach der allgemeinen Erklärung sowie Kommerzialisierung gefragt wurde, kam hier die Frage nach der Siegbedingung auf, also genau das was wir haben wollen.
 Ausserdem fanden einige Kinder schnell heraus das man ohne Tilt den Flipper ja auch anders spielen kann (was wir teilweise ja auch selber bei den Erklärungen nutzen um schnell durchzuspielen).
-Dies brachte uns direkt auf einen neue Spielidee: Ein labyrinth mit LEDs und Buttons darunter, wo man die Kugel durchschleusen muss.
+Dies brachte uns direkt auf einen neue Spielidee: Ein Labyrinth mit LEDs und Buttons darunter, wo man die Kugel durchschleusen muss.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFEindhoven2021_7.jpeg);"></div>
 
