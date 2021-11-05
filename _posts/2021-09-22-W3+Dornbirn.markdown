@@ -15,12 +15,12 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 Auf der W3+ im schönen Dornbirn hatten wir unseren ersten Auftritt auf einer Fachmesse in diesem Jahr nach langer Pause.
-Corona wirft aber immer noch Schatten, trotz extrem guter Organistation um das Ganze sicher zu machen (Grosses Lob an die Organistren)
+Corona wirft aber immer noch Schatten, trotz extrem guter Organisation um das Ganze sicher zu machen (Grosses Lob an die Organisatoren)
 waren wir hier auch noch ganz froh das es weniger eine Besuchermesse, und mehr ein Austausch unter den Fachausstellern war.
 
 Der erste richtige Test mit unseren neuen Messeexponaten zum Thema Quantentechnologien - bzw. das erste Mal das diese auch funktionierten wie gedacht.
 Was aber auch langsam mal Zeit wurde, aber wie der Transport von Haus zur Werkstatt bei der virtuellen Makerfaire Hannover gezeigt hatte: 
-Manches war vorher zu schwach konstruiert, diesmal wars aber besser.
+Manches war vorher zu schwach konstruiert, diesmal lief es aber besser.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}w3+2021_1.jpeg);"></div>
 
