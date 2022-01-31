@@ -2,7 +2,7 @@
 layout:     post
 title:      "Digitale Dinge"
 subtitle:   "IoT Community und Livestream"
-date:       2022-12-31 08:00:00
+date:       2022-1-31 08:00:00
 author:     "René Bohne"
 image:
   feature: DigitaleDingeBanner.png
