@@ -7,7 +7,7 @@ author:     "René Bohne"
 image:
   feature: DigitaleDingeBanner.png
   topPosition: 0px
-tags: youtube
+tags: announcements youtube
 excerpt: "IoT Live Stream"
 categories: announcements
 bgContrast: dark
