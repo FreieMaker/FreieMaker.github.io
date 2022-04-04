@@ -8,7 +8,7 @@ excerpt: "Makerfaire presentation: Alice - Between The Mirrors"
 categories: events
 tags:  Back
 image:
-  feature: MFRuhr2022.jpeg
+  feature: MFRuhr2022.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
