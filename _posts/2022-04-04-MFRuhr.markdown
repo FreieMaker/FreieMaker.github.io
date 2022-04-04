@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Makerfaire Ruhr 2022"
-date:   2021-11-13 00:16:00
+date:   2022-04-04 00:16:00
 author: "Jan Thar"
 last_modified_at:  2022-04-04 00:16:00
 excerpt: "Makerfaire presentation: Alice - Between The Mirrors"
