@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Tag der offenen Tür 2022"
+date:   2022-08-06 12:00:00
+author: "René Gern"
+last_modified_at:  2022-08-06 12:00:00
+excerpt: "Der neue Makerspace in Aachen hat geöffnet!"
+categories: events
+tags:  Back
+image:
+  feature: TDOT22_snacks.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+Unser Makerspace ist von Lemiers nach Aachen umgezogen. Ab sofort findet ihr uns jeden Donnerstagabend in der Lukasstraße 1 im LabAix. Um diesen Umzug zu feiern, möchten wir euch am 6. August 2022 zum Tag der offenen Tür einladen. Es geht um 12 Uhr los und es wird live Demonstrationen und Workshops geben zu folgenden Themen:
+
+## Lasercutter
+
+Im LabAix gibt es professionelle CO2-Lasercutter. Aber auch im Makerspace haben wir kleinere Lasercutter, die einen einfachen Einstieg ermöglichen. Schon mit kleinen Geräten kann man eine große Vielzahl unterschiedlicher Materialien gravieren und schneiden.
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}TDOT22_laser.jpg);"></div>
+
+
+## 3D-Drucker und CNC Fräsen
+
+Im Makerspace befinden sich ein paar FDM und SLA 3D-Drucker und es gibt auch DIY CNC-Fräsen. Die neueren Geräte könnt ihr live in Aktion erleben und den ersten Prusa Mendel Prototypen Deutschlands, der Vorlage für den ersten 3D-Drucker Workshop in Europa war, findet ihr in der Museumsecke des Spaces.
+
+## UV-Drucker
+
+Wir haben einen UV-Drucker, der so ziemlich alles bedrucken kann. Bringt Lego-Steine oder andere Kleinigkeiten mit und testet es selbst!
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}TDOT22_laser.jpg);"></div>
+
+## Lötkolben und Elektronik
+
+Natürlich haben wir auch alles für Elektronikprojekte da. Arduinos, Raspberry Pis, Komponenten und Equipment für Lötarbeiten. Wenn ihr Löten lernen wollt, sprecht uns gerne an!
+
+## Wir freuen uns auf ein Kennenlernen
+
+Ihr habt die Gelegenheit, Exponate von vergangenen Maker Faires anzugucken, unter anderem den Flipper, den infinity mirror und ein paar neue Sachen, über die ihr bald mehr erfahren könnt.
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}TDOT22_sauele.jpg);"></div>
+
+
+Wir freuen uns, mit euch bei ein paar Snacks in Gespräch zu kommen. Die Teilnahme ist kostenlos und macht Spaß!
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}TDOT22_snacks.jpg);"></div>
