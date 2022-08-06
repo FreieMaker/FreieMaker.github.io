@@ -14,7 +14,11 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Unser Makerspace ist von Lemiers nach Aachen umgezogen. Ab sofort findet ihr uns jeden Donnerstagabend in der Lukasstraße 1 im LabAix. Um diesen Umzug zu feiern, möchten wir euch am 6. August 2022 zum Tag der offenen Tür einladen. Es geht um 12 Uhr los und es wird live Demonstrationen und Workshops geben zu folgenden Themen:
+Unser Makerspace ist von Lemiers nach Aachen umgezogen. Ab sofort findet ihr uns jeden Donnerstagabend in der Lukasstraße 1 im LabAix. 
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}TDOT22_flipper.jpg);"></div>
+
+Um diesen Umzug zu feiern, möchten wir euch am 6. August 2022 zum Tag der offenen Tür einladen. Es geht um 12 Uhr los und es wird live Demonstrationen und Workshops geben zu folgenden Themen:
 
 ## Lasercutter
 
@@ -30,7 +34,7 @@ Im Makerspace befinden sich ein paar FDM und SLA 3D-Drucker und es gibt auch DIY
 ## UV-Drucker
 
 Wir haben einen UV-Drucker, der so ziemlich alles bedrucken kann. Bringt Lego-Steine oder andere Kleinigkeiten mit und testet es selbst!
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}TDOT22_laser.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}TDOT22_uvdrucker.jpg);"></div>
 
 ## Lötkolben und Elektronik
 
@@ -40,7 +44,7 @@ Natürlich haben wir auch alles für Elektronikprojekte da. Arduinos, Raspberry 
 
 Ihr habt die Gelegenheit, Exponate von vergangenen Maker Faires anzugucken, unter anderem den Flipper, den infinity mirror und ein paar neue Sachen, über die ihr bald mehr erfahren könnt.
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}TDOT22_sauele.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}TDOT22_saule.jpg);"></div>
 
 
 Wir freuen uns, mit euch bei ein paar Snacks in Gespräch zu kommen. Die Teilnahme ist kostenlos und macht Spaß!
