@@ -44,7 +44,7 @@ Natürlich haben wir auch alles für Elektronikprojekte da. Arduinos, Raspberry 
 
 Ihr habt die Gelegenheit, Exponate von vergangenen Maker Faires anzugucken, unter anderem den Flipper, den infinity mirror und ein paar neue Sachen, über die ihr bald mehr erfahren könnt.
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}TDOT22_saule.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}TDOT22_saeule.jpg);"></div>
 
 
 Wir freuen uns, mit euch bei ein paar Snacks in Gespräch zu kommen. Die Teilnahme ist kostenlos und macht Spaß!
