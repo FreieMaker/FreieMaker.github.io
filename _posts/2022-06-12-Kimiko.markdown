@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Kimiko"
+date:   2022-06-12 12:00:00
+author: "Jan Thar"
+last_modified_at:  2022-06-12 12:00:00
+excerpt: "Festival"
+categories: events
+tags:  Back
+image:
+  feature: kimiko22.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+Dank Roxy konnten wir recht kurzfristig noch beim Kimiko Festival in Aachen ausstellen.
+Dank extrem kurzer Anreise und mit Unterstützung des [CCC Aachens](https://aachen.ccc.de/) haben wir es sogar hinbekommen ein ganzes Zelt zu befüllen.
+Erste Erkenntnis: Das 6Eck-Zelt mit Hängematten ist ziemlich ideal, so etwas ähnliches (insbesondere die Hängematten) bräucht man auch für andere Messen.
+Im liegen fängt man auch mal an längere Anleitungen zu lesen, was unserem QuantenEscape Projekt natürlich sehr entgegen kommt.
+Allerdings, um ein Uhr Nachts Personen Quantentechnologie zu erklären funktioniert dann doch meist nur eingeschränkt.
+Systeme laufen relativ stabil, insbesondere auch im Kontakt mit nicht ganz nüchternen Besuchern.
+Klasse Sache, so etwas sollten wir auf jeden Fall weiterverfolgen.
