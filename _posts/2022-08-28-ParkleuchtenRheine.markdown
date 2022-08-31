@@ -16,7 +16,7 @@ syntaxHighlighter: no
 ---
 
 Vom 26ten bis 28.8. gab es im Stadtpark von Rheine jeden Abend eine Ausstellung von Lichtkunstwerken und -vorführungen, viele davon interaktiv. 
-Ein grosser Teil davon kam vom [ARTandTECH.space](https://artandtech.space/tech){:target="_blank"}, von denen wir auch eingeladen wurden unsere Leuchtsäulen auszustellen.
+Ein grosser Teil davon kam vom [ARTandTECH.space](https://artandtech.space/tech), von denen wir auch eingeladen wurden unsere Leuchtsäulen auszustellen.
 Die Interaktivität davon hat nur sehr eingeschränkt funktioniert, da die Fernbedienungen und der Erklärungstext darauf im Dunkeln nur schwer zu erkennen sind.
 Da muss noch mal nachgebessert werden.
 Eine besonders witzige Installation des ARTandTECH.space waren ein Trio von leuchtenden Strichfiguren aud Schläuchen (im Bild vorne links zu sehen), ideal für Selfies der Besucher.
