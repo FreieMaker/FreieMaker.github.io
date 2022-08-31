@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Makerfaire Barcelon und Maker Campus Nantes"
+title:  "Makerfaire Barcelona und Maker Campus Nantes"
 date:   2022-07-11 12:00:00
 author: "Jan Thar"
 last_modified_at:  2022-07-11 12:00:00
