@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Startschuss für unser Erasmus+ Projekt Makers+ 2 in Amay"
+date:   2019-12-12 12:00:00
+author: "Jan Thar"
+last_modified_at:  2019-12-12 12:00:00
+excerpt: "TPM Amay Makers+"
+categories: events
+tags:  Back
+image:
+  feature: tpmamay19.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+Das erste Projekttreffen und Startschuss zu unserem neuen Erasmus+ Projekt Makers+. 
+Ein paar Partner kannten wir schon aus einem anderen Erasmus+ Projekt (Numerika2Neets) bzw. dem Planungstreffen zu diesem Projekt, allerdings waren auch hier teilweise neue Gesichter dabei.
+Das erste Planen und Zusamensetzen lief schon mal ganz gut, natürlich durfte dann Abends ein Besuch im Pot au Lait nicht fehlen.
+Ausserdem gelernt das es auf dem Weihnachtsmarkt in Lüttich keinen Glühwein sondern eine Biervariante gibt.
+
