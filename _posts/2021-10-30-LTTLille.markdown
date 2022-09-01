@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Projektwoche in Roubaix"
+date:   2021-10-30 12:00:00
+author: "Jan Thar"
+last_modified_at:  2021-10-30 12:00:00
+excerpt: "LTT Roubaix Makers+ "
+categories: events
+tags:  Back
+image:
+  feature: lttroubaix21.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+Schlag auf Schlag gehts weiter mit einer Projektwoche in Roubaix für Makers+. 
+Aus Versehen erst mal zum alten Standort des Fab Lab gelaufen, warum sollte man auch auf Karten schauen wenn einem (trotz Hinweis auf den Umzug) die Umgebung bekannt vor kommt.
+Hier wurden dann Elektronik und Programmiermodule getestet, ein etwas trockenes Thema, was aber hoffentlich durch viele Hands-On-Aktivitäten Spass gemacht hatte (wir waren diesmal auf der Lehrenden-Seite).
+Fab Lab Lille hat unter anderem eine nette Thermoform-maschine, könnte ggfs. auch für uns interessant sein.
+Und eine witzige Unterkunft gefunden: Eine alte Wohnung mit lauter Reisesouveniers mit Frühstück im Wohnzimmer. 
+Als kultureller Teil dann an einem Tag Lille besichtigt, unter anderem das Museum im Schwimmbad - auf die Idee muss man erst einmal kommen. 
+
