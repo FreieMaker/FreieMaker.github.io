@@ -8,7 +8,7 @@ excerpt: "Open Lab Day im Labaix"
 categories: announcements
 tags:  Openlabday
 image:
-  feature: openlabdayhack.png
+  feature: openlabdayhack.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
