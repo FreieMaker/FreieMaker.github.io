@@ -28,4 +28,4 @@ Lukasstrasse 1, 52070 Aachen
 
 # Discord
 
-Genauere Ankündigungen sowohl zum Open Lab Day gibt es im Aachen Channel in [unserem Discord](https://discord.gg/FRPbrSP){:target="_blank"}, gleiches gilt auch für die Ankündigungen zu Digitale Dinge.
+Genauere Ankündigungen sowohl zum Open Lab Day gibt es im Aachen Channel in [unserem Discord](https://discord.gg/FRPbrSP), gleiches gilt auch für die Ankündigungen zu Digitale Dinge.
