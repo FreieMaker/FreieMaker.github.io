@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Abschlusstreffen Makers+"
+date:   2022-06-15 12:00:00
+author: "Jan Thar"
+last_modified_at:  2022-06-15 12:00:00
+excerpt: "TPM Amay Makers+"
+categories: events
+tags:  Back
+image:
+  feature: tpmamay22.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+Am 15.6.22. war das Abschlusstreffen unseres Erasmus+ Projekts Makers+ in Amay. 
+Ein letztes Projekttreffen und gleichzeitig eine Veranstaltung für die Öffentlichkeit zum Projekt mit Vorträgen und einer kleinen Ausstellung.
+Da konnten wir als dual-use natürlich auch ein paar unserer Spiele aus unserem anderen Projekt QuantumEscape mitnehmen und ausstellen.
+Auch aus Amay kamen natürlich viele interessante Exponate, unter anderem ein Infinity-Dodecahedron - der fehlt noch in unserer Sammlung.
+
+
+
