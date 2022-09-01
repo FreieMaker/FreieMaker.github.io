@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Projektwoche in Graz"
+date:   2020-02-01 12:00:00
+author: "Jan Thar"
+last_modified_at:  2020-02-01 12:00:00
+excerpt: "LTT Graz Makers+"
+categories: events
+tags:  Back
+image:
+  feature: lttgraz20.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+In unserer ersten Projektwoche in Graz für Makers+ ging es vor allem um die Schreibtechniken, d.h. Struktur der Kapitel und Schreibstil festlegen und in Schreibworkshops üben.
+Etwas ungewohnt, aber lehrreich, ich tendiere etwas dazu zuviel vorausszusetzen und zuwenig zu wiederholen.
+Und zu Bandwurmsätzen, aber das ist eine andere Geschichte.
+Jedenfalls steht der Plan fürs Projekt, nun kann die eigentliche Arbeit losgehen (wobei noch etwas Arbeitsanteile eines ausgestiegenen Projektpartners aufgeteilt werden müssen).
+Der kulturelle Teil kam auch nicht zu kapp, Graz ist eine hübsche Stadt mit einem netten Schlossberg, und auch nette Burgen im Umland. 
+Eigentlich perfekt geeignet für kleinere und grössere Wanderungen.
+
