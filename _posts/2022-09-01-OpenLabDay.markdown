@@ -17,15 +17,20 @@ syntaxHighlighter: no
 
 
 # Digitale Dinge
-Jeden Dienstag gibt es [Digitale Dinge](https://www.digitale-dinge.de) - mit Videos zu Makerthemen, hier sind neben Zuschauern auch Gäste gerne gesehen zum mitmachen.
 
-# OpenLabday
+Jeden Dienstag gibt es [Digitale Dinge](https://www.digitale-dinge.de) - mit Videos zu Makerthemen. Hier sind neben Zuschauern auch Gäste gerne gesehen zum mitmachen.
 
-Für Leute aus Aachen und Umgebung: Jeden Donnerstag gegen 19.00 Uhr haben wir unseren OpenLabDay. Hier kann jeder vorbeikomen und uns und die Werkzeuge kennenlernen! Besucht uns in unserem Maker-Spaces im [Lab Aix](https://www.labaix.de/):
+# OpenLabDay
+
+Für Leute aus Aachen und Umgebung: Jeden Donnerstag gegen 19.00 Uhr haben wir unseren OpenLabDay. 
+
+Hier kann jeder vorbeikommen und uns und die Werkzeuge kennenlernen!
+
+Besucht uns in unserem Maker-Spaces im [Lab Aix](https://www.labaix.de/):
 Lukasstrasse 1, 52070 Aachen
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}openlabday.jpg);"></div>
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}openlabday.jpg);"></div>
 
 # Discord
 
-Genauere Ankündigungen sowohl zum Open Lab Day gibt es im Aachen Channel in [unserem Discord](https://discord.gg/FRPbrSP), gleiches gilt auch für die Ankündigungen zu Digitale Dinge.
+Genauere Ankündigungen zum OpenLabDay gibt es im #aachen Channel in [unserem Discord](https://discord.gg/FRPbrSP), gleiches gilt auch für die Ankündigungen zu Digitale Dinge im Kanal #digitale-dinge.

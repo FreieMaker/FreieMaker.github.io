@@ -15,7 +15,10 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Am 20ten und  21.8. war der [Tag der offenen Tür im BMBF](https://www.bmbf.de/bmbf/de/ueber-uns/tag-der-offenen-tuer.html).
+Am 20. und 21.8.2022 war der [Tag der offenen Tür im BMBF](https://www.bmbf.de/bmbf/de/ueber-uns/tag-der-offenen-tuer.html).
+
 Hier durfteh wir einen Teil der Ergebnisse unseres BMBF-geförderten Projekts QuantumEscape bzw. Alice - Zwischen den Spiegeln präsentieren.
+
 Nette Überblickvideos über die Veranstaltung, wo auch unser Stand vorkommt findet ihr [hier](https://twitter.com/BMBF_Bund/status/1561290822905110528) oder [hier](https://www.instagram.com/tv/ChhGFomOEQs/?utm_source=ig_web_copy_link).
-Interessiertes Publikum, spannende andere Stände insbesondere auch zu anderen Themen und natürlich eine prima Organistation, hat Spass gemacht!
+
+Interessiertes Publikum, spannende andere Stände - insbesondere auch zu anderen Themen - und natürlich eine prima Organistation, das hat Spaß gemacht!
