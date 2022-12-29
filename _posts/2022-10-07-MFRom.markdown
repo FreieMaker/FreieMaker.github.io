@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Makerfaire Rom 2022"
+date:   2022-10-07 12:00:00
+author: "Jan Thar"
+last_modified_at:  2022-10-07 12:00:00
+excerpt: "Messeauftritt"
+categories: events
+tags:  Back
+image:
+  feature: MFR22.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+Und dann gings zur Makerfaire Rom vom 7. bis 9.10.2022. 
+Die Makerfaire fand wieder im Gasometer in Ostia statt, einem sehr schönen alten Industriegelände.
+Ich hoffe sie wird da auch zukünftig stattfinden
+
+Diesmal hatten wir einen netten Spot in einem der Gasometer erwischt.
+Insgesamt erstaunlich viele Besucherzahl - von Corona ist man ja nicht mehr so viel gewohnt.
+Nach den superlangen Schlangen an den Essensständen zu urteilen würde ich fast denken das auch die Veranstalter nicht mit so vielen Besuchern gerechnet haben.
+Gegenüber Makercampus Nantes und Makerfaire Hannover fehlten zwar etwas die verrückten Projekte - insgesamt hatte ich den Eindruck das die Makerfaire mehr in Richtung Universitäten und Bildung geht.
+Aber auch da gab es viel interessantes zu entdecken.
+
+Aus unserer Quantenprojektsicht war ein Stand der Universität Rom natürlich besonders interessant, mit einem kleinen Modellquantencomputer.
+In einem der Gasometer war ein begehbarer Toroid zum Thema Kernfusion aufgebaut. 
+Die Ausstellung im Inneren war zwar nicht so spannend (Nur Videos), aber die Idee des grössenwahnsinnigen Aufbaus um Besucher anzulocken ist ne gute Idee.
+Wird allerdings etwas schwierig so etwas Bahn- und Flugkofferkompatibel hinzubekommen.
