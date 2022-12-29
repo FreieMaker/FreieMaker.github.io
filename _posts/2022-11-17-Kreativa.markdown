@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Messeherbst Stuttgart"
+date:   2022-11-17 12:00:00
+author: "Jan Thar"
+last_modified_at:  2022-11-17 12:00:00
+excerpt: "Messe"
+categories: events
+tags:  Back
+image:
+  feature: Kreativa22.jpeg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+Vom 17. bis 20.11.2022 fand der Messeherbst in Stuttgart statt.
+Interessant Mischung aus Kreativ- und Spielemesse (die Halle in der wir waren), Tiermesse, Juwelen, Veggie... 
+Auch wenn man einen Whirlpool brauchte oder ein Blasinstrument gabs die entsprechende Ausstellungen. 
+Was natürlich ein eher ungewohntes Publikum ergab.
+
+Witzigerweise konnte ich relativ viel von der Messe sehen, der Stand lief anscheinend am besten wenn ich nicht da war.
+Wahrscheinlich brauchen wir beim nächsten Mal ein Hinweisschild das wir nichts verkaufen, ich hatte den Eindruck das die leute beim besetzten Stand befürchten das jemand einem was andrehen will.
+Interessanterweise gingen unsere Logo-klemmbausteine (statt Visitenkarten) auch immer nur nach Hinweis weg, wahscheinlich etwas ungewohnt das wir die einfach so umsonst abgeben.
+
+insgesamt hatten wir eine nette Ecke erwischt,hinter uns der Hobbyhimmel, der Makerspace in Feuerbach. 
+Mit netten Workshops, Drechseln an der Drehbank hat mich fast in Versuchung geführt das wir so was auch im Lab brauchen.
+Gegenüber gabs einen grossen Stand der Marvin-Puchmeier-Stiftung, wo jederman Guitar Hero spielen konnte. 
+Kostenlos, ein schicker Stand und ein netter Mensch - einziger Wehmutstropfen ist natürlich der tragische Background der Stiftung.
+
+Dann gabs noch grosse Stände mit schicken Mitmachexperimenten der experimenta und des VDI Südwest. 
+Abgesehen von Mobiler-Werkstatt-Gerüchten zu Letzterem gab es auch noch das Ökomobil Stuttgart... irgendwie kommt man nicht vom Traum von der mobilen Werkstatt weg.
