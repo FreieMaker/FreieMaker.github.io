@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Makerfaire Hannover 2022"
-date:   2022-08-28 12:00:00
+date:   2022-09-10 12:00:00
 author: "Jan Thar"
 last_modified_at:  2022-09-10 12:00:00
 excerpt: "Messeauftritt"
