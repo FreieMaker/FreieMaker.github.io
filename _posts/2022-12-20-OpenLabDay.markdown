@@ -3,7 +3,7 @@ layout: post
 title:  "Digitale Dinge & OpenLabDay"
 date:   2022-12-20 01:00:00
 author: "Christopher Werner"
-last_modified_at:  2022-09-01 01:00:00
+last_modified_at:  2022-12-20 01:00:00
 excerpt: "Open Lab Day im Labaix"
 categories: announcements
 tags:  Openlabday
