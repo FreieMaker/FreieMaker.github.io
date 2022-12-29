@@ -8,7 +8,7 @@ excerpt: "Messeauftritt"
 categories: events
 tags:  Back
 image:
-  feature: MFR22.jpg
+  feature: MFR22.jpeg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
