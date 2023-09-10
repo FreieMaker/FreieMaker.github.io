@@ -16,5 +16,5 @@ syntaxHighlighter: no
 ---
 
 Dank Rick war der Verein auch auf einer grossen Veranstaltug des HCC am 17. Juni präsent gewesen.
-Der HCC ist der niederländische Hobby Computer Club, als abkömmling des ACC, des Amateur Computer Clubs und nicht mit dem CCC, dem Chaos Compuer Club zu verwechseln.
+Der HCC ist der niederländische Hobby Computer Club, frei nach dem ACC, des Amateur Computer Clubs und nicht mit dem CCC, dem Chaos Compuer Club zu verwechseln.
 Wie man sieht, Rick hat dafür das er alleine unterwegs war, den Verein mit einem kleinen bescheidenen, und im Vergleich mit anderen Ständen wahrscheinlich nur sehr wenig leuchtendem, Stand würdig repräsentiert.
