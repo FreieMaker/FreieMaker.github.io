@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Makercampus Nantes 2023"
+date:   2023-09-10 12:00:00
+author: "Jan Thar"
+last_modified_at:  2023-09-10 12:00:00
+excerpt: "Makerfaire"
+categories: events
+tags:  Back
+image:
+  feature: MCN2023.jpeg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+Und dann war da noch der MakerCampus Nantes (7.-9. Juli), neben Makerfaire Eindhoven (und mit etwas Abstand der Makerfaire Ruhr) so ziemlich einer meiner Lieblingsmakerfaires.
+Bzw. Makerevents, das Geld für den Titel Makefaire sparen sie sich ja lieber^^. 
+Schön verrückte Ideen aus den unterschiedlichsten Bereichen, mit viel Interaktion mit dem Publikum.
+
+Grossartig war eine band (oder zwei) In Poupone We Trust &  Les Amis Nos Morts, irre Kostüme, tolle Musikinstrumente (motorisierte Schädel) und grossartige Musik.
+
+In einem Cabinet der Koriositäten gab es wunderschöne Skulpturen  - naja, wunderschön geaarbeitet, im Stile von Giger würde ich sagen zu bewundern.
+Und dicht daneben die Neonart von MP Gautheron - grossartige Schwarzlichkunstwerke. 
+Auch hier wunderschön etwas eingeschränkt da der Totenschädel auch bei ihr doch recht häufig vorkommt. 
+
+Das Grosse Skelett (10m?) was im laufe der letzten Maker Campuse gedruckt wurde ist nun endlich fertig, und - typisch für den Makercampus - die Maker waren natürlich nicht damit zufrieden es nur aufzustellen, nein, es muss sich auch motorisiert bewegen.
+
+Ausstellungsstücke aus dem Naia-Museum waren fast schon zu professionell für uns Hobby-Maker (technsich im Stile der Machines de Ile, aber abstrakter/verrückter vom Thema).
+Auf die Frage wie man so etwas erstellt kam allerdings die Antwort: An sich ganz einfach, man macht ne Skizze und dann baut man es".
+Nachvollziehbar, würde ich auch ncith anders sagen.
+
+Eine witzige Mitmachaktion kam von einer Papierfaltgruppe - die besucher konnten Boxen in unterschiedlichen Farben falten und an bestimmte Stellen einer Wand stecken.
+Nach und nach wurde dann daruas das Bild eines grossen Auges sichtbar.
+
+Alle mögliche Robotor waren unterwegs, witzig ein Minion-Roboter als Work-In-Progress, zum tanzen und singen hats aber schon gereicht.
+Udn ein unartiger Industrierobotor sass auf einer Schulbank und musste hunderte Male in Heft schreiben das er keine Menschen jagen soll.
+
+Dann wurde mal eben eine riesige Rakete aus Karton gebaut, es gab Leute die mit Ton, Papier,Stahl, Holz - eigentlich jedem Material arbeiteten und auch die Besucher arbeiten liessen.
+Eine völlg verrückte Mischung der unetrschiedlichsten Themen- und Handwerksarten.
+
+Besonders erfreulich war natürlich auf einem der Legonachbarstände eines unser Freie-Maker-Logos auf Klemmbausteinen vom letzten Jahr wiederzufinden, der Plan die Welt damit zu übernehmen scheint zu funktionieren.
