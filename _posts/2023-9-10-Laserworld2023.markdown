@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Laserworld München 2023"
-date:   2023-09-10 12:00:00
+date:   2023-09-08 12:00:00
 author: "Jan Thar"
-last_modified_at:  2023-09-10 12:00:00
+last_modified_at:  2023-09-08 12:00:00
 excerpt: "Industriemesse"
 categories: events
 tags:  Back
@@ -15,7 +15,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Und weiter ging es am 27. bis 30. Juni mit der Laserworld in MÜnchen. 
+Und weiter ging es am 27. bis 30. Juni mit der Laserworld in München. 
 Hier konnten wir uns wieder in den Open Photonics Gemeinschaftsstand hereinschmuggeln, und unser QuantenOutreach Projekt (Quantenflipper und Co. vorstellen).
 Wie üblich eine interessante Erfahrung zwischen Fehl am Platz und Ingenieure sind doch Spielkinder ^^.
 Aber wie üblich hat sich niemand beschwert das wir nur unnötig Besucherwege verlängern, stattdessen gabs gutes Feedback.
