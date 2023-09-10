@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Digitale Dinge & OpenLabDay"
-date:   2022-12-20 01:00:00
+title:  "Digitale Dinge, OpenLabDay & Repaircafe"
+date:   2023-09-10 01:00:00
 author: "Christopher Werner"
-last_modified_at:  2022-12-20 01:00:00
+last_modified_at:  2023-09-10 01:00:00
 excerpt: "Open Lab Day im Labaix"
 categories: announcements
 tags:  Openlabday
@@ -30,6 +30,10 @@ Besucht uns in unserem Maker-Spaces im [Lab Aix](https://www.labaix.de/):
 Lukasstrasse 1, 52070 Aachen
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}openlabday.jpg);"></div>
+
+# Repaircafe
+
+Ausserdem ist jeden ersten Samstag im Monat das Repaircafe im LabAix, wo unsere Werkstatt auch geöffnet für jeden ist, aber man kann zusätzlich noch Sachen zum Reparieren vorbeibringen und es gibt Kuchen.
 
 # Discord
 
