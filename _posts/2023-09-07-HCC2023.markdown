@@ -8,7 +8,7 @@ excerpt: "Ausstellung"
 categories: events
 tags:  Back
 image:
-  feature: HCC2023.jpeg
+  feature: HCC2023.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
