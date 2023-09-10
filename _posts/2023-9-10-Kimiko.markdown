@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Kimiko 2023"
+date:   2023-09-10 12:00:00
+author: "Jan Thar"
+last_modified_at:  2023-09-10 12:00:00
+excerpt: "Festival"
+categories: events
+tags:  Back
+image:
+  feature: Kimiko2023.jpeg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+Auf dem Kimiko Festival in Aachen (9.-11. Juni) waren wir dieses Jahr zusammen mit dem digitac unterwegs. 
+Leider dieses Jahr ohne Hängemattenzelt (schmerzlich vermisst), aber dank Uwe vom digitac mit Kühlschrank und Ventilator.
+Auch wenn die übrigen Festivalbesucher in brütender Hitze unsere Probleme wie das wir das gefrorene Wasser leider nicht trinken konnten irgendwie nicht so ganz nachvollziehen konnten.
+Um die Tradition der kostenlosen Waffel von AixFred vom letzten Kimiko zu würdigen gabs an einem Tag dann Waffeln von Lukas und Jan.
+Platz war etwas eingeschränkt, deswegen gabs diesmal nur wenigBlinkzeig aus unserem Quantentechnikstichwortspielen - aber immerhin freuten sich unserere Standnachbarn das sie bei den Leuten mit den hübschen Lichtern gelandet waren.
+CCC Aachen hatte leider ein anderes Event parallel, aber mal schauen inwieweit wir das Gruppenzelt im nächsten Jahr dann was erweitern können.
