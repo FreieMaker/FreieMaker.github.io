@@ -26,4 +26,4 @@ Und es gab diesmal auch einen Fashiontech-bereich, unter anderem hat Anouk Wippr
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFEindhoven2023b.jpeg);"></div>
 
-Wir müssen auf jeden Fall gnaz dringend einen Stempel für Besuche für den [Hackerpass](https://www.noisebridge.net/wiki/Passport) machen ... und natürlich selber einen erstellen.
+Wir müssen auf jeden Fall ganz dringend einen Stempel für Besuche für den [Hackerpass](https://www.noisebridge.net/wiki/Passport) machen ... und natürlich selber einen erstellen.
