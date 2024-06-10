@@ -15,7 +15,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Unser erster Versuch eines Makerwandertages fand am 9.12.2020 statt. Eine kleine Runde über den Dreiländerpunkt nach Lemiers in den Makerspace, wo dann gegrillt werden sollte mit ein bisschen Ausstellung.
+Unser erster Versuch eines Makerwandertages fand am 12. September 2020 statt. Eine kleine Runde über den Dreiländerpunkt nach Lemiers in den Makerspace, wo dann gegrillt werden sollte mit ein bisschen Ausstellung.
 Grundsätzlich ein guter Plan, nur haben wir uns völlig mit der Zeitdauer der Wanderung vertan (insbesondere der Zeit am Dreiländereck als Verpflegungsstation).
 Zusamen mit dem nicht existenten Mobilfunkempfang im Aachener Wald war es ziemlich doof für eine Person die damit stundenlang vor verschlossener Tür in Lemiers stand.
 Da muss nachgebessert werden.
