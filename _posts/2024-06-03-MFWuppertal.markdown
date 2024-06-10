@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Makerfaire Wuppertal 2024"
-date:   2024-6-2 12:00:00
+date:   2024-06-02 12:00:00
 author: "Jan Thar"
-last_modified_at:  2024-16-2 12:00:00
+last_modified_at:  2024-06-02 12:00:00
 excerpt: "Makerfaire"
 categories: events
 tags:  Back
