@@ -14,7 +14,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Vom 16.-17. März fand die diesjährige Makerfaire Ruhr statt.
+Vom 16.-17. März fand die diesjährige Makerfaire Ruhr statt. 
 Wir waren natürlich auch wieder mit einem Stand vertreten, netterweise haben wir einen fast idealen Standort im Halbdunkeln  bekommen.
 Wobei ein Nachbarstand es fast noch passsender getroffen hatte, ein Stoff-Upcycling-Stand diekt bei den Austellungen zum Thema Stoffe und vor einer grossen Wand voller Stoffe.
 Ansonsten war es vor allem ein Klassentreffen mit vielen bekannten Gesichtern. 
