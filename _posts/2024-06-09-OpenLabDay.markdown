@@ -16,9 +16,9 @@ syntaxHighlighter: no
 ---
 
 
-# Digitale Dinge
+# Youtube
 
-Jeden Dienstag gibt es [Digitale Dinge](https://www.digitale-dinge.de) - mit Videos zu Makerthemen. Hier sind neben Zuschauern auch Gäste gerne gesehen zum mitmachen.
+Du findest uns auch auf Youtube: https://www.youtube.com/@freie-maker/
 
 # OpenLabDay
 
@@ -37,4 +37,4 @@ Ausserdem ist jeden ersten Samstag im Monat das Repaircafe im LabAix, wo unsere 
 
 # Discord
 
-Genauere Ankündigungen zum OpenLabDay gibt es im #aachen Channel in [unserem Discord](https://discord.gg/FRPbrSP), gleiches gilt auch für die Ankündigungen zu Digitale Dinge im Kanal #digitale-dinge.
+Genauere Ankündigungen zum OpenLabDay gibt es im #aachen Channel in [unserem Discord](https://discord.gg/FRPbrSP).
