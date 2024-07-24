@@ -18,7 +18,8 @@ syntaxHighlighter: no
 
 # Youtube
 
-Du findest uns auch auf Youtube: https://www.youtube.com/@freie-maker/
+Du findest uns auch auf Youtube: [https://www.youtube.com/@freie-maker/](https://www.youtube.com/@freie-maker/){:target="_blank"}
+
 
 # OpenLabDay
 
@@ -26,7 +27,7 @@ Für Leute aus Aachen und Umgebung: Jeden Donnerstag gegen 19.00 Uhr haben wir u
 
 Hier kann jeder vorbeikommen und uns und die Werkzeuge kennenlernen!
 
-Besucht uns in unserem Maker-Spaces im [Lab Aix](https://www.labaix.de/):
+Besucht uns in unserem Maker-Spaces im [Lab Aix](https://www.labaix.de/){:target="_blank"}:
 Lukasstrasse 1, 52070 Aachen
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}openlabday.jpg);"></div>
