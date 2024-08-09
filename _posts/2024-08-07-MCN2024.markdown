@@ -1,0 +1,75 @@
+---
+layout: post
+title:  "Maker Campus Nantes 2024"
+date:   2024-08-07 01:00:00
+author: "Jan Thar"
+last_modified_at:  2024-08-07 01:00:00
+excerpt: "Maker Event in Frankreich"
+categories: events
+tags:  Back
+image:
+  feature: MCN2024_Dragonhorse.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+Am ersten Wochenende im Juli fand wieder der Maker Campus Nantes statt.
+Wir waren wieder mit einem Stand vertreten - wobei wir beim nächsten Mal wirklich mal etwas sonnenlicht-tauglichere Exponate brauchen :)
+Wie immer viele verrückte Sachen zu sehen, und auch ein Wiedersehen mit ein paar bekannten Gesichtern.
+
+Ein Nachbar von unserem ersten Makercampus war wieder mit seiner Nautilus dabei - mit 3 Monitorstationen wo Kinder verschiedene Unterwasserabenteuer erleben konnten.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_Nautilus.jpeg);"></div>
+
+OWLLab war zwar nicht mit ihrem grössenwahnsinnigen Skelett da, aber dafpr mit vielen neuen anatomischen Ausstellungsstücken.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_Owlab.jpeg);"></div>
+
+Und sie machen wohl mittlerweile eine Kooperation mit MP Gautheron - die auch eine Tendenz zu Totenschädeln hat :)
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_Gautheron.jpeg);"></div>
+
+Bildung und Hilfsmittel waren auch wieder gut vertreten wie z.B. mit Enable - nett fand ich den Brailledrucker für Bilder.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_Braille.jpeg);"></div>
+
+Musik gab es natürlich auch, imposant war ein Ensemble aus lauter ferngesteuertem Instrumenten.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_Musik.jpeg);"></div>
+
+Wer es mehr sportlich angehen wollte konnte ein Pferderennen machen (Vorwärtsbewegung durch auf-und-abbewegen - sah anstrengend aus).
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_Horse.jpeg);"></div>
+
+Für die Motorsportfans konnte man ein Modellbauauto durch einen Parcour steuern - von einem Rechnersteuerplatz aus dank Kameraübertragung aus dem Auto.
+Oder man für ein Plotterrennen gegeneinander - mal eine richtig kreative Nutzung des Plotters:
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_Race.jpeg);"></div>
+
+Ich war natürlich lieber faul und hab mich mal per Jurassic-Park-Bahn herumfahren lassen.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_Train.jpeg);"></div>
+
+Lötworkshops gabs natürlich auch, unter anderem diese hübsche Rakete mit einer interessanten Anpin-Befestigung:
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_Rocket.jpeg);"></div>
+
+Und man konnte z.B. auch an einem Mosaik mitarbeiten.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_Mosaik.jpeg);"></div>
+
+Aus Wearables-Sicht fand ich das Holzkleid spannend. Interessantes Lernkonzept: Man kann machen was man will, aber es muss aus Holz sein.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_Dress.jpeg);"></div>
+
+Keine AHnung ob man den Austronat mit seiner Raumanzugsselbstreparatur auch noch unter Wearables zählen kann, war aber witzig:
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_Astronaut.jpeg);"></div>
+
+Insgesamt kam die Kunst nicht zu kurz. Hier z.B. ein Turmspringer mit Kurbelantrieb. 
+Macht einen wunderschönen Köpper mit Armen voraus, blubbert dann auch schön unter Wasser... und pinkelt dann das Wasser beim aufsteigen wieder heraus ^^.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_Diver.jpeg);"></div>
+
+Kunst aus alten Espressokapseln oder Spraydosen - letzteres life auf dem Makercampus aufgestapelt
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_RecycleArt.jpeg);"></div>
+
+Eine Murmelbahn aus Papier mit pneumatisch (mit Spritzen) betriebenem Kran:
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_Paper.jpeg);"></div>
+
+Und eine Sofortbildkamera mit einem Thermotransferdrucker:
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_Thermocam.jpeg);"></div>
+
+Unser Logo-Klemmbaustein macht auch weiter Reklame für uns auf Veranstaltungen ohne uns:
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MCN2024_Lego.jpeg);"></div>
+
+Und so weiter. Tolle Veranstaltung, die Machine D'Ile sind ja auch immer wieder toll. 
+Und dieses Jahr war das Drachenpferd zurück in Nantes, leider erst kurz nach dem Makercampus, dafür musste ich noch etwas verlängern.
