@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Digitale Dinge, OpenLabDay & Repaircafe"
-date:   2024-06-09 14:00:00
+date:   2024-08-09 14:00:00
 author: "Christopher Werner"
-last_modified_at:  2024-06-09 14:00:00
+last_modified_at:  2024-08-09 14:00:00
 excerpt: "Open Lab Day im Labaix"
 categories: announcements
 tags:  Openlabday
