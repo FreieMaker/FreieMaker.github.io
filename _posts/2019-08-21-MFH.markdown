@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Makerfaire Hannover 2019"
+date:   2019-08-21 01:00:00
+author: "Jan Thar"
+last_modified_at:  2019-08-21 01:00:00
+excerpt: "Maker Faire"
+categories: events
+tags:  Back
+image:
+  feature: mfh2019.jpeg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+Kurz vor dem CCCamp 2019 ging es noch schnell zur Makerfaire Hannover.
+Lag oraktischerweise auf dem Weg, und die Ausstellungssachen passen für beides.
+Es gab dieses Mal zum ersten Mal einen Darkroom, prima für unsere Leuchtsachen.
+Vor allem weil der leichter transportierende Obelisk - mit Folie statt Spiegelplatten im Hellen zunächst so schlecht aussah das ich ihn fast wieder einpacken wollte.
+Im Dunkeln sahs dann aber gleich viel besser aus - wie leuchtendes Eis.
+Dummereise ist mir dann beim Aufbau der Würfel auf die Blume des Lebens-Lampe gefallen, Sprung in der Scheibe.
+Auch da war die Dunkelheit gut zum vertuschen des Schadens.
+Parallel gab es noch im Hellen den FabScan Pi Stand in einer anderen Halle für mehr tageslichtaugliche Projekte.
+Nach einem kurzen Zwischenstop in Berlin mit Besuch des MotionLabs gings dann weiter zum Campen.
+
