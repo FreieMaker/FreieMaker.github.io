@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Makerfaire Trieste 2024"
+date:   2024-08-31 01:00:00
+author: "Jan Thar"
+last_modified_at:  2024-08-31 01:00:00
+excerpt: "Maker Event in Italien"
+categories: events
+tags:  Back
+image:
+  feature: MFT24_booth.jpeg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+Am 31. August gings zum ersten Mal zur Makerfaire Trieste.
+Aufgrund der Makerfaire Rome war das bei uns dummerweise immer untergegangen, was wohl ein Fehler war.
+
+Superorganisation, die Event-Location auf einem alten Renassaince-Marktplatz, wobei eine Seite offen zum Mittelmeer ist.
+Traumhaft, und man bekam für die weitere Anreise soagr eine nette Unterkunft gestellt.
+Makerdinner gabs auch, und ein T-Shirt für jeden Teilnehmer.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFT24_Tshirt.jpeg);"></div>
+
+War Teilweise wie Weihnachtsmarkt mit Hütten und Zelten - nur sehr unkommerziell, offen für jedermann mit interessanten Austellern und Mitmachaktionen.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFT24.jpeg);"></div>
+
+Interessant war insbesondere Hiša eksperimentov - eine - zumindest so wie ich es verstanden habe - interaktive Technikausstellugn mit vielen netten, anschaulichen Experimenten:
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFT24_exp.jpeg);"></div>
+
+Oder auch High Tech des ICTP selber:
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFT24_particle.jpeg);"></div>
+
+Da es auch die zehnte Makerfaire war gab es zwischen den Hütten Bilder der jweiligen alten Events - witzigerweise auch eines der disjährigen Makerfaire, wo die Bilder durch einen Spiegel ersetzt wurden.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFT24_10y.jpeg);"></div>
+
+Da werden wir wohl noch mal hin müssen :)
