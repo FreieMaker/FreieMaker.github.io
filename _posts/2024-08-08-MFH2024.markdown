@@ -4,7 +4,7 @@ title:  "Makerfaire Hannober 2024"
 date:   2024-08-18 01:00:00
 author: "Jan Thar"
 last_modified_at:  2024-08-18 01:00:00
-excerpt: "Maker Event in Frankreich"
+excerpt: "Maker Event in Deutschland"
 categories: events
 tags:  Back
 image:
