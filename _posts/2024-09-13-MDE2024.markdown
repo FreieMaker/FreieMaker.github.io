@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Maker Days Eindhoven 2024"
+date:   2024-09-13 01:00:00
+author: "Jan Thar"
+last_modified_at:  2024-09-13 01:00:00
+excerpt: "Maker Event in den Niederlanden"
+categories: events
+tags:  Back
+image:
+  feature: MFE24_Room.jpeg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+Am 13ten September ging es dann wieder mal mit grösserer Gruppe nach Eindhoven - diesmal nicht zur Makerfaire sondern den Maker Days. 
+Lag aber nur daran das sie sich umbenannt haben.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFE24_open.jpeg);"></div>
+
+Gab wieder ein paar nette lustige Projekte, ein witziges Teil war beispielsweise eine modulare Murmelbahn:
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFE24_marble.jpeg);"></div>
+
+Hat Spass gemacht, auch Glamping nahe Eindhoven hatte gut funktioniert.
+Im nächsten Jahr ganz so weitergehen (ausser das das ein Fashion-Tech-Ausstellungsstück den schönen Rundgang im Darkroom kaputt gemacht hat. Meckern auf hohem Niveau ^^)
