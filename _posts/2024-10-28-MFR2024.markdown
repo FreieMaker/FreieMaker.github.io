@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Makerfaire Rome 2024"
+date:   2024-10-28 01:00:00
+author: "Jan Thar"
+last_modified_at:  2024-10-28 01:00:00
+excerpt: "Maker Event in Italien"
+categories: events
+tags:  Back
+image:
+  feature: MFR24.jpeg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+Ende Oktober ging es dann wieder nach Rom. 
+
+Wieder im Gazometer, was ich als Veranstaltungsort witziger finde als die Messehallen.
+Dieses Jahr wurde es  - wohl auch wegen Renovierungsarbeiten - zusätzlich ein Institutsgelände (Ich glaube irgendetwas mit Feuerwehr) genutzt.
+Sehr schick, auch wenn es dadurch etwas zersplitterte.
+
+Insbesondere zwei Sachen sahen sehr nachbauinteressant aus:
+Einmal eine riesige LED-Installtion, wo LED-Streifen auf Drahtgittern in Tangram-Formen Tiere darstellten
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFR24_Art.jpeg);"></div>
+
+sowie - eigentlich ganz einfach - eine Art Skisimulator:
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFR24_Ski.jpeg);"></div>
+... irgendwie fiel ir dazu Tuc-Racer ein :)
