@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Makernacht Wuppertal 2024"
+date:   2024-10-11 01:00:00
+author: "Jan Thar"
+last_modified_at:  2024-10-11 01:00:00
+excerpt: "Maker Event in Wuppertal"
+categories: events
+tags:  Back
+image:
+  feature: Wuppertal.jpeg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+Im Oktober gabs dann auch noch die nächste Makernacht an der JuniorUni Wupeprtal (Naja, eigentlich mit leicht abgewandeltem Namen).
+Diesmal mit offenen Stationen statt Workshops mit Anmeldung, was ich natprlich gut finde.
+Netterweise gabs sehr gute Unterstützung am Stand durch das JuniorUni-Team, so das der Abend eigentlich fast entspannt wurde.
+Aber an unseren Workshops muss ich noch was arbeiten, immerhin läuft Chris Printenlaser weiterhin super.
