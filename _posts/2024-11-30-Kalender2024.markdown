@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Kalenderbasteln 2024"
+date:   2024-11-30 01:00:00
+author: "Jan Thar"
+last_modified_at:  2024-11-30 01:00:00
+excerpt: "1000€ fürs Ehrenamt"
+categories: events
+tags:  Back
+image:
+  feature: Kalender24.jpeg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+Am 30.11. haben wir dann - auch dank der Förderung durch die Aktion 1000€ fürs Ehrenamt des Landes NRW und der Stadt Aachen - ein Samstagssonderevent zum Last-Minute-Adventskalenderbasteln gemacht.
+
+Dazu wurden Folien mit unterschiedlichen Motiven nach eigener Zusammenstellung tiefgezogen udn danach mit geschmolzener Schokolade gefüllt.
+Danach konnte man noch ein Motiv wählen und auf Karton drucken, der danach mit dem Vinylcutter als Box mit zu öffnenden Türchen zugeschnitten wird.
+
+Insgesamt wurde es dann doch was länger als zunächst geplant, aber es wurden eine Menge Adventskalender gebaut und viel geplaudert.
+Und es haben es tatsächlich mehr Leute zum Samstag geschafft als zum üblichen Donnerstags-Termin, auch viel alte Bekannte die lange nicht mehr da waren.
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}Kalender24_2.jpeg);"></div>
+
+Ende des Jahres probieren wir dann noch einmal ein Last-Minute-Weihnachtsgeschenkebasteln aus (da dann ohne Plan), und am Samstag vor Sylvester noch einmal in Kombination mit der jährlichen Vollversammmlung.
+
+Auf dieser können wir dann Feedback einholen inwieweit derartige Events weiter durchgeführt werden.
