@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "AIoT Xperience Day 2024"
+date:   2024-09-27 01:00:00
+author: "Jan Thar"
+last_modified_at:  2024-09-27 01:00:00
+excerpt: "Seeed Event in Düsseldorf"
+categories: events
+tags:  Back
+image:
+  feature: AI24.jpeg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+Am 27. September fand ein AIoT-Event in Düsseldorf statt - (mit)organisiert von Seeed Studio. 
+Nettes Beisammensein, viel gelernt - und wir konnten auch wieder etwas Spielzeug vorführen.
+War ein bisschen wie das monatliche dorkbot in alten Zeiten - hoffentlich bekommen wir es auch mal nach Aachen :)
