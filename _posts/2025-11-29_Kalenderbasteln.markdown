@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Kalenderbasteln 2025“
-date:   2025-11-29 01:00:00
+title:  "Adventskalenderbasteln"
+date:   2025-11-29 08:00:00
 author: "Jan Thar"
 last_modified_at:  2025-11-29 01:00:00
-excerpt: „Weihnachtsbasteln“
+excerpt: "Weihnachtliches Basteltreffen"
 categories: events
 tags:  Back
 image:
