@@ -8,7 +8,7 @@ excerpt: „Weihnachtsbasteln“
 categories: events
 tags:  Back
 image:
-  feature: Kalender25.jpeg
+  feature: KB25.jpeg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
