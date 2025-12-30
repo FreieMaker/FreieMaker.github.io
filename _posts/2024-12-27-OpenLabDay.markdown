@@ -32,6 +32,10 @@ Lukasstrasse 1, 52070 Aachen
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}openlabday.jpg);"></div>
 
+# OpenLabDay Youth
+Im Rahmen von 1000€ fürs Ehrenamt haben wir 2025 einen weiteren Basteltag für die Jugend eingeführt, der jeden zweiten Dienstag im Monat nachmittags stattfand. 
+Müssen wir wahrscheinlcih fortführen, genaueres gibts dann ggfs. im discord.
+
 # Repaircafe
 
 Ausserdem ist jeden ersten Samstag im Monat das Repaircafe im LabAix, wo unsere Werkstatt auch geöffnet für jeden ist, aber man kann zusätzlich noch Sachen zum Reparieren vorbeibringen und es gibt Kuchen.
