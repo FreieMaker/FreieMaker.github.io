@@ -8,7 +8,7 @@ excerpt: "Meetup"
 categories: events
 tags:  Back
 image:
-  feature: SST25.jpeg
+  feature: SST25_2.JPG
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
