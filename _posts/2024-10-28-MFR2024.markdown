@@ -16,11 +16,11 @@ syntaxHighlighter: no
 ---
 Ende Oktober ging es dann wieder nach Rom. Wieder im Gazometro, was ich als Veranstaltungsort witziger finde als die Messehallen. 
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFR24_Art.jpeg);"></div>
+
 Dieses Jahr wurde – wohl auch wegen Renovierungsarbeiten – zusätzlich ein Institutsgelände (ich glaube, irgendetwas mit der Feuerwehr) genutzt. Sehr schick, auch wenn es dadurch etwas zersplitterte.
 
 Insbesondere zwei Sachen sahen sehr nachbauinteressant aus: Einmal eine riesige LED-Installation, bei der LED-Streifen auf Drahtgittern in Tangram-Formen Tiere darstellten:
-
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFR24_Art.jpeg);"></div>
 
 Sowie – eigentlich ganz einfach – eine Art Skisimulator:
 

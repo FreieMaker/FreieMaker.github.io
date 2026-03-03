@@ -16,6 +16,8 @@ syntaxHighlighter: no
 ---
 Am 23.11. haben wir zum ersten Mal auf dem Makerday Hasselt ausgestellt. Das müssen wir beim nächsten Mal etwas besser organisieren, da die Anreise mit öffentlichen Verkehrsmitteln etwas schwierig war.
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}MDH25_1.jpeg);"></div>
+
 Das Event war aber erstaunlich gut – wieder einmal ein Fall, dass die kleineren lokalen und Community-organisierten Events immer noch sehr gut funktionieren, oft sogar besser als die großen.
 
 Es gab viele interessante Sachen zu sehen; so etwas wie das leicht überdimensionierte Dalek-Quiz müssten wir auch mal bauen. Der Luftschiff-Workshop, den wir aus Eindhoven kannten, war auch mit dabei, ansonsten gab es aber erstaunlich wenig Überschneidung. 

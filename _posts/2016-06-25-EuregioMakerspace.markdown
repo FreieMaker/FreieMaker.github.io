@@ -29,6 +29,8 @@ Neben dem Makerspace konnten die Besucher folgende Highlights betrachten und aus
 <br>
  	<li><strong>3D-Personenscanner</strong> – Fast alle Besucher ließen sich kostenlos in 3D einscannen. Einige haben das Ergebnis mit einem 3D-Drucker ausgedruckt.</li>
 <br>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}3dbodyscanner.jpg);"></div>
+<br>
  	<li><strong>Lötworkshop</strong> powered by Watterott – Viele Gäste haben gelernt, eine Schaltung zu löten.</li>
 <br>
  	<li><strong>Raketen basteln</strong> mit Watterott – Kinder konnten Raketen aus Papier basteln; leider spielte das Wetter nicht mit, um die Raketen starten zu lassen.</li>

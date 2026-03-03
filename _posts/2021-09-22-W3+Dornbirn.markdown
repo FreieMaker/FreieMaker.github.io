@@ -16,11 +16,17 @@ syntaxHighlighter: no
 ---
 Auf der W3+ im schönen Dornbirn hatten wir unseren ersten Auftritt auf einer Fachmesse in diesem Jahr nach einer langen Pause.
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}w3+2021_4.jpeg);"></div>
+
 Corona wirft aber immer noch Schatten; trotz extrem guter Organisation, um das Ganze sicher zu gestalten (großes Lob an die Organisatoren), waren wir hier auch noch ganz froh, dass es weniger eine Besuchermesse und mehr ein Austausch unter den Fachausstellern war.
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}w3+2021_5.jpeg);"></div>
 
 Dies war der erste richtige Test mit unseren neuen Messeexponaten zum Thema Quantentechnologien – beziehungsweise das erste Mal, dass diese auch funktionierten wie gedacht. Das wurde auch langsam Zeit; aber wie der Transport vom Haus zur Werkstatt bei der virtuellen Maker Faire Hannover gezeigt hatte: Manches war vorher zu schwach konstruiert, diesmal lief es aber besser.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}w3+2021_1.jpeg);"></div>
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}w3+2021_6.jpeg);"></div>
 
 Wobei wir vielleicht ein wenig übertrieben hatten in der Beschreibung; so ganz entsprach es am Ende wohl nicht dem, was im Katalog versprochen wurde:
 

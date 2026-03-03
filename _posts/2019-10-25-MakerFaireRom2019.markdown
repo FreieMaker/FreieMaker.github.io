@@ -16,19 +16,31 @@ syntaxHighlighter: no
 ---
 Auf zur Maker Faire Rome ... bescheidene sieben Messehallen mit Makern, Start-ups, Unis und allem drumherum. 
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019gras.jpg);"></div>
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}Prusa.jpeg);"></div>
+
 Außer für die eigene Standbetreuung blieb leider nicht viel Zeit zum Umschauen, aber ein paar nette Bilder gibt es schon:
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019painting.jpg);"></div>
 
 So gab es in allen Hallen einige (interaktive) Maker-Kunstwerke; besonders gut fand ich die obige Zeichenmaschine.
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019ducks.jpg);"></div>
+
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019holo.jpg);"></div>
 
 Peppers-Ghost-Pyramiden gab es hier relativ viele – auch wir haben ja mal welche gebaut.
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019beetle.jpg);"></div>
+
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019pinball.jpg);"></div>
 
-Auf der Maker Faire Berlin hatten wir ja schon tolle Flipper und ähnliches in kleinem Umfang gesehen; hier gab es das in groß (dies ist nur ein kleiner Ausschnitt). Auch schon bekannt und mit neuen Versionen unterwegs: die Photogrammetrie-3D-Scanner-Alternative zum FabScan.
+Auf der Maker Faire Berlin hatten wir ja schon tolle Flipper und ähnliches in kleinem Umfang gesehen; hier gab es das in groß (dies ist nur ein kleiner Ausschnitt). 
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019superstuff.jpg);"></div>
+
+Auch schon bekannt und mit neuen Versionen unterwegs: die Photogrammetrie-3D-Scanner-Alternative zum FabScan.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019openscan.jpg);"></div>
 
@@ -36,6 +48,8 @@ Als weitere Werkzeuge für die Makerspace-Erweiterung: Der neue Prusa Mini macht
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019prusa.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019styropor.jpg);"></div>
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019tipi.jpg);"></div>
 
 Wie wir schon bei Twang, 1D-Pong und dem Highstriker gesehen haben: Den 1D-Spielen gehört die Zukunft!
 

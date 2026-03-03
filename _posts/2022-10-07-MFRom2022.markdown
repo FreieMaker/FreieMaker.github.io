@@ -16,6 +16,8 @@ syntaxHighlighter: no
 ---
 Und dann ging es zur Maker Faire Rom vom 07. bis 09.10.2022. Die Maker Faire fand wieder im Gazometro in Ostiense statt – einem sehr schönen alten Industriegelände. Ich hoffe, sie wird dort auch zukünftig stattfinden.
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}IMG_8485.jpeg);"></div>
+
 Diesmal hatten wir einen netten Spot in einem der Gasometer erwischt. Insgesamt gab es erstaunlich hohe Besucherzahlen – von Corona ist man ja nicht mehr so viel gewohnt. Nach den superlangen Schlangen an den Essensständen zu urteilen, würde ich fast denken, dass auch die Veranstalter nicht mit so vielen Besuchern gerechnet haben. 
 
 Gegenüber dem Nantes Maker Campus und der Maker Faire Hannover fehlten zwar etwas die verrückten Projekte – insgesamt hatte ich den Eindruck, dass die Maker Faire mehr in Richtung Universitäten und Bildung geht. Aber auch dort gab es viel Interessantes zu entdecken.

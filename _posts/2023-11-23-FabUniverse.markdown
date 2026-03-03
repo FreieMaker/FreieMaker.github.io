@@ -14,12 +14,12 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+Etwas ungeplant und extrem kurzfristig haben wir dann mal die Fab:Universe besucht – zumindest für einen Tag. Ein bisschen fehl am Platz, da weder FabLab noch Universität, aber so etwas ergibt sich halt im Nachrichtenaustausch mit Maik von den Offenen Werkstätten und Violet Su von Seeed Studio.
 
-Etwas ungeplant und extrem kurzfristig haben wir dann mal die Fab:Universe besucht – zumindest für einen Tag. 
-Ein bisschen fehl am Platz, da weder FabLab noch Universität, aber so etwas ergibt sich halt im Nachrichtenaustausch mit Maik von den Offenen Werkstätten und Violet Su von Seeed Studio.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}FABUniverse2023.jpeg);"></div>
+
 Letztere war da gerade in Deutschland, und Maik war remote bei der Konferenz dabei.
 
-Besonders interessant war der anschließende Rundgang durch die Folkwang-Universität und deren Werkstätten; die lassen fast keine Wünsche übrig.
-Wir waren allerhöchstens ein ganz klein wenig neidisch. :)
+Besonders interessant war der anschließende Rundgang durch die Folkwang-Universität und deren Werkstätten; die lassen fast keine Wünsche übrig. Wir waren allerhöchstens ein ganz klein wenig neidisch. :)
 
 Kurz darauf hat Violet uns dann auch noch in unserem Makerspace in Aachen besucht. Damit wir wenigstens etwas mithalten können, ging es neben dem LabAix auch noch in die Werkstatt des Collective Incubator (auch so eine Da-könnte-man-fast-neidisch-werden-Werkstatt), die Digital Church, das InfoSphere und das FabLab Aachen, garniert mit einem Hauch Weihnachtsmarkt.

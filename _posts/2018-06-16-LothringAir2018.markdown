@@ -16,10 +16,10 @@ syntaxHighlighter: no
 ---
 Christoph Emonds hatte eine gute Idee: einfach mit UV-Markern und Blitzen auf einer nachleuchtenden Fläche malen!
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}LothringAir2018_2.jpg);"></div>
+
 In Kombination mit seinen „Mate Light“-Kästen als Eyecatcher kam diese Installation erstaunlich gut an. 
 
 Einmal kam ein Pärchen gerade aus dem hinteren Bereich, traf ein paar Freunde, und alle gingen zusammen wieder zurück in den Raum zum Malen: „Das ist so geil, das müsst ihr auch mal probieren!“
 
 Jetzt haben wir ein weiteres gutes Exponat in der Schublade; und da das Ganze sehr gut funktioniert hat, freuen wir uns schon auf den nächsten Aufbau!
-
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}LothringAir2018_2.jpg);"></div>

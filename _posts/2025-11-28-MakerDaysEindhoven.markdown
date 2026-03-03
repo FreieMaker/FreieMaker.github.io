@@ -14,9 +14,15 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Am 27. und 28.11. standen wieder die Maker Days Eindhoven als großer Vereinsausflug an. Diesmal haben wir wieder in großen Teilen im Bospark 't Wolfsven per Glamping übernachtet, was prima zur Veranstaltung passt.
+Am 27. und 28.11. standen wieder die Maker Days Eindhoven als großer Vereinsausflug an. 
 
-Auf den Maker Days gab es wieder einige bekannte Gesichter und Ausstellungsstücke zu sehen – aber natürlich auch vieles Neues. Super interessant war ein Zeppelinbau-Workshop, davon können wir uns etwas abkupfern (wie auch vom SMD/Pastenlöt-Workshop von Aisler). 
+Diesmal haben wir wieder in großen Teilen im Bospark 't Wolfsven per Glamping übernachtet, was prima zur Veranstaltung passt.
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}MDE25_1.jpeg);"></div>
+
+Auf den Maker Days gab es wieder einige bekannte Gesichter und Ausstellungsstücke zu sehen – aber natürlich auch vieles Neues.
+
+Super interessant war ein Zeppelinbau-Workshop, davon können wir uns etwas abkupfern (wie auch vom SMD/Pastenlöt-Workshop von Aisler). 
 
 Richtig nett fand ich, dass neben all den üblichen R2-D2s und Wall-Es auch Nummer 5 herumfuhr. Wie üblich gab es viele verrückte mobile Exponate zu sehen (wobei ich „Crazy Parade“ irgendwie netter als Titel fand als „Future Parade“ – zu seriös).
 

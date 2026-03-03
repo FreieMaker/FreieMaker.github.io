@@ -14,11 +14,11 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-17.800 Besucherinnen und Besucher haben sich im HCC in Hannover die Projekte von 800 Makern angeschaut.
-
-Unser Verein war mit dabei; wir hatten monatelange Vorbereitungen getroffen, und am Ende hat alles geklappt. Unser größtes Exponat war der Hangprinter. Mit diesem riesigen 3D-Drucker kann man fast alles drucken.
+17.800 Besucherinnen und Besucher haben sich im HCC in Hannover die Projekte von 800 Makern angeschaut. 
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}WP_20170826_18_11_40_Pro.jpg);"></div>
+
+Unser Verein war mit dabei; wir hatten monatelange Vorbereitungen getroffen, und am Ende hat alles geklappt. Unser größtes Exponat war der Hangprinter. Mit diesem riesigen 3D-Drucker kann man fast alles drucken.
 
 Ein weiteres Highlight war der „Make Your Own Give-away“-Stand, bei dem mit einer Vielzahl von Vorrichtungen ein simpler LED-Flasher mit Knopfzelle von den Besuchern selbst zusammengebaut werden konnte.
 
