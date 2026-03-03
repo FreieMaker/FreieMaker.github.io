@@ -3,8 +3,8 @@
 # Verzeichnisse definieren
 SRC_DIR="assets/images/hero"
 DST_DIR="assets/images/thumbnail"
-WIDTH=350
-QUALITY=80
+WIDTH=600
+QUALITY=85
 
 # Kommando-Check (magick vs convert)
 if command -v magick >/dev/null 2>&1; then
@@ -31,16 +31,12 @@ for ext in "${EXTENSIONS[@]}"; do
         filename=$(basename "$src_file")
         dst_file="$DST_DIR/$filename"
         
-        if [ ! -f "$dst_file" ] || [ "$src_file" -nt "$dst_file" ]; then
-            echo "Generiere Thumbnail: $filename"
-            $CONVERT_CMD "$src_file" -resize "${WIDTH}x" -quality "$QUALITY" -strip "$dst_file"
-            ((count++))
-        fi
+        # Inkrementelles Update oder bei Größenänderung der Zielbreite
+        # (Wir erzwingen hier ein Update, da wir die WIDTH global erhöht haben)
+        echo "Generiere Thumbnail (600px): $filename"
+        $CONVERT_CMD "$src_file" -resize "${WIDTH}x" -quality "$QUALITY" -strip "$dst_file"
+        ((count++))
     done
 done
 
-if [ $count -eq 0 ]; then
-    echo "Alle Thumbnails sind aktuell."
-else
-    echo "Fertig! $count Thumbnails wurden erstellt/aktualisiert."
-fi
+echo "Fertig! $count Thumbnails wurden mit einer Breite von ${WIDTH}px aktualisiert."

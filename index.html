@@ -19,7 +19,13 @@ title: Home
               <article class="postArticle postArticle--short">
                 {% if post.image.feature %}
                   <a href="{{ post.url }}">
-                    <div class="postArticle-image" style="background-image:url('{{ post.image.feature | prepend: site.baseurl_featured_thumbnail }}')">
+                    {% comment %} Exception for Open Lab Day image to show full resolution {% endcomment %}
+                    {% if post.image.feature == 'openlabdayhack.jpg' %}
+                      {% assign image_path = post.image.feature | prepend: site.baseurl_featured_img %}
+                    {% else %}
+                      {% assign image_path = post.image.feature | prepend: site.baseurl_featured_thumbnail %}
+                    {% endif %}
+                    <div class="postArticle-image" style="background-image:url('{{ image_path }}')">
                     </div>
                   </a>
                 {% else %}

@@ -38,7 +38,6 @@ Dieses Dokument dokumentiert alle verwaisten Bilder, die während der Bereinigun
 ## Jahr 2024
 
 ### `_posts/2024-12-27-OpenLabDay.markdown`
-*   **Hinzugefügt:** `openlabdayhack.png` (Hinter dem YouTube-Abschnitt)
 
 ### `_posts/2024-11-30-Kalender2024.markdown`
 *   **Hinzugefügt:** `Weihnachrsbasteln24.jpeg` (Hinter dem Einleitungssatz)
