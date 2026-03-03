@@ -6,29 +6,34 @@ DST_DIR="assets/images/thumbnail"
 WIDTH=350
 QUALITY=80
 
+# Kommando-Check (magick vs convert)
+if command -v magick >/dev/null 2>&1; then
+    CONVERT_CMD="magick"
+elif command -v convert >/dev/null 2>&1; then
+    CONVERT_CMD="convert"
+else
+    echo "Error: ImageMagick (magick oder convert) nicht gefunden!"
+    exit 1
+fi
+
 # Zielverzeichnis sicherstellen
 mkdir -p "$DST_DIR"
 
 echo "Prüfe Bilder in $SRC_DIR..."
 
-# Zähler für Statistik
 count=0
-
-# Unterstützte Endungen
 EXTENSIONS=("jpg" "jpeg" "png" "JPG" "JPEG" "PNG")
 
 for ext in "${EXTENSIONS[@]}"; do
+    # Shell-Globbing sicherstellen
+    shopt -s nullglob
     for src_file in "$SRC_DIR"/*."$ext"; do
-        # Prüfen ob Datei existiert (falls keine Dateien für die Endung da sind)
-        [ -e "$src_file" ] || continue
-        
         filename=$(basename "$src_file")
         dst_file="$DST_DIR/$filename"
         
-        # Nur generieren wenn Thumbnail fehlt oder Quellbild neuer ist
         if [ ! -f "$dst_file" ] || [ "$src_file" -nt "$dst_file" ]; then
             echo "Generiere Thumbnail: $filename"
-            magick "$src_file" -resize "${WIDTH}x" -quality "$QUALITY" -strip "$dst_file"
+            $CONVERT_CMD "$src_file" -resize "${WIDTH}x" -quality "$QUALITY" -strip "$dst_file"
             ((count++))
         fi
     done

@@ -8,4 +8,10 @@ services:
     environment:
       - JEKYLL_ENV=development
     command: >
-      bash -c "gem install jekyll-feed jekyll-sitemap kramdown rouge webrick && jekyll serve --port 9001 --watch --force_polling"
+      bash -c "
+      apk add --no-cache imagemagick bash &&
+      chmod +x ./generate_thumbnails.sh &&
+      ./generate_thumbnails.sh &&
+      gem install jekyll-feed jekyll-sitemap kramdown rouge webrick &&
+      jekyll serve --port 9001 --watch --force_polling
+      "
