@@ -1,13 +1,12 @@
-# _plugins/url_encode.rb
-require 'liquid'
-require 'uri'
+require 'cgi'
 
-# Percent encoding for URI conforming to RFC 3986.
-# Ref: http://tools.ietf.org/html/rfc3986#page-12
-module URLEncode
-  def url_encode(url)
-    return URI.escape(url, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]"))
+module Jekyll
+  module URLEncode
+    def url_encode(url)
+      return CGI.escape(url) if url
+      nil
+    end
   end
 end
 
-Liquid::Template.register_filter(URLEncode)
+Liquid::Template.register_filter(Jekyll::URLEncode)

@@ -1,10 +1,9 @@
-
 # Syntax highlighting
 markdown:            kramdown
 highlighter:         rouge
 
 # Permalinks
-permalink:           /:title
+permalink:           /:year-:month-:day-:title
 
 # Setup
 timezone:            Europe/Berlin # eg. Asia/Kathmandu
