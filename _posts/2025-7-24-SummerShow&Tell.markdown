@@ -14,6 +14,8 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Am 24.7. haben wir zusammen mit Seeed Studio (danke für Essen und Getränke) ein erstes Sommer-Meetup im LabAix veranstaltet.
-Ziel war natürlich mal zu sehen was sonst noch so in Aachen und Umgebung fabriziert wird.
-War nett um viele alte Bekannte aus dem Dorkbot/Makermeetup-Umfeld wiederzusehen und auszutauschen, aber das noch mehr ausgestellt wird muss beim nächsten mal noch was optimiert werden.
+Am 24.7. haben wir zusammen mit Seeed Studio (vielen Dank für Essen und Getränke!) ein erstes Sommer-Meetup im LabAix veranstaltet.
+
+Ziel war natürlich, mal zu sehen, was sonst noch so in Aachen und Umgebung fabriziert wird.
+
+Es war schön, viele alte Bekannte aus dem Dorkbot-/Makermeetup-Umfeld wiederzusehen und sich auszutauschen, aber dass noch mehr ausgestellt wird, muss beim nächsten Mal noch etwas optimiert werden.

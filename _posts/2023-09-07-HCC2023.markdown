@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HCC Treffen 2023"
+title:  "HCC-Treffen 2023"
 date:   2023-09-07 12:00:00
 author: "Jan Thar"
 last_modified_at:  2023-09-07 12:00:00
@@ -15,6 +15,6 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Dank Rick war der Verein auch auf einer grossen Veranstaltug des HCC am 17. Juni präsent gewesen.
-Der HCC ist der niederländische Hobby Computer Club, frei nach dem ACC, des Amateur Computer Clubs und nicht mit dem CCC, dem Chaos Compuer Club zu verwechseln.
-Wie man sieht, Rick hat dafür das er alleine unterwegs war, den Verein mit einem kleinen bescheidenen, und im Vergleich mit anderen Ständen wahrscheinlich nur sehr wenig leuchtendem, Stand würdig repräsentiert.
+Dank Rick war der Verein auch auf einer großen Veranstaltung des HCC am 17. Juni präsent.
+Der HCC ist der niederländische Hobby Computer Club – frei nach dem ACC (Amateur Computer Club) und nicht mit dem CCC (Chaos Computer Club) zu verwechseln.
+Wie man sieht, hat Rick dafür, dass er alleine unterwegs war, den Verein mit einem kleinen bescheidenen – und im Vergleich zu anderen Ständen wahrscheinlich nur sehr wenig leuchtenden – Stand würdig repräsentiert.

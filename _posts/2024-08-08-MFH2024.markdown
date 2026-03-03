@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Makerfaire Hannover 2024"
+title:  "Maker Faire Hannover 2024"
 date:   2024-08-18 01:00:00
 author: "Jan Thar"
 last_modified_at:  2024-08-18 01:00:00
@@ -14,10 +14,10 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Am 17. und 18. August fand die zehnte "echte" Makerfaire Hannover statt - leicht verspätet, es gab ja zwischendurch in einem nur eine virtuelle.
-Bei uns war es - wenn man die Teilnahmen durch René, Mario, Christoph und Co. im Rahmen von Make Light und FabLab Aachen mit dazuzählt erst das 9. Mal dabei, 2023 hatten wir ausgesetzt.
+Am 17. und 18. August fand die zehnte „echte“ Maker Faire Hannover statt – leicht verspätet, da es zwischendurch nur eine virtuelle gab.
 
-Diesmal nur einen bescheidenen Tisch angemeldet, da aber unser Nachbar nicht erschienen war wurden es dann doch zwei Tische.
-Relativ viel Kommererz, jede Menge Cosplay und leider sehr wenig verrücktes Zeug gefunden was uns zum nachbauen animiert.
-Aber die Klassentreffen-Funktion klappt weiterhin, insofern mal wieder besser als gedacht.
+Bei uns war es – wenn man die Teilnahmen durch René, Mario, Christoph und Co. im Rahmen von Make Light und FabLab Aachen mit dazuzählt – erst das neunte Mal, dass wir dabei waren; 2023 hatten wir ausgesetzt.
 
+Diesmal hatten wir nur einen bescheidenen Tisch angemeldet; da aber unser Nachbar nicht erschienen war, wurden es dann doch zwei Tische.
+
+Relativ viel Kommerz, jede Menge Cosplay und leider sehr wenig verrücktes Zeug gefunden, das uns zum Nachbauen animiert hätte. Aber die Klassentreffen-Funktion klappt weiterhin, insofern war es mal wieder besser als gedacht.

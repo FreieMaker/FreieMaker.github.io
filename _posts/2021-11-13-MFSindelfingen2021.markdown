@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Makerfaire Sindelfingen 2021"
+title:  "Maker Faire Sindelfingen 2021"
 date:   2021-11-13 00:16:00
 author: "Jan Thar"
 last_modified_at:  2021-11-13 00:16:00
-excerpt: "Makerfaire presentation: Alice - Between The Mirrors"
+excerpt: "Maker Faire presentation: Alice - Between The Mirrors"
 categories: events
 tags:  Back
 image:
@@ -14,12 +14,12 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Als letzte Aktion im Jahr 2021 ging es am 13.November noch einmal schnell auf die Makerfaire Sindelfingen. 
+Als letzte Aktion im Jahr 2021 ging es am 13. November noch einmal schnell auf die Maker Faire Sindelfingen. 
 
-War etwas auf der Kippe, da die Coronazahlen wieder stiegen, aber sie haben es dann doch durchgeführt.
-Das Sicherheitskonzept war auch sehr beruhigend, 3G, Maskenpflicht, grosse Abstände und eine Einbahnstrassenbesucherführung, natürlich etwas makaber das man mittlerweile so etwas schon positiv findet.
+Es stand etwas auf der Kippe, da die Coronazahlen wieder stiegen, aber die Veranstaltung wurde durchgeführt. Das Sicherheitskonzept war sehr beruhigend: 3G, Maskenpflicht, große Abstände und eine Einbahnstraßen-Besucherführung – natürlich etwas makaber, dass man mittlerweile so etwas schon positiv findet.
 
-Mit dabei hatten wir wieder das Basissystem unser Quantentechnologiespiele, die weiterhin optisch gut ankammen, insbesondere beim Flipper und dem Salzkristalldisplay wurde direkt ein haben-wollen Effekt angemerkt.
+Mit dabei hatten wir wieder das Basissystem unserer Quantentechnologiespiele, die weiterhin optisch gut ankamen; insbesondere beim Flipper und dem Salzkristalldisplay wurde direkt ein Haben-wollen-Effekt angemerkt.
 
-Insofern wie gehabt, die Exponate laufen weiter relativ zuverlässig, als nächstes werden noch einmal Controller überarbeitet und die Nahcbaubarkeit noch einmal erhöht vor Veröffentlichung der Bauanleitungen.
-An der Erklärungsseite müssen wir aber noch arbeiten, aktuell funktioniert es halt besser als Animation zum Nachbau und damit eher klassischen Technologien.
+Insofern wie gehabt: Die Exponate laufen weiterhin relativ zuverlässig. Als Nächstes werden noch einmal die Controller überarbeitet und die Nachbaubarkeit erhöht, bevor die Bauanleitungen veröffentlicht werden.
+
+An der Erklärungsseite müssen wir aber noch arbeiten; aktuell funktioniert es eher als Animation zum Nachbau mit klassischen Technologien.

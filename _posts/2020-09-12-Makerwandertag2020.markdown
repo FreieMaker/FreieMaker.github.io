@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Makerwandertag 2020"
+title:  "Maker-Wandertag 2020"
 date:   2020-09-12 12:00:00
 author: "Jan Thar"
 last_modified_at:  2020-09-12 12:00:00
@@ -14,9 +14,10 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+Unser erster Versuch eines Maker-Wandertages fand am 12. September 2020 statt. 
 
-Unser erster Versuch eines Makerwandertages fand am 12. September 2020 statt. Eine kleine Runde über den Dreiländerpunkt nach Lemiers in den Makerspace, wo dann gegrillt werden sollte mit ein bisschen Ausstellung.
-Grundsätzlich ein guter Plan, nur haben wir uns völlig mit der Zeitdauer der Wanderung vertan (insbesondere der Zeit am Dreiländereck als Verpflegungsstation).
-Zusamen mit dem nicht existenten Mobilfunkempfang im Aachener Wald war es ziemlich doof für eine Person die damit stundenlang vor verschlossener Tür in Lemiers stand.
-Da muss nachgebessert werden.
-Ansonsten wars aber gut.
+Geplant war eine kleine Runde über den Dreiländerpunkt nach Lemiers zum Makerspace, wo anschließend gegrillt und eine kleine Ausstellung gezeigt werden sollte.
+
+Grundsätzlich ein guter Plan, allerdings haben wir uns bei der Zeitdauer der Wanderung völlig verschätzt (insbesondere bei der Pause am Dreiländereck als Verpflegungsstation). Zusammen mit dem nicht existenten Mobilfunkempfang im Aachener Wald war es ziemlich unglücklich für eine person, die dadurch stundenlang vor verschlossener Tür in Lemiers stand.
+
+Da müssen wir definitiv nachbessern. Ansonsten war es aber gut!

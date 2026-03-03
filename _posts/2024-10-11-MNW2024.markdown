@@ -14,8 +14,8 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+Im Oktober gab es dann auch noch die nächste Makernacht an der JuniorUni Wuppertal (naja, eigentlich mit leicht abgewandeltem Namen). 
 
-Im Oktober gabs dann auch noch die nächste Makernacht an der JuniorUni Wupeprtal (Naja, eigentlich mit leicht abgewandeltem Namen).
-Diesmal mit offenen Stationen statt Workshops mit Anmeldung, was ich natprlich gut finde.
-Netterweise gabs sehr gute Unterstützung am Stand durch das JuniorUni-Team, so das der Abend eigentlich fast entspannt wurde.
-Aber an unseren Workshops muss ich noch was arbeiten, immerhin läuft Chris Printenlaser weiterhin super.
+Diesmal mit offenen Stationen statt Workshops mit Anmeldung, was ich natürlich gut finde. Netterweise gab es sehr gute Unterstützung am Stand durch das JuniorUni-Team, sodass der Abend eigentlich fast entspannt wurde. 
+
+An unseren Workshops müssen wir aber noch etwas arbeiten; immerhin läuft Christophs Printenlaser weiterhin super.

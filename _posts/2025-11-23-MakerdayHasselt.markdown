@@ -4,7 +4,7 @@ title:  "Makerday Hasselt"
 date:   2025-11-23 08:00:00
 author: "Jan Thar"
 last_modified_at:  2025-11-23 01:00:00
-excerpt: "Quasi eine Makerfaire"
+excerpt: "Quasi eine Maker Faire"
 categories: events
 tags:  Back
 image:
@@ -14,12 +14,12 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Am 23.11. haben wir zum ersten Mal auf dem Makerday Hasselt ausgestellt. 
-Müssen wir beim nächsten mal etwas besser organisieren, da die Anreise mit öffentlichen Verkehrsmitteln etwas schwierig war.
+Am 23.11. haben wir zum ersten Mal auf dem Makerday Hasselt ausgestellt. Das müssen wir beim nächsten Mal etwas besser organisieren, da die Anreise mit öffentlichen Verkehrsmitteln etwas schwierig war.
 
-Das Event war aber erstaunlich gut - wieder mal ein Fall das die kleineren lokalen ud community-organisierten Events immer noch sehr gut funktionieren - besser als die grossen.
-Gab viele interessante Sachen zu sehen, so etwas wie das leicht überdimensionierte Dalek-Quiz müssten wir auch mal bauen.
-Der Luftschiffworkshop den wir aus Eindhoven kannten war auch mit dabei, ansonsten aber erstaunlich wenig Überschneidung.
-Interessant waren auch mehrere "Handwerks"stände - von DIY-Juwelen bis Käseherstellung, das erinnert etwas an den Makercampus Nantes.
+Das Event war aber erstaunlich gut – wieder einmal ein Fall, dass die kleineren lokalen und Community-organisierten Events immer noch sehr gut funktionieren, oft sogar besser als die großen.
 
-Also sehr empfehlenswert, ich denke wir sind im nächsten Jahr auf jeden Fall wieder mit dabei.
+Es gab viele interessante Sachen zu sehen; so etwas wie das leicht überdimensionierte Dalek-Quiz müssten wir auch mal bauen. Der Luftschiff-Workshop, den wir aus Eindhoven kannten, war auch mit dabei, ansonsten gab es aber erstaunlich wenig Überschneidung. 
+
+Interessant waren auch mehrere Handwerksstände – von DIY-Juwelen bis zur Käseherstellung; das erinnert etwas an den Nantes Maker Campus.
+
+Also sehr empfehlenswert! Ich denke, wir sind im nächsten Jahr auf jeden Fall wieder mit dabei.

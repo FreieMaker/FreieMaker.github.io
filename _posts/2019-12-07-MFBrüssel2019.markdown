@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Besuch der Makerfaire Brüssel"
+title:  "Besuch der Maker Faire Brüssel"
 date:   2019-12-07 12:00:00
 author: "Jan Thar"
 last_modified_at:  2019-12-07 12:00:00
@@ -14,11 +14,12 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+Am 07.12.2019 ging es kurz auf einen Besuch zur Maker Faire Brüssel – tatsächlich ganz ohne eigene Ausstellung, sondern nur zum Anschauen.
 
-Am 7.12.2019 ging es kurz mal zu Besuch zur Makerfaire Brüssel, tatsächlich ganz ohne Ausstellung, sondern nur zum Anschauen.
-Ein bisschen Hintergedanke war natürlich auch dabei, einmal um neue Ideen zu bekommen, und eventuelle Kooperationspartner für zukünftige Erasmus+ Projekte.
-Besonders spannend fand ich die Eigenbaustickmaschine - ich finde die gekauften ja schon zu  kompliziert, und dann bauen andere Leute mal "einfach" selber eine.
-Ansonsten: Ein spannendes Gebäude mit sehr viel Kreativität - irgendwie finde ich es immer gut wenn Makerspaces/Makerfaires es schaffen möglichst verrückte Sachen hinzubekommen.
-Auf jeden Fall eine Makerfaire die verrückt genug ist, das es Spass machen könnte da auszustellen.
-Wobei mal einfach nur durchlaufen auch hübsch stressfrei und angenehm war.
+Ein kleiner Hintergedanke war natürlich auch dabei: einerseits um neue Ideen zu bekommen, andererseits um eventuelle Kooperationspartner für zukünftige Erasmus+ Projekte zu finden.
 
+Besonders spannend fand ich die Eigenbau-Stickmaschine – ich finde die gekauften ja schon zu kompliziert, und dann bauen andere Leute mal eben „einfach“ selbst eine.
+
+Ansonsten: ein spannendes Gebäude mit sehr viel Kreativität. Irgendwie finde ich es immer gut, wenn Makerspaces und Maker Faires es schaffen, möglichst verrückte Sachen hinzubekommen.
+
+Auf jeden Fall eine Maker Faire, die verrückt genug ist, dass es Spaß machen könnte, dort auszustellen. Wobei das bloße Durchlaufen auch mal hübsch stressfrei und angenehm war.

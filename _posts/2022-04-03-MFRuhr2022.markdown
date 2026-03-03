@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Makerfaire Ruhr 2022"
+title:  "Maker Faire Ruhr 2022"
 date:   2022-04-03 00:16:00
 author: "Jan Thar"
 last_modified_at:  2022-04-03 00:16:00
-excerpt: "Makerfaire presentation: Alice - Between The Mirrors"
+excerpt: "Maker Faire presentation: Alice - Between The Mirrors"
 categories: events
 tags:  Back
 image:
@@ -14,14 +14,18 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Als erste Makerfaire in diesem Jahr ging es zur Makerfaire Ruhr. Ein wenig hatten wir wieder mal die Befürchtung das uns Corona etwas die Tour versaut, so waren auch relativ wenig Stände angemeldet. Aber: Die Stände die da waren waren natürlich die Hardcore-Aussteller, mit grossen Ständen und vielen interessanten Exponaten. Auch die DASA-Austellung selber war super interessant, und auch das Publikum sehr interessiert. Insgesamt eine gelungene Veranstaltung, da werden wir wohl nächstes Jahr wieder mit dabei sein. 
+Als erste Maker Faire in diesem Jahr ging es zur Maker Faire Ruhr. Ein wenig hatten wir wieder einmal die Befürchtung, dass uns Corona die Tour versaut, so waren auch relativ wenige Stände angemeldet. 
 
-Wir waren vor allem mit unserem QuantumEscape Projekt unterwegs, im Vergleich zum letzten Mal haben wir das System noch einmal überarbeitet. Insebsondere die Controller laufen nun robuster und sind noch einmal nachvollziehbarer. Auch werden die Erklärungen gelesen, allerdings ist der Erkenntnisgewinn im Bezug auf Quantentechnologie weiter sehr eingeschränkt - der "Haben-Wollen" Effekt wird dafür immer besser. 
-Kleinere Verbesserungssachen gibts damit immer noch: Die Halterung mit Magneten wirkt zu gut und zu unsichtbar, teilweise wird nicht verstanden das man die Controller abnehmen kann. 
-Im Vergleich mit den Vorgängeraustellungen fällt aber immerhin das Problem mit dem auf den Kopf gestellten Controller weg, und es wurde auch eher an den Säulen gespielt. Die andere Sache ist die Erklärung zu den Spielen, sie wird zwar gelesen, aber meist funktioniert das Spiel dann doch zu gut auch ohen Wissen. Da müssen beim nächsten Mal Displays mit Animationen her.
-Bei den Spielen selber wird beim nächsten Mal der Plasmaeffekt als Ruhezustand ab und an ausgeblendet um die Materialoberfläche besser sehen zu können.
+Aber: Die Stände, die da waren, gehörten natürlich den Hardcore-Ausstellern, mit großen Ständen und vielen interessanten Exponaten. Auch die DASA-Ausstellung selbst war super interessant und das Publikum sehr interessiert. Insgesamt eine gelungene Veranstaltung; da werden wir wohl nächstes Jahr wieder mit dabei sein. 
 
-Immerhin wurden so gut wie alle Spiele genutzt, am liebsten natürlich weiterhin Tetris und der FLipper, aber auch Snake. TicTacToe funktioniert nun auch realtiv gut (dem dummen Computerspieler sei dank). Neu hinzugekommen ist ein Schiffe-versenken bzw Katze-streicheln Spiel anstelle der Kamera/Spektrum beim letzten Mal - das ist bereits noch einmal überarbeitet worden zum ein Pixelbild einer Katze vervollständigen. 
-Interessanterweise wurde sowohl das Mastermind Spiel (was ein Algorithmus auf einem Quantencomputer natürlich viel besser lösen könnte) teilweise durchgespielt, wie auch ein kürzeste-Pfade-finden-Spiel - da hätte ich erwartet das es zu langweilig wird.
+Wir waren vor allem mit unserem QuantumEscape-Projekt unterwegs; im Vergleich zum letzten Mal haben wir das System noch einmal überarbeitet. Insbesondere die Controller laufen nun robuster und sind noch einmal nachvollziehbarer. Auch werden die Erklärungen gelesen, allerdings ist der Erkenntnisgewinn in Bezug auf Quantentechnologie weiterhin sehr eingeschränkt – der Haben-wollen-Effekt wird dafür immer besser. 
 
-Insgesamt lief der Stand wie von selbst, aber sieht wohl so aus als ob wir bei den nächsten Makerfaires mal Workshops machen müssten, wovor ich mich bisher immer gedrückt hatte. Auf unserem Nachbarstand von [Land in (S)Zicht](https://lag-km.de/projekte/details/land-in-s-zicht) wurden Workshops angeboten, da gab es die Salzkristaldisplays in klein als Lampe, mit einem Lötbadge von Watterott als Beleuchtung. [Kam ganz gut an.](https://maker-faire.de/news/2022/03/endlich-wieder-maker-faire-ein-besuch-auf-der-maker-faire-ruhr/)
+Kleinere Verbesserungspotenziale gibt es dennoch: Die Halterung mit Magneten wirkt zu gut und zu unsichtbar; teilweise wird nicht verstanden, dass man die Controller abnehmen kann. Im Vergleich mit den Vorgängerausstellungen fällt aber immerhin das Problem mit dem auf den Kopf gestellten Controller weg, und es wurde auch eher an den Säulen gespielt. 
+
+Die andere Sache ist die Erklärung zu den Spielen: Sie wird zwar gelesen, aber meist funktioniert das Spiel dann doch zu gut, auch ohne Vorwissen. Da müssen beim nächsten Mal Displays mit Animationen her. Bei den Spielen selbst wird beim nächsten Mal der Plasmaeffekt als Ruhezustand ab und zu ausgeblendet, um die Materialoberfläche besser sehen zu können.
+
+Immerhin wurden so gut wie alle Spiele genutzt, am liebsten natürlich weiterhin Tetris und der Flipper, aber auch Snake. Tic-Tac-Toe funktioniert nun auch relativ gut (dem dummen Computerspieler sei Dank). Neu hinzugekommen ist ein Schiffe-versenken- bzw. Katze-streicheln-Spiel anstelle der Kamera/Spektrum beim letzten Mal – das ist bereits noch einmal überarbeitet worden, um ein Pixelbild einer Katze zu vervollständigen. 
+
+Interessanterweise wurde sowohl das Mastermind-Spiel (was ein Algorithmus auf einem Quantencomputer natürlich viel besser lösen könnte) teilweise durchgespielt, wie auch ein Kürzeste-Pfade-finden-Spiel – da hätte ich erwartet, dass es zu langweilig wird.
+
+Insgesamt lief der Stand wie von selbst, aber es sieht wohl so aus, als ob wir bei den nächsten Maker Faires mal Workshops geben müssten, wovor ich mich bisher immer gedrückt hatte. Auf dem Nachbarstand von [LandInSicht](https://lag-km.de/projekte/details/land-in-s-zicht) wurden Workshops angeboten; dort gab es die Salzkristalldisplays in klein als Lampe, mit einem Löt-Badge von Watterott als Beleuchtung. Das kam ganz gut an.

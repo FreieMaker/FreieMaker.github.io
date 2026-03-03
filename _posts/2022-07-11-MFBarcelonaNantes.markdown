@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Makerfaire Barcelona und Maker Campus Nantes"
+title:  "Maker Faire Barcelona und Nantes Maker Campus"
 date:   2022-07-11 12:00:00
 author: "Jan Thar"
 last_modified_at:  2022-07-11 12:00:00
@@ -14,18 +14,16 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Eine Runde Maker Faire und Maker Campus: 8.-10.7. gab es den Maker Campus Nantes, davor am Wochenende die Makerfaire Barelona, was ja quasi auf dem Weg lag.
-Jedenfalls gute Gründe die Koffer zu packen (bzw. genau einen, Testlauf ob mit etwas kleineren Verisonen der Exponate aus QuantumEscape man auch mit einem regulären Koffer statt übergewichtigem und- grossem FLightcase hikommt).
-Um das ganze spannender zu machen war das zu einem Zeitpunkt als Flughäfen und Bahnen leicht überlastet waren da auf einmal wieder jedermann in die Welt hinauswollte und - durfte.
-Ist aber alles gut gelaufen.
-Bei beiden Veranstaltungen (Barcelona etwas kleiner als gedacht) kam der Stand gut an, und man konnte wieder viele neue Ideen von anderen Ständen bekommen.
-In Barcelona gab es sogar noch einen anderen Stand mit Hinweisen zu Quantentechnologien, einen grösseren Stand aus der Fabricademy-Ecke und mehrere Stände zum Theme Recycling.
-Besonders interessant der Stand der [Makerzone](https://mzbcn.es/), die einige interessante Projekte am laufen haben - insebsondere der Ansatz als inlkusiver Makerspace war natürlich sehr spannend.
-Glücklicherweise konnte ich damit die Zeit bis zur Abreise nach Nantes nutzen sie dann auch in ihrem Makerspace zu besuchen (beim Fab Lab Barcelona konnte ich auch reinschauen, war ungeplant direkt neben dem Hotel ^^). 
-Insegsamt eine erstaunlich fahrrad- und fussgängerfreundliche Stadt, mit Strand. Die Idee sich mal einfach mit den (auch batteriebetreibaren) Exponaten sich einfach mal an den Strand zu setzen kam mir aber dummerweise zu spät.
+Eine Runde Maker Faire und Maker Campus: Vom 8. bis 10. Juli fand der Nantes Maker Campus statt; am Wochenende davor die Maker Faire Barcelona, was ja quasi auf dem Weg lag.
 
-Nantes war danach natürlich wieder grossartig - auch hier wieder mit sehr vielen Projekten zum Thema Inklusion (sehr spannend insbesondere ein Brailledrucker) und Recycling (Filamentextruder, Spritzguss, usw.).
-Besonders witzig war ein Rollstuhl-Addon, das einen klassischen handbetriebenen Rollstuhl in einen elektrischen verwandelte - witzigerweise waren wir beim Bescuh der Makerzone auf das gleiche Thema gekommen.
+Jedenfalls gute Gründe, die Koffer zu packen – beziehungsweise genau einer: ein Testlauf, ob man mit etwas kleineren Versionen der Exponate aus QuantumEscape auch mit einem regulären Koffer statt eines übergewichtigen und übergroßen Flightcases hinkommt. Um das Ganze spannender zu machen, war das zu einem Zeitpunkt, als Flughäfen und Bahnen leicht überlastet waren, da auf einmal wieder jedermann in die Welt hinauswollte und -durfte. Es ist aber alles gut gelaufen.
 
-Und natürlich auch wieder spannend was die Profis so machen: Der Vogel des Hieron ist fast fertig und drehte seine Testrunden, auf dem Platz davor war [Charon](https://www.youtube.com/watch?v=C6AALM4_bsg) zu bewundern.
-Letzteres Burning-Man Zoetrope-figur ist schon der Wahnsinn, die 3 grossen Frachtcontainer die dahinter standen für den Transport zusammen mit dem Aufwand so etwas zu entwickeln schränken die Begeisterung des haben-wollens natürlich ein klein wenig ein.
+Bei beiden Veranstaltungen (Barcelona war etwas kleiner als gedacht) kam der Stand gut an, und man konnte wieder viele neue Ideen von anderen Ständen mitnehmen. In Barcelona gab es sogar noch einen anderen Stand mit Hinweisen zu Quantentechnologien, einen größeren Stand aus der Fabricademy-Ecke und mehrere Stände zum Thema Recycling. 
+
+Besonders interessant war der Stand der [Makerzone](https://mzbcn.es/), die einige spannende Projekte am Laufen haben – insbesondere der Ansatz als inklusiver Makerspace war natürlich sehr inspirierend. Glücklicherweise konnte ich die Zeit bis zur Abreise nach Nantes nutzen, um sie in ihrem Makerspace zu besuchen (beim FabLab Barcelona konnte ich auch kurz hineinschauen, es lag ungeplant direkt neben dem Hotel ^^). 
+
+Insgesamt ist Barcelona eine erstaunlich fahrrad- und fußgängerfreundliche Stadt mit Strand. Die Idee, sich einfach mal mit den (auch batteriebetreibbaren) Exponaten an den Strand zu setzen, kam mir aber dummerweise erst zu spät.
+
+Nantes war danach natürlich wieder großartig – auch hier wieder mit sehr vielen Projekten zum Thema Inklusion (sehr spannend war insbesondere ein Brailledrucker) und Recycling (Filamentextruder, Spritzguss usw.). Besonders witzig war ein Rollstuhl-Add-on, das einen klassischen handbetriebenen Rollstuhl in einen elektrischen verwandelte – witzigerweise waren wir beim Besuch der Makerzone auf das gleiche Thema gekommen.
+
+Und natürlich war es auch wieder spannend zu sehen, was die Profis so machen: Der Vogel von Heron ist fast fertig und drehte seine Testrunden; auf dem Platz davor war [Charon](https://www.youtube.com/watch?v=C6AALM4_bsg) zu bewundern. Letztere Burning-Man-Zoetrop-Figur ist schon der Wahnsinn; die drei großen Frachtcontainer, die für den Transport dahinter standen, schränken zusammen mit dem Aufwand, so etwas zu entwickeln, die Begeisterung des Haben-wollens natürlich ein klein wenig ein.

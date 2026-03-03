@@ -4,7 +4,7 @@ title:  "LothringAir 2022"
 date:   2022-06-25 12:00:00
 author: "Jan Thar"
 last_modified_at:  2022-06-25 12:00:00
-excerpt: "Strassenfestival"
+excerpt: "Straßenfestival"
 categories: events
 tags:  Back
 image:
@@ -14,9 +14,10 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+Am 25.06. fand nach der Corona-Pause endlich wieder das LothringAir statt, das feine Aachener Straßenfestival.
 
-Am 25.6. fand nach Coronapause endlich wieder das LothringAir statt, das feine Aachener Strassenfestival.
-Hätten wir fast verpasst, haben uns aber noch schnell hineingeschmuggelt mit ein paar Exponaten aus QuantumEscape.
-Mit ein biscchen Vorlauf/Nachdenken wären Tische sinnvoll gewesen, auf dem Boden waren die Spiele eher nicht spielbar gewesen.
-Alternative wäre als Bild an der Wand aufhängen, wäre ggfs. auch eine nette Alternative.
-Hat auf jeden Fall wieder Spass gemacht.
+Wir hätten es fast verpasst, haben uns aber noch schnell mit ein paar Exponaten aus QuantumEscape hineingeschmuggelt. 
+
+Mit ein bisschen Vorlauf oder Nachdenken wären Tische sinnvoll gewesen; auf dem Boden waren die Spiele eher schwer spielbar. Eine Alternative wäre es, sie wie ein Bild an der Wand aufzuhängen – das wäre ggf. auch eine nette Option.
+
+Es hat auf jeden Fall wieder Spaß gemacht!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Junioruni Wuppertal - Forschernacht 2024"
+title:  "JuniorUni Wuppertal – Forschernacht 2024"
 date:   2024-04-12 01:00:00
 author: "Jan Thar"
 last_modified_at:  2024-04-12 01:00:00
@@ -15,8 +15,8 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Am 12.4.2024 fand die erste Forschernacht der Junioruni Wuppertal statt. 
+Am 12.04.2024 fand die erste Forschernacht der JuniorUni Wuppertal statt. 
 Wir durften mit dabei sein. 
-Dazu hatten wir Chris Printenlaser und ein bisschen Leuchtzeug und die QuantumEscape-Spiele dabei damit es beim Wachten auf die Printen nicht langweilig wurde.
-Sind kaum zum Essen gekommnen, glücklichweise hatten wir aber Verstärkung durch die Junioruni selber bekommen.
-War ein gutes Event, scheint auch den Besuchern Spasse gemacht zu haben.
+Dafür hatten wir Christophs Printenlaser, ein bisschen Leuchtzeug und die QuantumEscape-Spiele dabei, damit es beim Warten auf die Printen nicht langweilig wurde.
+Wir sind kaum zum Essen gekommen; glücklicherweise hatten wir aber Verstärkung durch die JuniorUni selbst bekommen.
+Es war ein gutes Event, das anscheinend auch den Besuchern Spaß gemacht hat.

@@ -14,11 +14,10 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+In unserer ersten Projektwoche in Graz für „Makers+“ ging es vor allem um Schreibtechniken, d. h. die Struktur der Kapitel und den Schreibstil festzulegen und dies in Workshops zu üben.
 
-In unserer ersten Projektwoche in Graz für Makers+ ging es vor allem um die Schreibtechniken, d.h. Struktur der Kapitel und Schreibstil festlegen und in Schreibworkshops üben.
-Etwas ungewohnt, aber lehrreich, ich tendiere etwas dazu zuviel vorausszusetzen und zuwenig zu wiederholen.
-Und zu Bandwurmsätzen, aber das ist eine andere Geschichte.
-Jedenfalls steht der Plan fürs Projekt, nun kann die eigentliche Arbeit losgehen (wobei noch etwas Arbeitsanteile eines ausgestiegenen Projektpartners aufgeteilt werden müssen).
-Der kulturelle Teil kam auch nicht zu kapp, Graz ist eine hübsche Stadt mit einem netten Schlossberg, und auch nette Burgen im Umland. 
-Eigentlich perfekt geeignet für kleinere und grössere Wanderungen.
+Etwas ungewohnt, aber lehrreich; ich tendiere manchmal dazu, zu viel vorauszusetzen und zu wenig zu wiederholen. Und zu Bandwurmsätzen – aber das ist eine andere Geschichte.
 
+Jedenfalls steht der Plan für das Projekt, nun kann die eigentliche Arbeit losgehen (wobei noch Arbeitsanteile eines ausgestiegenen Projektpartners aufgeteilt werden müssen).
+
+Der kulturelle Teil kam auch nicht zu knapp: Graz ist eine hübsche Stadt mit einem netten Schlossberg und schönen Burgen im Umland. Eigentlich perfekt geeignet für kleinere und größere Wanderungen.

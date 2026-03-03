@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Makerfaire Rom 2023"
+title:  "Maker Faire Rome 2023"
 date:   2023-10-20 12:00:00
 author: "Jan Thar"
 last_modified_at:  2023-10-20 12:00:00
-excerpt: "Makerfaire"
+excerpt: "Maker Faire"
 categories: events
 tags:  Back
 image:
@@ -14,28 +14,27 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Vom 20.-22. Oktober war dann mal wieder Makerfaire Rome angesagt, leider wieder weg vom Gasometer und zurück auf dem Messegelände.
-Wobei es natürlich gut ist das wieder die alte Grösse angepeilt wurde... und war auch beeindruckend viel los.
+Vom 20. bis 22. Oktober war dann mal wieder die Maker Faire Rome angesagt, leider wieder weg vom Gasometro und zurück auf dem Messegelände.
+Wobei es natürlich gut ist, dass wieder die alte Größe angepeilt wurde ... und es war auch beeindruckend viel los.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2023f.jpeg);"></div>
 
-Schräg gegenüber gab es auch gleich einen Stand mit alten Bekannten, das Open-Photonics-Pro Project Safecutter war mit einem Mr Beam vor Ort... also eigentlich mit dem Filtersystem, aber den Lasercutter fanden die Besucher wohl spannender.
+Schräg gegenüber gab es auch gleich einen Stand mit alten Bekannten: Das Open-Photonics-Projekt Safecutter war mit einem Mr Beam vor Ort ... also eigentlich mit dem Filtersystem, aber den Lasercutter fanden die Besucher wohl spannender.
 
-Zu unserem Projektthema Quantentechnologie gab es auch weitere Austeller, in einer anderen Halle hatte eine Uni tatsächlich einen echten Alice-und-Bob-Quantenschlüsseltausch aufgebaut.
-War aber nach einem Tag ncht mehr zu finden - unser FLipper ist da wohl weiter beliebter, aber auch nur weil die Gewinnregeln ignoriert werden.
-Auch bei einer Quantenrennen waren nicht viele Besucher zu sehen.
+Zu unserem Projektthema Quantentechnologie gab es auch weitere Aussteller; in einer anderen Halle hatte eine Uni tatsächlich einen echten Alice-und-Bob-Quantenschlüsseltausch aufgebaut.
+Das war aber nach einem Tag nicht mehr zu finden – unser Flipper ist da wohl weiterhin beliebter, aber auch nur, weil die Gewinnregeln ignoriert werden.
+Auch bei einem Quantenrennen waren nicht viele Besucher zu sehen.
 
-Insgesamt waren sehr viel Universitäten und Startups mit Ständen vor Ort, relativ wenig einfach bloss verrückte Maker. 
-Aber durch die Grösse der Veranstaltung heisst prozentual wenige natürlich doch recht viele - und auch bei den seriöseren Sachen gabs viele nette Ideen abzustauben.
+Insgesamt waren sehr viele Universitäten und Start-ups mit Ständen vor Ort, relativ wenige einfach bloß verrückte Maker. 
+Aber durch die Größe der Veranstaltung heißt „prozentual wenige“ natürlich doch recht viele – und auch bei den seriöseren Sachen gab es viele nette Ideen abzustauben.
 
-Von Precious Plastics Shreddern per Hometrainer hatte ich schon gehört, aber ihn jetzt auch endlich mal life gesehen. 
-Dann gab es Kerzen CNC fräsen, an sich eine sehr clevere Sache  -mit gut recyclebarem Material, einfachem Aufbau und tollen Ergebnissen.
-Freundschaftsnänder automatisch flechten war auch ein witziges Konzept
+Vom Shreddern von „Precious Plastic“ per Hometrainer hatte ich schon gehört, aber ihn jetzt auch endlich mal live gesehen. 
+Dann gab es Kerzen-CNC-Fräsen, an sich eine sehr clevere Sache – mit gut recycelbarem Material, einfachem Aufbau und tollen Ergebnissen.
+Freundschaftsbänder automatisch flechten war auch ein witziges Konzept.
 
-Insbsondere von der Universa Roma Tre gab es ein paar richtig witzige, nur leicht grössenwahnsinnige Projekte. 
-Zum einen ein paar Pavillons zum Thema Sinneswahrnehmung (das Titelbild), in einer anderen Messehalle gab es dann unsere Planeten in aufgeblasener Form, und schliesslich übergrosses Konstruktionspielzeug aus Wellpappe geschnitten, da hatten Kinder einen Riesenspass mit.
+Insbesondere von der Università Roma Tre gab es ein paar richtig witzige, nur leicht größenwahnsinnige Projekte. 
+Zum einen ein paar Pavillons zum Thema Sinneswahrnehmung (das Titelbild), in einer anderen Messehalle gab es unsere Planeten in aufgeblasener Form, und schließlich übergroßes Konstruktionsspielzeug aus Wellpappe geschnitten; da hatten Kinder einen Riesenspaß mit.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2023c.jpeg);"></div>
 
-Auch gab es von ihnen eine Spielwiese zum testen verschiedener Physikalischer Grundlagen - aber auch von anderen Ausstellern und der Makerfaire selber  gab es grosse Spielfelder für die Jugend zum spielen ausprobieren, basteln.
-
+Auch gab es von ihnen eine Spielwiese zum Testen verschiedener physikalischer Grundlagen – aber auch von anderen Ausstellern und der Maker Faire selbst gab es große Spielfelder für die Jugend zum Spielen, Ausprobieren und Basteln.

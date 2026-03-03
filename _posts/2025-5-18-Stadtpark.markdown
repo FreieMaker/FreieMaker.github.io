@@ -14,11 +14,8 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+Am 18. Mai fand mit „Aachen zeigt Engagement“ ein Treffen im Stadtpark statt, bei dem sich verschiedenste Vereine vorstellen konnten. Es gab Stände, Vorführungen, Spaß und natürlich auch Essen und Trinken.
 
-Am 18.Mai fand mit "Aachen zeigt Engagement" ein Treffen im Stadtpark statt, wo sich die verschiedensten Vereine vorstellen konnten.
-Es gab somit Stände, Vorführungen, Spass und natürlich auch Essen und Trinken.
+Gewohnt chaotisch waren wir ebenfalls vor Ort; mit unserem Zelt sah das fast schon professionell aus. Nur die Tischplanung war etwas mangelhaft, aber dank kreativer Last-Minute-Korrekturen (aka Andreas-Böcke und ähnliches) hat es dann doch ganz gut geklappt.
 
-Gewohnt chaotisch waren wir auch vor Ort, mit unserem Zelt war das fast schon professionel. 
-Ausser das wir Tischmässig etwas schlecht geplant hatten, aber dank kreativen Last-Minute-Korrekturen (aka Andreas Böcke und ähnliches) hats dann doch ganz gut geklappt.
-
-Nette Veranstaltung, wo man mal sieht was es so alles in Aachen an ehrenamtlichen Sachen und Vereinen gibt, kann man nur enpfehlen.
+Eine nette Veranstaltung, bei der man sieht, was es in Aachen alles an ehrenamtlichen Projekten und Vereinen gibt – kann man nur empfehlen!

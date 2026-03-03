@@ -15,9 +15,9 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Am 17.12. fand die kombinierte LabAix / Freie Maker Weihnachtsfeier statt. 
-Prima Idee vom LabAix Team: Plätzchen ohne Deko zum selber verzieren backen - mit jeder Menge Verziermaterial auf dem Tisch.
-Wobei das manchmal dann doch zu dummen Ideen führt :)
+Am 17.12. fand die kombinierte LabAix- / Freie-Maker-Weihnachtsfeier statt. 
+Prima Idee vom LabAix-Team: Plätzchen ohne Deko zum Selbstverzieren backen – mit jeder Menge Verziermaterial auf dem Tisch.
+Wobei das manchmal dann doch zu dummen Ideen führt. :)
 
-Nettes Zusammensein bei Glühwein, Naschzeug. 
-Und hab endlich mal wieder Kerzen gegossen, man sah aber nachher doch etwas an den Farbwahl das die Übung fehlt.
+Nettes Zusammensein bei Glühwein und Naschzeug. 
+Und ich habe endlich mal wieder Kerzen gegossen; man sah aber nachher doch etwas an der Farbwahl, dass die Übung fehlt.

@@ -18,7 +18,7 @@ Unser Makerspace ist von Lemiers nach Aachen umgezogen. Ab sofort findet ihr uns
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}TDOT22_flipper.jpg);"></div>
 
-Um diesen Umzug zu feiern, möchten wir euch am 6. August 2022 zum Tag der offenen Tür einladen. Es geht um 12 Uhr los und es wird live Demonstrationen und Workshops geben zu folgenden Themen:
+Um diesen Umzug zu feiern, möchten wir euch am 6. August 2022 zum Tag der offenen Tür einladen. Es geht um 12 Uhr los, und es wird Live-Demonstrationen und Workshops zu folgenden Themen geben:
 
 ## Lasercutter
 
@@ -27,25 +27,27 @@ Im LabAix gibt es professionelle CO2-Lasercutter. Aber auch im Makerspace haben 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}TDOT22_laser.jpg);"></div>
 
 
-## 3D-Drucker und CNC Fräsen
+## 3D-Drucker und CNC-Fräsen
 
-Im Makerspace befinden sich ein paar FDM und SLA 3D-Drucker und es gibt auch DIY CNC-Fräsen. Die neueren Geräte könnt ihr live in Aktion erleben und den ersten Prusa Mendel Prototypen Deutschlands, der Vorlage für den ersten 3D-Drucker Workshop in Europa war, findet ihr in der Museumsecke des Spaces.
+Im Makerspace befinden sich ein paar FDM- und SLA-3D-Drucker, und es gibt auch DIY-CNC-Fräsen. Die neueren Geräte könnt ihr live in Aktion erleben. Den ersten Prusa-Mendel-Prototyp Deutschlands, der als Vorlage für den ersten 3D-Drucker-Workshop in Europa diente, findet ihr in der Museumsecke des Spaces.
 
 ## UV-Drucker
 
-Wir haben einen UV-Drucker, der so ziemlich alles bedrucken kann. Bringt Lego-Steine oder andere Kleinigkeiten mit und testet es selbst!
+Wir haben einen UV-Drucker, der so ziemlich alles bedrucken kann. Bringt LEGO-Steine oder andere Kleinigkeiten mit und testet es selbst!
+
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}TDOT22_uvdrucker.jpg);"></div>
 
 ## Lötkolben und Elektronik
 
-Natürlich haben wir auch alles für Elektronikprojekte da. Arduinos, Raspberry Pis, Komponenten und Equipment für Lötarbeiten. Wenn ihr Löten lernen wollt, sprecht uns gerne an!
+Natürlich haben wir auch alles für Elektronikprojekte da: Arduinos, Raspberry Pis, Komponenten und Equipment für Lötarbeiten. Wenn ihr Löten lernen wollt, sprecht uns gerne an!
 
 ## Wir freuen uns auf ein Kennenlernen
 
-Ihr habt die Gelegenheit, Exponate von vergangenen Maker Faires anzugucken, unter anderem den Flipper, den infinity mirror und ein paar neue Sachen, über die ihr bald mehr erfahren könnt.
+Ihr habt die Gelegenheit, Exponate von vergangenen Maker Faires anzuschauen, unter anderem den Flipper, den Infinity Mirror und ein paar neue Sachen, über die ihr bald mehr erfahren könnt.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}TDOT22_saeule.jpg);"></div>
 
 
-Wir freuen uns, mit euch bei ein paar Snacks in Gespräch zu kommen. Die Teilnahme ist kostenlos und macht Spaß!
+Wir freuen uns darauf, mit euch bei ein paar Snacks ins Gespräch zu kommen. Die Teilnahme ist kostenlos und macht Spaß!
+
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}TDOT22_snacks.jpg);"></div>

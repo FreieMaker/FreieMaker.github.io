@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FAB Konferenz 2023"
+title:  "FAB-Konferenz 2023"
 date:   2023-09-10 11:00:00
 author: "Jan Thar"
 last_modified_at:  2023-09-10 11:00:00
@@ -15,25 +15,21 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Ende Juli war die jährliche FAB Konferenz, die internationale FabLab, bzw FabCity etc. Konferenz. 
-Neben der eigentlichen Konferenz gibt es seit dem letzten Jahr auch Fab Challenges, wo sich die Teilnehmer Lösungen für aktuelle Probleme im Land überlegen müssen.
-Wir mussten ziemlich umdenken, das Problem das man wegen zuviel Hitze und Wasser keine dritte Ernte einfahren kann  - aber wegen Lager-und Transportbeschränkungen die auch notwendig ist ist zeimlich ungewohnt.
-Und etwas gruselig vom Anspruch her wenn man davon ausgeht das man als Besucher mal eben eine Lösung findet, udn die meiste Zeit war man damit auch eher selber am Lernen - die meisten Ideen sind natürlich schon ausprobiert worden.
-Ingesamt aber eine tolle Erfahrung, und wir müssen schauen das wir da in Zukunft noch etwas weiterarbeiten - nicht das ich irgednwie bezweifeln würde das wir nicht schon die perfekte Lösung gefunden hätten ^^.
+Ende Juli fand die jährliche FAB-Konferenz statt, die internationale FabLab- bzw. FabCity-Konferenz. 
+Neben der eigentlichen Konferenz gibt es seit letztem Jahr auch Fab Challenges, bei denen sich die Teilnehmer Lösungen für aktuelle Probleme im Land überlegen müssen.
+Wir mussten ziemlich umdenken: Das Problem, dass man wegen zu viel Hitze und Wasser keine dritte Ernte einfahren kann – was aber wegen Lager- und Transportbeschränkungen notwendig wäre –, ist ziemlich ungewohnt.
+Und es ist vom Anspruch her etwas gruselig, wenn man davon ausgeht, dass man als Besucher mal eben eine Lösung findet; die meiste Zeit war man daher eher selbst am Lernen – die meisten Ideen sind natürlich schon ausprobiert worden.
+Insgesamt war es aber eine tolle Erfahrung, und wir müssen schauen, dass wir da in Zukunft noch etwas weiterarbeiten – nicht dass ich irgendwie bezweifeln würde, dass wir nicht schon die perfekte Lösung gefunden hätten. ^^
 
-Auf der Konferenz selber gab es spannende Themen - für uns interessant das Quantenfablab von Michael Schäfer - aber den Erfahrungsaustausch hätte man natürlich auch auf kürzerem Wege haben können.
-Aber ein Besuch in seinem Lab muss wohl mal sein, er hat schon eine nette Geräteausstattung dazubekommen seit dem letzten Besuch.
-Aprpos Ausstattung: Im SuperFabLab gabs dann mal richtige Industriemaschinen zu bewundern, der Zünd-Cutter wäre ein Traum (sowohl vom Platzbedarf wie auch Kosten wird er es auch bleiben).
-Aber die idee einfach eine grosse CNC-Fräse per Schleppmesser in eine Art übergrossen Vinylcutter für Wellkarton zu verwandeln könnte man auch gut für eine DIY-CNC-Fräse übernehmen.
-Wobei - das Platzproblem haben wir dann immer noch.
+Auf der Konferenz selbst gab es spannende Themen – für uns besonders interessant war das Quanten-FabLab von Michael Schäfer –, aber den Erfahrungsaustausch hätte man natürlich auch auf kürzerem Wege haben können.
+Aber ein Besuch in seinem Lab muss wohl mal sein; er hat schon eine nette Geräteausstattung dazubekommen seit dem letzten Besuch.
+Apropos Ausstattung: Im SuperFabLab gab es dann mal richtige Industriemaschinen zu bewundern; der Zünd-Cutter wäre ein Traum (sowohl vom Platzbedarf als auch von den Kosten her wird er es wohl auch bleiben).
+Aber die Idee, einfach eine große CNC-Fräse per Schleppmesser in eine Art übergroßen Vinylcutter für Wellkarton zu verwandeln, könnte man auch gut für eine DIY-CNC-Fräse übernehmen.
+Wobei – das Platzproblem hätten wir dann immer noch.
 
-Fab in A Box - Mini-CNC Maschinen als kostengünstes EinsteigerFabLab scheint ein interessantes Konzept zu sein, auch wenn ich die Ausführung noch ncith ganz überzeugend finde, aber die Idee ist gut.
-Dann gab es noch mehere Konzepte um entweder natürliche Materialen oder Abfälle als Grundlagen für kostengünstige Workshops zu nutzen - insgesamt war das eine Konferenz wo doch auffiel das Material zu ausprobieren wichtiger ist als (teure) Maschinen.
-Wobei teure Maschinen eien weitere hemmschwelle des könnte was kaputtgehen gegenüber DIY-Bauten haben... aber das war nicht so ganz Thema der Konferenz.
+„Fab in a Box“ – Mini-CNC-Maschinen als kostengünstiges Einsteiger-FabLab – scheint ein interessantes Konzept zu sein, auch wenn ich die Ausführung noch nicht ganz überzeugend finde; aber die Idee ist gut.
+Dann gab es noch mehrere Konzepte, um entweder natürliche Materialien oder Abfälle als Grundlage für kostengünstige Workshops zu nutzen – insgesamt war das eine Konferenz, auf der auffiel, dass Material zum Ausprobieren wichtiger ist als (teure) Maschinen.
+Wobei teure Maschinen eine weitere Hemmschwelle des „da könnte was kaputtgehen“ gegenüber DIY-Bauten haben ... aber das war nicht so ganz Thema der Konferenz.
 
-Insgesamt scheint bei uns im Westen der Bildungsaspekt in Makerspaces immer mehr in den Vordergrund zu gelangen, während sie als Basis für Startups in anderen Teilen der Welt gesehen werden.
-Interessant auch die unetrschiedliche Sichtweisen von Geldgebern und Empfängern - während z.B. Gründer in Afrika darüber fluchen das Geldgeber immer auch ein soziale Komponente und Verbesserungen der lokalen Lebensumstände verlangen - statt das sie sehen das das durch Geld verdienen ja auch geschieht, sieht das bei uns wohl etwas anders aus.
-
-
-
-
+Insgesamt scheint bei uns im Westen der Bildungsaspekt in Makerspaces immer mehr in den Vordergrund zu rücken, während sie in anderen Teilen der Welt eher als Basis für Start-ups gesehen werden.
+Interessant waren auch die unterschiedlichen Sichtweisen von Geldgebern und Empfängern: Während z. B. Gründer in Afrika darüber fluchen, dass Geldgeber immer auch eine soziale Komponente und Verbesserungen der lokalen Lebensumstände verlangen – statt zu sehen, dass dies durch Geldverdienen ja auch geschieht –, sieht das bei uns wohl etwas anders aus.

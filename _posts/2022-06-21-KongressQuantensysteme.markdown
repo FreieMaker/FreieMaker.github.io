@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kongress Quantensystem 2022"
+title:  "Kongress Quantensysteme 2022"
 date:   2022-06-21 12:00:00
 author: "Jan Thar"
 last_modified_at:  2022-06-21 12:00:00
@@ -14,7 +14,8 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+Am 21.06. fand der erste Kongress „Quantensysteme“ in Berlin statt, im hübschen AXICA Kongress- und Tagungszentrum. 
 
-Am 21.6. war der erste Kongress Quantensysteme in Berlin, in der hübschen AXICA Kongress- und Tagungszentrum. 
-War ein nettes Treffen, vor allem natürlich auch mit den anderen Ausstellern der Quantum Aktiv Projekte des BMBF. 
-Wir waren natürlich wieder mit einigen Sachen aus unserem Quantum Aktiv Projekt, QuantumEscape mit dabei gewesen.
+Es war ein nettes Treffen, vor allem natürlich auch mit den anderen Ausstellern der „Quantum Aktiv“-Projekte des BMBF. 
+
+Wir waren dort wieder mit einigen Exponaten aus unserem Projekt „QuantumEscape“ vertreten.

@@ -4,7 +4,7 @@ title:  "UX Meetup 2023"
 date:   2023-09-10 12:00:00
 author: "Jan Thar"
 last_modified_at:  2023-09-10 12:00:00
-excerpt: "Makerfaire"
+excerpt: "UX-Gruppe zu Besuch"
 categories: events
 tags:  Back
 image:
@@ -14,8 +14,8 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Am 18. Juli war die UX Gruppe aus Aachen dank Roxy zu Besuch im LabAix und bei uns. 
-Damit es nicht zu trocken wurde beim Makerspacerundgang gab es beleuchtete Namensschilder für die Besucher zu machen.
-Natürlich gab es sowohl davor als auch danach jede Mange Freiwilliger um diese Produktion zu testen und Verbesserungen einzubauen.
+Am 18. Juli war die UX-Gruppe aus Aachen dank Roxy zu Besuch im LabAix und bei uns. 
+Damit es beim Makerspace-Rundgang nicht zu trocken wurde, gab es beleuchtete Namensschilder für die Besucher anzufertigen.
+Natürlich gab es sowohl davor als auch danach jede Menge Freiwillige, um diese Produktion zu testen und Verbesserungen einzubauen.
 
-Neben dem netten Event selber haben wir also damit ein weiteres Beispielprojekt für Besucher zur Maschinennutzung gewonnen.
+Neben dem netten Event selbst haben wir damit ein weiteres Beispielprojekt für Besucher zur Maschinennutzung gewonnen.

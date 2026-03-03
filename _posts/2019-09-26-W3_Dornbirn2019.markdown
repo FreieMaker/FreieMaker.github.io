@@ -14,5 +14,8 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Wir durften auf der W3+ Messe am Bodensee einige unserer Projekte, zusammen mit Ergebnissen des Personal Photonics Projekts des Fab Lab Aachens ausstellen.
-Eine sehr nette Fachmesse in einer wunderschönen Umgebung, wo wir auch noch insbesondere durch die guten Vorträge und im Gespräch mit anderen Ausstellern und Besuchern auch wieder ordentlcih etwas lernen konnten. Hat viel Spass gemacht.
+Wir durften auf der W3+ Messe am Bodensee einige unserer Projekte zusammen mit Ergebnissen des „Personal Photonics“-Projekts des FabLab Aachen ausstellen.
+
+Es war eine sehr nette Fachmesse in einer wunderschönen Umgebung, auf der wir insbesondere durch die guten Vorträge und im Gespräch mit anderen Ausstellern und Besuchern wieder ordentlich etwas lernen konnten.
+
+Es hat viel Spaß gemacht!
