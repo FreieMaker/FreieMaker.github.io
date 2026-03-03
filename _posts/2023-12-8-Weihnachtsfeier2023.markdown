@@ -15,10 +15,10 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Am 8.12. fand die kombinierte LabAix / Freie Maker Weihnachtsfeier statt. 
-Naja, eigentlich war es die LabAix-Weihnachtsfeier, parallel war aber auch unser Lab offen und es wurde fleissig an Geschenken gebastelt.
-Vor allem von der Jugend, während die Erwachsenen mit Glühwein an der Turbo-Ghettotonne standen - und wieder etwas gelernt: 
-Es ist echt schwierig nach ein paar Glühwein OpenSCAD zu erklären.
+Am 08.12. fand die kombinierte LabAix- / Freie-Maker-Weihnachtsfeier statt. 
+Eigentlich war es die LabAix-Weihnachtsfeier, parallel war aber auch unser Lab offen und es wurde fleißig an Geschenken gebastelt.
+Vor allem von der Jugend, während die Erwachsenen mit Glühwein an der Turbo-Ghettotonne standen – und wieder etwas gelernt haben: 
+Es ist echt schwierig, nach ein paar Glühwein OpenSCAD zu erklären.
 
-Wie üblich hatte das LabAix team auch wieder eine Bastelidee zur Weihnachstfeier: Christbaumkugeln bemalen. 
-Da kammen echt schicke Kunstwerke heraus, aber leider  fielen mir beim nur Stifte benutzen keine dummen Ideen ein.
+Wie üblich hatte das LabAix-Team auch wieder eine Bastelidee zur Weihnachtsfeier: Christbaumkugeln bemalen. 
+Dabei kamen echt schicke Kunstwerke heraus, aber leider fielen mir beim bloßen Benutzen der Stifte keine dummen Ideen ein.

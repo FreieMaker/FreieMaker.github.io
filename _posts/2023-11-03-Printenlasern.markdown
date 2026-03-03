@@ -14,9 +14,8 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Am 3.11. wurden den besten Auszubildenen NRWs im Eurogress geehrt. 
-Wir durften netterweise mit Chris Printenlaser dabei sein und die Abolventen mit individualisierten Printen versorgen.
-Eigentlich brauchten wir nur einen Tisch, aber wie üblich haben wir uns dann doch noch etwas ausgebreitet und auch noch ein paar andere Dinge wie den Quantenflipper mit ausgestellt.
+Am 03.11. wurden die besten Auszubildenden NRWs im Eurogress geehrt. 
 
-War eine sehr nette Veranstaltung, normalerweise käme an dieser Stelle ein im nächsten Jahr gerne wieder, aber die Veranstlatung gibt es nur alle 16 Jahre in Aachen :)
+Wir durften netterweise mit Christophs Printenlaser dabei sein und die Absolventen mit individualisierten Printen versorgen. Eigentlich brauchten wir nur einen Tisch, aber wie üblich haben wir uns dann doch noch etwas ausgebreitet und auch noch ein paar andere Dinge wie den Quantenflipper mit ausgestellt.
 
+Es war eine sehr nette Veranstaltung. Normalerweise käme an dieser Stelle ein „im nächsten Jahr gerne wieder“, aber die Veranstaltung findet nur alle 16 Jahre in Aachen statt. :)

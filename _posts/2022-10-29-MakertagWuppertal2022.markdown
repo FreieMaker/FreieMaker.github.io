@@ -14,15 +14,12 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+Am 29.10.2022 durften wir den Makertag an der [JuniorUni Wuppertal](https://junioruni-wuppertal.de/) unterstützen – ein faszinierender Ort zum Lernen. Das hat man auch am riesigen Einzugsgebiet der Besucher bemerkt.
 
-Am 29.10.2022 durften wir dann den Makertag an der [Junioruni Wuppertal](https://junioruni-wuppertal.de/) unterstützen, ein faszinierender Platz zum lernen.
-Was man auch am riesigen Einzugsgebiet der Besucher bemerkt hat.
+Einerseits waren wir mit einer Ausstellung unseres Quantenwaldes im Foyer vertreten, andererseits gab es verschiedene Workshops für die Besucher. In einem Raum konnte beleuchtete Kleidung (bzw. Taschen) gebastelt werden, in einem anderen Infinity Mirror, und in einem dritten wurden Spiele programmiert.
 
-Zum einen mit einer Ausstellung unseres Quantenwaldes im Foyer, und dann gab es noch verschiedene Workshops für die Besucher.
-In einem Raum konnte beleuchtete Kleidung (bzw. Taschen) gebastelt werden, in einem anderen Infintitymirror, und in einem dritten Spiele programmiert werden.
-Bei letzterem hab ich mich allerdings etwas übernommen, aber zumindest liefen einige unserer Quantenspiele im Hintergrund, gelangweilt hat sich damit hoffentlich also keiner.
-In einem weiteren Raum konnte man dann auch Printen lasern, und im Foyer gab es beleuchtetet Namensschilder zum zusammenbauen.
-Auch ein grösserer Infinitymirror mit Junioruni-Logo wurde gebastelt.
+Bei Letzterem habe ich mich allerdings etwas übernommen, aber zumindest liefen einige unserer Quantenspiele im Hintergrund; gelangweilt hat sich damit hoffentlich also keiner. In einem weiteren Raum konnte man Printen lasern, und im Foyer gab es beleuchtete Namensschilder zum Zusammenbauen.
 
-Auch die Kollegen der Jungen Tüftler waren vor Ort, neben den regulären Brettspielen zum Thema Quanten nun auch mit einem Riesen Quanten-TicTaqToe. 
-Von Mirco Imlau und seinem Team gabs Laserexperimente - und man konnte auch mit ihrem grossen Laserlabyrinth spielen.
+Auch ein größerer Infinity Mirror mit JuniorUni-Logo wurde gebastelt. Ebenfalls vor Ort waren die Kollegen der Jungen Tüftler – neben den regulären Brettspielen zum Thema Quanten nun auch mit einem riesigen Quanten-Tic-Tac-Toe. 
+
+Von Mirco Imlau und seinem Team gab es Laserexperimente – und man konnte auch mit ihrem großen Laser-Labyrinth spielen.

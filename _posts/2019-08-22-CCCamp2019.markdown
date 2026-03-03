@@ -14,7 +14,11 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Freie Maker waren im Urlaub auf dem CCCamp 2019 in Mildenberg. Mit dem üblichen Leuchtzeug unterwegs, wobei man bei diesem Event schon sagen konnte um nicht unter den anderen Besuchern aufzufallen ^^. Wie auch bei unserem letzten Besuch dort eine magische Mischung insbesonders Nachts aus Licht, Nebel, Musik und lauter netten Leuten, von denen man viel lernen konnte. 
+Die Freien Maker waren im Urlaub auf dem CCCamp 2019 in Mildenberg.
+
+Mit dem üblichen Leuchtzeug unterwegs – wobei man bei diesem Event fast schon sagen konnte: nur um unter den anderen Besuchern nicht aufzufallen. ^^
+
+Wie auch bei unserem letzten Besuch war es eine magische Mischung, insbesondere nachts, aus Licht, Nebel, Musik und lauter netten Leuten, von denen man viel lernen konnte. 
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019cyberwehr.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019el.jpg);"></div>
@@ -28,4 +32,3 @@ Freie Maker waren im Urlaub auf dem CCCamp 2019 in Mildenberg. Mit dem üblichen
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019rocket2.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019tiki.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ccc2019unicorn.jpg);"></div>
-

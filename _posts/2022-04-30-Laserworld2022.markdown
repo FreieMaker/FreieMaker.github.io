@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Laserworld München 2022"
+title:  "LASER World of PHOTONICS München 2022"
 date:   2022-04-30 12:00:00
 author: "Jan Thar"
 last_modified_at:  2022-04-30 12:00:00
@@ -14,8 +14,8 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+Vom 25. bis 29.04. fand nach längerer Pause wieder die „LASER World of PHOTONICS“ in München statt.
 
-Vom 25. bis 29.4. gab es nach längerer Pause wieder eine Laserworld in München.
-Wir durften mit unserem BMBF-geförderten Projekt QuantumEscape beim Open Photonics Pro Gemeinschaftsstand teilnehmen.
-Was prima war, da wir damit wieder viele bekannte Gesichter aus "unserem" alten Personal Photonics / Open Photonics Projekt wiedersehen konnten, ausserdem gab es spannende Vorträge am Stand.
-Damit startete auch so langsam unser normaler Ausstellungsbetrieb nach der Coronapause wieder, die nächsten Monate füllen sich so langsam.
+Wir durften mit unserem BMBF-geförderten Projekt QuantumEscape am „Open Photonics Pro“-Gemeinschaftsstand teilnehmen. Das war prima, da wir so viele bekannte Gesichter aus unserem alten „Personal Photonics / Open Photonics“-Projekt wiedersehen konnten; außerdem gab es spannende Vorträge am Stand.
+
+Damit startete nach der Corona-Pause auch so langsam unser normaler Ausstellungsbetrieb wieder; die nächsten Monate füllen sich allmählich.

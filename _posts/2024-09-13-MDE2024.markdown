@@ -14,12 +14,14 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Am 13ten September ging es dann wieder mal mit grösserer Gruppe nach Eindhoven - diesmal nicht zur Makerfaire sondern den Maker Days. 
-Lag aber nur daran das sie sich umbenannt haben.
+Am 13. September ging es dann wieder einmal mit einer größeren Gruppe nach Eindhoven – diesmal nicht zur Maker Faire, sondern zu den Maker Days. Das lag aber nur daran, dass sie sich umbenannt haben.
+
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFE24_open.jpeg);"></div>
 
-Gab wieder ein paar nette lustige Projekte, ein witziges Teil war beispielsweise eine modulare Murmelbahn:
+Es gab wieder ein paar nette, lustige Projekte; ein witziges Teil war beispielsweise eine modulare Murmelbahn:
+
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFE24_marble.jpeg);"></div>
 
-Hat Spass gemacht, auch Glamping nahe Eindhoven hatte gut funktioniert.
-Im nächsten Jahr ganz so weitergehen (ausser das das ein Fashion-Tech-Ausstellungsstück den schönen Rundgang im Darkroom kaputt gemacht hat. Meckern auf hohem Niveau ^^)
+Es hat Spaß gemacht, auch das Glamping nahe Eindhoven hat gut funktioniert.
+
+Im nächsten Jahr kann es gerne genau so weitergehen (außer, dass ein Fashion-Tech-Ausstellungsstück den schönen Rundgang im Darkroom kaputt gemacht hat – Meckern auf hohem Niveau ^^).

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Makerfaire Hannover und Maker Campus Nantes 2021"
+title:  "Maker Faire Hannover und Nantes Maker Campus 2021"
 date:   2021-07-21 00:16:00
 author: "Jan Thar"
 last_modified_at:  2021-07-21 00:16:00
-excerpt: "Makerfaire presentation: Alice - Between The Mirrors"
+excerpt: "Maker Faire presentation: Alice - Between The Mirrors"
 categories: events
 tags:  Back
 image:
@@ -14,72 +14,65 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Am 18.6. war die - pandemiebedingt virtuelle - Makerfaire Hannover. 
-Wir konnten es uns natürlich nicht lassen dafür auch etwas aufzubauen, das meiste hat aber René für Ruhm und Ehre des Vereins getan, er hat den Wissenschaftslifestream moderiert und auch die Makerfaire eröffnet, prima Sache.
-Dank niedriger Inzidenzen haben wir uns sogar ausnahmsweise nach Lemiers getraut, was wie sich herausgestellt hatte ein guter Test war für die nächsten Makerfaires:
-Aluquerstreben statt Kunststoffquerstreben in Säulen ergab gute Kurzschlüsse zwischen den einzelnen LED-Streifen, was mehr zu einer Heizung als einer Beleuchtung führte :)
-Auch bei ein paar anderen Exponaten muss noch nachgearbeitet werden - schwere Massen sind eh doof für den Transport, und das Rollen über Wege und damit bewegte Massen ist auch nicht so gut für die Struktur.
-Aber zumindest ein paar Sachen haben wir ans Leuchten bekommen. - etwas zu sehr für die Kameras zum Streamen und auch die Interaktivität kam etwas zu kurz.
+Am 18.06. fand die – pandemiebedingt virtuelle – Maker Faire Hannover statt. 
 
-Fazit: Ein gutes Warmup um hoffentlich so langsam wieder zu "echten" Messen und Makerfaires überzugehen - und die neuen Exponate etwas robuster zu gestalten.
+Wir konnten es uns natürlich nicht lassen, dafür auch etwas aufzubauen. Das meiste hat aber René für Ruhm und Ehre des Vereins getan: Er hat den Wissenschafts-Livestream moderiert und auch die Maker Faire eröffnet – eine prima Sache!
+
+Dank niedriger Inzidenzen haben wir uns sogar ausnahmsweise nach Lemiers getraut, was, wie sich herausgestellt hat, ein guter Test für die nächsten Maker Faires war: Aluquerstreben statt Kunststoffquerstreben in den Säulen ergaben gute Kurzschlüsse zwischen den einzelnen LED-Streifen, was eher zu einer Heizung als zu einer Beleuchtung führte. :)
+
+Auch bei ein paar anderen Exponaten muss noch nachgearbeitet werden – schwere Massen sind eh unpraktisch für den Transport, und das Rollen über Wege und damit bewegte Massen ist auch nicht gut für die Struktur. Aber zumindest ein paar Sachen haben wir zum Leuchten bekommen – allerdings etwas zu hell für die Kameras zum Streamen, und auch die Interaktivität kam etwas zu kurz.
+
+Fazit: Ein gutes Warm-up, um hoffentlich so langsam wieder zu „echten“ Messen und Maker Faires überzugehen – und die neuen Exponate etwas robuster zu gestalten.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_ele.jpg);"></div>
 
-Kurze Zeit später ging es dann tatsächlich in die Welt hinaus - zumindest bis nach Nantes, wo der Maker Campus Nantes stattfand, eine ziemlich verrückte Mischung unterschiedlichster Kreationen.
-Mag auch am Ort liegen, eine alte Werfthalle wo Les Machines de l’île spannende Sachen bauen.
-Die Ausstellung war somit unter Dach, ohne Wände, was eine gute Durchlüftung ergab. 
-Masken waren auch vorgeschrieben, und mit einem Miniumum an akuten Corona-Fällen sowohl in Frankreich wie auch in Deutschland fühlte man sich doch ziemlich sicher.
+Kurze Zeit später ging es dann tatsächlich in die Welt hinaus – zumindest bis nach Nantes, wo der Nantes Maker Campus stattfand, eine ziemlich verrückte Mischung unterschiedlichster Kreationen. Mag auch am Ort liegen: eine alte Werfthalle, in der „Les Machines de l’île“ spannende Sachen bauen.
+
+Die Ausstellung war somit überdacht, aber ohne Wände, was eine gute Durchlüftung ergab. Masken waren vorgeschrieben, und mit einem Minimum an akuten Corona-Fällen sowohl in Frankreich als auch in Deutschland fühlte man sich doch ziemlich sicher.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021-fernbedienung.jpg);"></div>
 
-Erste Nacharbeiten nach der Makerfaire Hannover waren erfolgreich - beim Flipper gibts für diese Art von Reisen wohl in Zukunft eine neue, leichtere Version, der war nicht mit dabei, aber die Säulen liefen, und man konnte schön 1D-Spiele spielen.
-Diese sind (halbwegs) passend zu verschiedenen Vorteilen den Quantensensorik - nur ist der Dreizeiler dazu auf der Fernsteuerung natürlich auf Deutsch, was somit nicht soviel brachte.
-Auch gab insgesamt eine leichte Zurückhaltung mit den Sachen zu spielen, vermutlich weil auf der Ausstellung realtiv viele künstlerische Sachen waren - gekauften Fernbedienungen wurden in die Hand genommen, die Eigenbauten eher nicht.
+Erste Nacharbeiten nach der Maker Faire Hannover waren erfolgreich – beim Flipper gibt es für diese Art von Reisen wohl in Zukunft eine neue, leichtere Version; der war diesmal nicht dabei. Aber die Säulen liefen, und man konnte schön 1D-Spiele spielen. Diese passen (halbwegs) zu verschiedenen Vorteilen der Quantensensorik – nur ist der Dreizeiler dazu auf der Fernsteuerung natürlich auf Deutsch, was vor Ort somit nicht so viel brachte.
+
+Auch gab es insgesamt eine leichte Zurückhaltung, mit den Sachen zu spielen, vermutlich weil auf der Ausstellung relativ viele künstlerische Objekte waren – gekaufte Fernbedienungen wurden in die Hand genommen, die Eigenbauten eher nicht.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021-stand.jpg);"></div>
 
-Hingucker war natürlich weiterhin der Spiegelwürfel - auch im Vergleich zum Ikosaeder, der eigentlich viel komplizierter zu bauen war. 
-Da müssen wir mal schauen wie wir den für Quantenspiele nutzen können - als Darstellung der Blochsphäre für QuantumHero passt er nicht so ganz, da die Achsen ja nicht den Standardrotationen enstprechen, sondern Kombinationen von diesen.
+Hingucker war natürlich weiterhin der Spiegelwürfel – auch im Vergleich zum Ikosaeder, der eigentlich viel komplizierter zu bauen war. Da müssen wir mal schauen, wie wir den für Quantenspiele nutzen können – als Darstellung der Blochsphäre für QuantumHero passt er nicht so ganz, da die Achsen ja nicht den Standardrotationen entsprechen, sondern Kombinationen von diesen.
 
-Für andere Spiele funktionierte die LED-Matrizen mit unterschiedlichen Diffusormaterialien schon ganz gut (Textil, Holz, Stein).
-Insbesondere zu unserem Beispiel einfach einen Salzkristall zu nutzen gab es bei beiden Messen positives Feedback - eigentlich erstaunlich, Salzkristallampen sind ja nichts neues.
-Bei der nächsten Veranstaltung gibt es damit wohl ein Spiel pro Matrix - um Umschalten zu vermeiden und die Tasten auf das notwendigste zu reduzieren. 
-Dies sollte die Einstiegshürde damit herumzuspielen etwas reduzieren.
-Wobei dabei das obige Problem der DIY-Steuerungen fasst man nicht an noch irgendwie umgangen/reduziert werden muss.
+Für andere Spiele funktionierten die LED-Matrizen mit unterschiedlichen Diffusormaterialien schon ganz gut (Textil, Holz, Stein). Insbesondere zu unserem Beispiel, einfach einen Salzkristall zu nutzen, gab es bei beiden Messen positives Feedback – eigentlich erstaunlich, da Salzkristalllampen ja nichts Neues sind.
+
+Bei der nächsten Veranstaltung gibt es daher wohl ein Spiel pro Matrix – um das Umschalten zu vermeiden und die Tasten auf das Notwendigste zu reduzieren. Dies sollte die Einstiegshürde, damit herumzuspielen, etwas verringern. Wobei dabei das obige Problem („DIY-Steuerungen fasst man nicht an“) noch irgendwie umgangen oder reduziert werden muss.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_pg.jpg);"></div>
 
-Peppers-Ghost Displays, die wir in Zukunft eigentlich für Erklärungen nutzen wollten haben dank Sonne nicht wirklich funktioniert, trotz Zweckentfremdung der Lernkartenboxen als Abschattung.
-War als System natürlich witzig und fanden die Leute prima, es brauchte damit aber selber Erklärungen... also eher das Gegenteil des geplanten Zwecks.
+Peppers-Ghost-Displays, die wir in Zukunft eigentlich für Erklärungen nutzen wollten, haben dank der Sonne nicht wirklich funktioniert, trotz der Zweckentfremdung von Lernkartenboxen zur Abschattung. Das System war natürlich witzig und die Leute fanden es prima, aber es brauchte dadurch selbst wieder Erklärungen ... also eher das Gegenteil des geplanten Zwecks.
 
-Soweit zu unserem Stand, es gab aber prima Inspirationen für neue Ideen an den anderen Ständen.
-Einer der benachbarten Stände hat zum Beispiel ein Spiel entwickelt, wo die Gegner nach Musik erzeugt werden.
-Noch nicht ganz sicher wie sich das übertragen lässt, aber Mikro+Audiospektrum gibt es ja schon für die LED-Matrix... oder man benutzt einen Quantenzustand als Generator. 
-Mal schauen.
+Soweit zu unserem Stand; es gab aber auch tolle Inspirationen für neue Ideen an den anderen Ständen. Einer der benachbarten Stände hat zum Beispiel ein Spiel entwickelt, bei dem die Gegner passend zur Musik erzeugt werden.
+
+Ich bin noch nicht ganz sicher, wie sich das übertragen lässt, aber Mikrofon und Audiospektrum gibt es ja schon für die LED-Matrix ... oder man benutzt einen Quantenzustand als Generator. Mal schauen.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_hilf1.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_hilf2.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_hilf3.jpg);"></div>
 
-Insgesamt waren auch viele Stände mit Hilfmitteln vertreten - etwas ärgerlich im Nachhinein das wir weder die BigButtons noch den Vibrationsmotorbauchgurt dabei hatten um unserere Spiele inklusiver zu machen.
+Insgesamt waren auch viele Stände mit Hilfsmitteln vertreten – etwas ärgerlich im Nachhinein, dass wir weder die BigButtons noch den Vibrationsmotor-Bauchgurt dabei hatten, um unsere Spiele inklusiver zu machen.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_lab.jpg);"></div>
 
-Flightcases und Inhalt haben Härtetest Umsteigen in Paris überstanden, gab aber noch ein besseres System: Ein komplettes Fab Lab in dieser Art von Boxen - inklusive Tischsystem.
+Flightcases und Inhalt haben den Härtetest „Umsteigen in Paris“ überstanden. Es gab aber noch ein besseres System: ein komplettes FabLab in dieser Art von Boxen – inklusive Tischsystem.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_Flower.jpg);"></div>
 
-Recyclingideen gab es auch an vielen Stellen, Blumen aus PET-Flaschen sind faszinierend.
+Recyclingideen gab es ebenfalls an vielen Stellen; Blumen aus PET-Flaschen sind faszinierend.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_rad.jpg);"></div>
 
-Nomad Man war eine witzige Truppe, die ein paar Zuschauer als "Antrieb" ihres Fahrrads motivierte und dann über den MakerCampus, aber auch das Aussengelände fuhr und Musik machte.
-Auch andere mobile Exponate haben ab und zu das Ausstellungsgelände verlassen und draussen in der Umgebung Stimmung gemacht - wo halt auch die normalen Exponate der Machines sind und der Elefant seine Kreise zieht.
+Nomad Man war eine witzige Truppe, die ein paar Zuschauer als „Antrieb“ ihres Fahrrads motivierte und dann über den Maker Campus, aber auch über das Außengelände fuhr und Musik machte. Auch andere mobile Exponate haben ab und zu das Ausstellungsgelände verlassen und draußen in der Umgebung Stimmung gemacht – dort, wo halt auch die normalen Exponate der Machines sind und der Elefant seine Kreise zieht.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_ballon.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_box.jpg);"></div>
 
-Und dann natürlich: Modellheissluftballone, Fische, Dosenkostüme, ne Nautilus... 
+Und dann natürlich: Modellheißluftballone, Fische, Dosenkostüme, eine Nautilus ... 
 
-Hat also einfach nur Freude gemacht, im nächsten Jahr dann hoffentlich mit weniger Corona und mehr Personen.
-
+Es hat also einfach nur Freude gemacht; im nächsten Jahr dann hoffentlich mit weniger Corona und mehr Personen.

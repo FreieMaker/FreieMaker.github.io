@@ -14,18 +14,14 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+Nach der Maker Faire Rom hätte es eigentlich direkt zum Bali Fab Fest gehen sollen, der diesjährigen Fab Lab- und Fab City-Konferenz.
 
-Nach der Makerfaire Rom hätte es eigentlich direkt zum Bali Fab Fest, der disjährigen Fab Lab und Fab City Konferenz gehen sollen.
-Aufgrund des dichten Besucherandrangs zusammen mit den mal wieder leicht steigenden Coronazahlen war dann doch erstmal ein Sicherheitspuffer angesagt gewesen.
-Damit wurden leider insbesondere die Challenges verpasst, Gruppenarbeiten zu lokalen/globalen Problemstellungen, von Energieerzeugung über Müllsammlung hin zu Recycling.
-In einem kurzen Zeitraum vor Ort konnten aber immerhin wieder interessante Vorträge und Panels zum Thema Fab lab und Maker geschaut und diskutiert werden.
-Zum Thema Quanten gab es zwar noch nicht so viel (Das Projekt von Michael Schäfer und Co zu dem Thema läuft ja auch gerade erst an - da sind wir wohl in Deutschland ganz gut dabei).
-Spannend war dafür das Thema mobile Fab Labs und Erfahrungen in der Ukraine, und mit Energieversorgung und Plastikrecycling wurden auch die anderen wichtigen Themen der Zukunft abgedackt.
+Aufgrund des dichten Besucherandrangs zusammen mit den mal wieder leicht steigenden Corona-Zahlen war dann doch erst einmal ein Sicherheitspuffer angesagt. Damit wurden leider insbesondere die Challenges verpasst: Gruppenarbeiten zu lokalen und globalen Problemstellungen, von der Energieerzeugung über die Müllsammlung bis hin zum Recycling.
 
-An einem Art Makerfairetag wurden dann Projekte der Maker aus Bali vorgestellt.
-Auch hier merkte man das während ich in Europa froh bin wenn es noch etwas verrückte Themen gibt - und ansonsten entweder Bildung oder Kommerz auf dem Vormarsch sind, hier noch lebensnahe/alltägliche Probleme versucht werden zu lösen.
-Wobei: DIY-Hilfsmittel sind in Europa teilweise sehr stark vertreten - aber man merkt halt das es andere Probleme sind die gelöst werden müssen.
+Während des kurzen Zeitraums vor Ort konnten aber immerhin wieder interessante Vorträge und Panels zum Thema Fab Labs und Maker geschaut und diskutiert werden. Zum Thema Quanten gab es zwar noch nicht so viel (das Projekt von Michael Schäfer und Co. zu dem Thema läuft ja auch gerade erst an – da sind wir in Deutschland wohl ganz gut dabei).
 
-Fazinierendes Grossprojekt: [Nuanu](https://www.nuanu.com/) - irgendwie kann ich mir noch nicht so recht vorstellen das die das wirklich so durchgezogen bekommen, aber wenn werde ich wohl ziemlich neidisch sein :)
+Spannend waren dafür das Thema mobile Fab Labs und die Erfahrungen in der Ukraine; zudem wurden mit Energieversorgung und Plastikrecycling auch die anderen wichtigen Themen der Zukunft abgedeckt. An einem Art Maker-Faire-Tag wurden dann Projekte der Maker aus Bali vorgestellt.
 
+Auch hier merkte man: Während ich in Europa froh bin, wenn es noch etwas verrücktere Themen gibt – und ansonsten entweder Bildung oder Kommerz auf dem Vormarsch sind –, wird hier noch versucht, lebensnahe und alltägliche Probleme zu lösen. Wobei: DIY-Hilfsmittel sind in Europa teilweise sehr stark vertreten – aber man merkt halt, dass es andere Probleme sind, die gelöst werden müssen.
 
+Faszinierendes Großprojekt: [Nuanu](https://www.nuanu.com/) – irgendwie kann ich mir noch nicht so recht vorstellen, dass sie das wirklich so durchgezogen bekommen; aber wenn, werde ich wohl ziemlich neidisch sein. :)

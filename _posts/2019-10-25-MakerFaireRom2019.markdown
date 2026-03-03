@@ -14,30 +14,37 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Auf zur Makerfaire Rome... bescheidene 7 Messehallen mit Makern, Startups, Unis und allem drumherum. Ausser der eigenen Standbetreuung leider nicht viel Zeit gehabt zum umschauen, aber ein paar nette Bilder gibt es schon:
+Auf zur Maker Faire Rome ... bescheidene sieben Messehallen mit Makern, Start-ups, Unis und allem drumherum. 
+
+Außer für die eigene Standbetreuung blieb leider nicht viel Zeit zum Umschauen, aber ein paar nette Bilder gibt es schon:
+
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019painting.jpg);"></div>
-So gab es in allen Hallen einige (interaktive) Makerkunstwerke, besonders gut fand ich die obige Zeichenmaschine.
+
+So gab es in allen Hallen einige (interaktive) Maker-Kunstwerke; besonders gut fand ich die obige Zeichenmaschine.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019holo.jpg);"></div>
-Peppers Ghost Pyramiden gab es hier relativ viele, auch wir haben ja mal welche gebaut.
 
+Peppers-Ghost-Pyramiden gab es hier relativ viele – auch wir haben ja mal welche gebaut.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019pinball.jpg);"></div>
-Auf der Makerfaire Berlin hatten wir ja schon die tollen Flipper und ähnliches in kleinem Umfang gesehen, hier gabs das in gross (das ist nur ein kleiner Ausschnitt).
 
-Auch schon bekannt, mit neune Versionen unterwegs die Photogrammetrie-3D-Scanner-Alternative zum FabScan.
+Auf der Maker Faire Berlin hatten wir ja schon tolle Flipper und ähnliches in kleinem Umfang gesehen; hier gab es das in groß (dies ist nur ein kleiner Ausschnitt). Auch schon bekannt und mit neuen Versionen unterwegs: die Photogrammetrie-3D-Scanner-Alternative zum FabScan.
+
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019openscan.jpg);"></div>
 
-Als weitere Werkzeuge für die Makerdspace-erweiterung: Der neue Prusa Mini macht einen sehr guten Eindruck, und die an vielen Ständen laufenden Styroporschneidemaschinen sind interessant.
+Als weitere Werkzeuge für die Makerspace-Erweiterung: Der neue Prusa Mini macht einen sehr guten Eindruck, und die an vielen Ständen laufenden Styroporschneidemaschinen sind ebenfalls interessant.
+
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019prusa.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019styropor.jpg);"></div>
 
-Wie wir schon bei Twang und 1D-Pong und dem Highstriker gesehen haben: 1D-Spielen gehört die Zukunft.
+Wie wir schon bei Twang, 1D-Pong und dem Highstriker gesehen haben: Den 1D-Spielen gehört die Zukunft!
+
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019openrace.jpg);"></div>
 
-Auch wenn auch hier auf Makers Care gesetzt wurde...
+Auch wenn auch hier auf „Makers Care“ gesetzt wurde ...
+
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019makercare.jpg);"></div>
-...muss man allerdings sagen: Die Rikscha-Fahrer sahen etwas unterernährt und ungesund aus.
+
+... muss man allerdings sagen: Die Rikscha-Fahrer sahen etwas unterernährt und ungesund aus.
+
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfr2019sceleton.jpg);"></div>
-
-

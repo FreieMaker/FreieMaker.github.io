@@ -14,8 +14,8 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+Am 15.06.2022 fand das Abschlusstreffen unseres Erasmus+ Projekts „Makers+“ in Amay statt. 
 
-Am 15.6.22. war das Abschlusstreffen unseres Erasmus+ Projekts Makers+ in Amay. 
-Ein letztes Projekttreffen und gleichzeitig eine Veranstaltung für die Öffentlichkeit zum Projekt mit Vorträgen und einer kleinen Ausstellung.
-Da konnten wir als dual-use natürlich auch ein paar unserer Spiele aus unserem anderen Projekt QuantumEscape mitnehmen und ausstellen.
-Auch aus Amay kamen natürlich viele interessante Exponate, unter anderem ein Infinity-Dodecahedron - der fehlt noch in unserer Sammlung.
+Es war das letzte Projekttreffen und gleichzeitig eine Veranstaltung für die Öffentlichkeit mit Vorträgen und einer kleinen Ausstellung. Dafür konnten wir als „Dual-Use“ natürlich auch ein paar unserer Spiele aus unserem anderen Projekt QuantumEscape mitnehmen und ausstellen.
+
+Auch aus Amay kamen viele interessante Exponate, unter anderem ein Infinity-Dodekaeder – der fehlt noch in unserer Sammlung.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Makerfaire Ruhr 2023"
+title:  "Maker Faire Ruhr 2023"
 date:   2023-09-05 12:00:00
 author: "Jan Thar"
 last_modified_at:  2023-09-05 12:00:00
-excerpt: "Makerfaire"
+excerpt: "Maker Faire"
 categories: events
 tags:  Back
 image:
@@ -15,14 +15,14 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Am 25. und 26. März waren wir wieder auf der Makerfaire Ruhr zu finden. 
-Der Ausstellungsort - die DASA Arbeitsweltausstellung - ist an sich schon sehenswert, die Makerfaire macht das ganze natürlich noch spannender.
-Dieses jahr war unser Ausstellungsort vor einer Leitwarte eines Kohlekraftwerks, irgendwie wollten wir die ganze Zeit etwas mit all den schönen Schaltern und Anzeigen machen.
-Insbesondere Not-Anschalter sind immer gut udn müssen wir irgendwie mal im Makerspace einbauen.
-Neben unseren üblichen Spielereien rund um den Quantenflipper hatte Chris auch den Printenlaser dabei, lange vor Ende der Veranstaltung sind uns dann allerdings die Printen ausgegangen.
+Am 25. und 26. März waren wir wieder auf der Maker Faire Ruhr zu finden. 
+Der Ausstellungsort – die DASA Arbeitsweltausstellung – ist an sich schon sehenswert; die Maker Faire macht das Ganze natürlich noch spannender.
+Dieses Jahr war unser Ausstellungsort vor einer Leitwarte eines Kohlekraftwerks; irgendwie wollten wir die ganze Zeit etwas mit all den schönen Schaltern und Anzeigen machen.
+Insbesondere Not-Aus-Schalter sind immer gut und müssen wir irgendwann mal im Makerspace einbauen.
+Neben unseren üblichen Spielereien rund um den Quantenflipper hatte Christoph auch den Printenlaser dabei; lange vor Ende der Veranstaltung sind uns dann allerdings die Printen ausgegangen.
 
-Direkt gegenüber am R2D2-Stand gab es auch einen voll beweglichen Wall-E zu finden, ein grossartiges Teil - ansonsten finde ich im Rahmen der R2D2 Varinten die Steampunk-Holz Version besser, mit Minibar im Inneren.
-Steampunk war wieder in vielfältigen Varianten in der anderen Halle zu finden, wie üblich gabs dort wunderschöne Exoponate zu finden (und natürlich auch spannende Technologien zur Produktion derselben, wieder viel gelernt).
-Der Art und Tech Space Rheine war auch wieder mit vielen Exponaten vor Ort und auch die Make war mit einem Stand vertreten (wenn auch nur mit der zeitschrift, etwas langweilig).
+Direkt gegenüber am R2-D2-Stand gab es auch einen voll beweglichen Wall-E zu finden – ein großartiges Teil. Ansonsten finde ich im Rahmen der R2-D2-Varianten die Steampunk-Holz-Version besser, mit Minibar im Inneren.
+Steampunk war wieder in vielfältigen Varianten in der anderen Halle zu finden; wie üblich gab es dort wunderschöne Exponate zu entdecken (und natürlich auch spannende Technologien zur Produktion derselben – wieder viel gelernt).
+Der Art and Tech Space Rheine war auch wieder mit vielen Exponaten vor Ort, und auch die „Make“ war mit einem Stand vertreten (wenn auch nur mit der Zeitschrift, etwas langweilig).
 
-Insgesamt eine schöne Klassentreffatmosphäre mit vielen verrückten Ideen, da freuen wir uns schon aufs nächste Jahr.
+Insgesamt herrschte eine schöne Klassentreffen-Atmosphäre mit vielen verrückten Ideen; da freuen wir uns schon aufs nächste Jahr.

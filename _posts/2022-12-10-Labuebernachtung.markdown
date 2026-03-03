@@ -15,13 +15,13 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Als Abschluss des LandInZ(S)icht Projekts haben wir dann noch mal die Jugendgruppe aus Übach zu einem Werkstattbesuch bei uns eingeladen. 
-Damits was witziger wird inklusive Schalfsackübernachtung in den Seminarräumen.
-Wobei gerüchtweise einige durchgemacht haben, wahrscheinlich weils dann doch zu kalt war.
+Als Abschluss des „LandInSicht“-Projekts haben wir dann noch einmal die Jugendgruppe aus Übach zu einem Werkstattbesuch bei uns eingeladen. 
+Damit es etwas witziger wird, inklusive Schlafsackübernachtung in den Seminarräumen.
+Wobei gerüchteweise einige durchgemacht haben – wahrscheinlich, weil es dann doch zu kalt war.
 
-Jedenfalls wurde Samstag und Sonntag eifrig gebastelt, und auch der Weihnachtsmarkt Aachen besucht. 
-Selber leider mal wieder komplett vergessen Bilder zu machen, daher das Foto schamlos von der [Trust-Instagramseite](https://www.instagram.com/trust_uep/) geklaut.
-Lasercutter war im Dauereinsatz, aber auch der UV drucker wurde eifrig genutzt, von leuchtenden Schilder zu Puzzeln auf Holz.
-Selbst die Stickmaschine war im Einsatz, beim T-Shirt hat sie aber mal wieder Mist gebaut, da müssen wir noch das passende Vliess suchen.
+Jedenfalls wurde am Samstag und Sonntag eifrig gebastelt und auch der Weihnachtsmarkt in Aachen besucht. 
+Selbst habe ich leider mal wieder komplett vergessen, Bilder zu machen; daher ist das Foto schamlos von der [Trust-Instagram-Seite](https://www.instagram.com/trust_uep/) geklaut.
+Der Lasercutter war im Dauereinsatz, aber auch der UV-Drucker wurde eifrig genutzt – von leuchtenden Schildern bis zu Puzzles auf Holz.
+Selbst die Stickmaschine war im Einsatz; beim T-Shirt hat sie aber mal wieder Mist gebaut, da müssen wir noch das passende Vlies suchen.
 
-Hat jedenfalls ne Menge Spass gemacht - war aber etwas schade das der LabAix-Einstein etwas zu schwer zum bewegen ist um Leute zu erschrecken.
+Es hat jedenfalls eine Menge Spaß gemacht – war aber etwas schade, dass der LabAix-Einstein etwas zu schwer zum Bewegen ist, um damit Leute zu erschrecken.

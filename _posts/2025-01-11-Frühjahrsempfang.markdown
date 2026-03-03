@@ -14,11 +14,10 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+Am 11.01. fand der jährliche Neujahrsempfang für engagierte Menschen in Aachen im Krönungssaal statt. Dank des Vereins waren auch von uns zwei Leute qualifiziert dafür.
 
-Am 1.11. fand der jährliche Frühjahrsempfang für engagierte Menschen ins Aachen im Krönungssaal statt.
-Dank des Vereins waren auch von uns zwei Leute angeblich qualifiziert dafür.
+An sich war ich zwar etwas skeptisch, ob es interessant wird, aber es war sehr gut gemacht. Nette Musik und Darbietungen von einigen der Vereine, eine Übersicht, was sonst so in Aachen passiert, und eine Festtagsrede von Jürgen Beckers.
 
-An sich war ich zwar etwas skeptisch obs interessant wird, war aber sehr gut gemacht. 
-Nette Musik und Darbietungen von einigen der Vereine, eine Übersicht was sonst so in Aachen passiert und eine Festtagsrede von Jürgen Beckers.
-Am Ende also länger geblieben als ursprünglich geplant und damit zu spät zu der eigenen Veranstaltung im Makerspace gekommen 
-(Es steht inzwischen übrigens 3:0 Mädchen:Jungsgeburttagsfeiern im Makerspace).
+Am Ende bin ich also länger geblieben als ursprünglich geplant und damit zu spät zur eigenen Veranstaltung im Makerspace gekommen. 
+
+(Es steht inzwischen übrigens 3:0 bei Mädchen-zu-Jungs-Geburtstagsfeiern im Makerspace).
