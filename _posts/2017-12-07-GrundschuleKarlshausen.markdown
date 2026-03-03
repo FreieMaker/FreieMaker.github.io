@@ -16,11 +16,11 @@ syntaxHighlighter: no
 ---
 Am vergangenen Wochenende haben wir erfolgreich mit Kindern, Lehrern und Eltern der Grundschule Karlshausen Workshops zu den Themen LED-Taschenlampe (für die ganz Kleinen), Calliope mini und Löten für Kinder durchgeführt.
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}karlshausen2.jpg);"></div>
+
 Jetzt dürfte nahezu jedes Kind ein TV-B-Gone besitzen! :)
 
 Unterstützt wurden wir dabei von Watterott electronic, dem Photonik-Campus sowie Stephan Noller und Volker Bombien. Es hat uns viel Spaß gemacht. Vielen Dank noch mal an alle Helfer und Sponsoren!
-
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}karlshausen2.jpg);"></div>
 
 Über das Feedback der Grundschule auf Facebook haben wir uns sehr gefreut:
 

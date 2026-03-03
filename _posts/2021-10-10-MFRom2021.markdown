@@ -16,6 +16,8 @@ syntaxHighlighter: no
 ---
 Nach Eindhoven ging es für einen Teil von uns erst einmal zu einer Lern- und Trainingswoche im Rahmen eines Erasmus-Projekts.
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2021_4.jpeg);"></div>
+
 Glücklicherweise fanden sich genug Personen, um auch den Stand auf der Maker Faire Rom zu bemannen (beziehungsweise zu „be-frauen“ – ein großes Dankeschön an Anika, Ceyda und Roxy, gut gemacht!). Die Exponate überleben auch Flüge, was schon mal ein gutes Zeichen ist. 
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2021_5.jpeg);"></div>
@@ -28,9 +30,15 @@ Das wird wahrscheinlich größenmäßig nicht funktionieren, wenn sich die Lage 
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2021_2.jpeg);"></div>
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2021_6.jpeg);"></div>
+
 Auch hier gab es wieder eine gute Mischung im Publikum, insbesondere natürlich bei Mädchen und Jungs (fast schon mehr Interesse bei den Mädchen). Hier war vor allem der Flipper im Dauereinsatz, gefolgt von Tetris (als Spiel) sowie dem Salzkristalldisplay und den Spiegelobjekten als „Haben-wollen“-Objekte.
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2021_7.jpeg);"></div>
+
 Wir müssen also tatsächlich zumindest über Bausätze nachdenken. Das „4 Gewinnt“-Spiel haben wir spontan schon einmal auf ein Tic-Tac-Toe-Spiel reduziert – mit der zusätzlichen Möglichkeit, einen gesetzten Spin per Hadamard-Taste wieder in den Ausgangszufallszustand zu versetzen.
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2021_8.jpeg);"></div>
 
 Nach neun Zügen wird ausgewertet und alle noch zufälligen Spins werden zufällig einem Spieler zugewiesen. Es fehlt noch der Computerspieler als Gegner, dann könnte das auch funktionieren.
 

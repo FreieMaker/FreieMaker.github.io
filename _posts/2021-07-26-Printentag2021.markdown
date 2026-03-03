@@ -16,9 +16,9 @@ syntaxHighlighter: no
 ---
 Bis zum 29. August 2021 gibt es im Centre Charlemagne in Aachen eine Ausstellung zur Printe, dem Aachener Grundnahrungsmittel.
 
-Am 25. Juli gab es dazu einen [Aktionstag](http://www.centre-charlemagne.eu/termin/aktionstag-printe-live-es-lebe-die-printe/){:target="_blank"} mit freien Führungen und weiteren Sonderaktionen.
-
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}tdp_2021_poster.jpg);"></div>
+
+Am 25. Juli gab es dazu einen [Aktionstag](http://www.centre-charlemagne.eu/termin/aktionstag-printe-live-es-lebe-die-printe/){:target="_blank"} mit freien Führungen und weiteren Sonderaktionen.
 
 Unter anderem durfte der Verein dort Printen per Laser veredeln ... Der Hinweis, dass diese danach Kunst und kein Lebensmittel mehr sind, durfte natürlich nicht fehlen.
 

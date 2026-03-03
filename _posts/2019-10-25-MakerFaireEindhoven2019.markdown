@@ -16,6 +16,8 @@ syntaxHighlighter: no
 ---
 Wir waren auf der Maker Faire Eindhoven, der größten Maker Faire der Niederlande. Es gab spannende Projekte und die Veranstaltung war sehr kinderfreundlich; überall wurden Workshops angeboten. 
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfe2019painting.jpg);"></div>
+
 Des Weiteren waren im Außenbereich einige richtig schön größenwahnsinnige Projekte zu finden. So gab es zum Beispiel eine imposante Ente, die über dem Gelände ihre Flügel ausbreitete:
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfe2019duck.jpg);"></div>
@@ -31,4 +33,4 @@ Die Rakete hilft dabei natürlich auch. Direkt neben uns hat derweil das FabCrea
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfe2019fabcreator.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mfe2019painting2.jpg);"></div>
 
-Und beim anderen Nachbarn konnte mit einem 3D-getrackten Pinsel auf einer LED-Leinwand gemalt werden. Also wieder einmal viel Spaß gehabt und jede Menge neue Inspirationen gesammelt.
+Und beim anderen Nachbarn konnte mit einem 3D-getrackten Pinsel auf einer LED-Leinwand gemalt werden. Also wieder einmal viel Spaß gehabt und jede Menge neuer Inspirationen gesammelt.

@@ -14,26 +14,27 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Vom 20. bis 22. Oktober war dann mal wieder die Maker Faire Rome angesagt, leider wieder weg vom Gasometro und zurück auf dem Messegelände.
-Wobei es natürlich gut ist, dass wieder die alte Größe angepeilt wurde ... und es war auch beeindruckend viel los.
+Vom 20. bis 22. Oktober war dann mal wieder die Maker Faire Rome angesagt, leider wieder weg vom Gasometro und zurück auf dem Messegelände. Wobei es natürlich gut ist, dass wieder die alte Größe angepeilt wurde ... und es war auch beeindruckend viel los.
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}MFRom2023a.jpeg);"></div>
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2023f.jpeg);"></div>
 
 Schräg gegenüber gab es auch gleich einen Stand mit alten Bekannten: Das Open-Photonics-Projekt Safecutter war mit einem Mr Beam vor Ort ... also eigentlich mit dem Filtersystem, aber den Lasercutter fanden die Besucher wohl spannender.
 
-Zu unserem Projektthema Quantentechnologie gab es auch weitere Aussteller; in einer anderen Halle hatte eine Uni tatsächlich einen echten Alice-und-Bob-Quantenschlüsseltausch aufgebaut.
-Das war aber nach einem Tag nicht mehr zu finden – unser Flipper ist da wohl weiterhin beliebter, aber auch nur, weil die Gewinnregeln ignoriert werden.
-Auch bei einem Quantenrennen waren nicht viele Besucher zu sehen.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}MFRom2023d.jpeg);"></div>
 
-Insgesamt waren sehr viele Universitäten und Start-ups mit Ständen vor Ort, relativ wenige einfach bloß verrückte Maker. 
-Aber durch die Größe der Veranstaltung heißt „prozentual wenige“ natürlich doch recht viele – und auch bei den seriöseren Sachen gab es viele nette Ideen abzustauben.
+Zu unserem Projektthema Quantentechnologie gab es auch weitere Aussteller; in einer anderen Halle hatte eine Uni tatsächlich einen echten Alice-und-Bob-Quantenschlüsseltausch aufgebaut. Das war aber nach einem Tag nicht mehr zu finden – unser Flipper ist da wohl weiterhin beliebter, aber auch nur, weil die Gewinnregeln ignoriert werden. Auch bei einem Quantenrennen waren nicht viele Besucher zu sehen.
 
-Vom Shreddern von „Precious Plastic“ per Hometrainer hatte ich schon gehört, aber ihn jetzt auch endlich mal live gesehen. 
-Dann gab es Kerzen-CNC-Fräsen, an sich eine sehr clevere Sache – mit gut recycelbarem Material, einfachem Aufbau und tollen Ergebnissen.
-Freundschaftsbänder automatisch flechten war auch ein witziges Konzept.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}MFRom2023e.jpeg);"></div>
 
-Insbesondere von der Università Roma Tre gab es ein paar richtig witzige, nur leicht größenwahnsinnige Projekte. 
-Zum einen ein paar Pavillons zum Thema Sinneswahrnehmung (das Titelbild), in einer anderen Messehalle gab es unsere Planeten in aufgeblasener Form, und schließlich übergroßes Konstruktionsspielzeug aus Wellpappe geschnitten; da hatten Kinder einen Riesenspaß mit.
+Insgesamt waren sehr viele Universitäten und Start-ups mit Ständen vor Ort, relativ wenige einfach bloß verrückte Maker. Aber durch die Größe der Veranstaltung heißt „prozentual wenige“ natürlich doch recht viele – und auch bei den seriöseren Sachen gab es viele nette Ideen abzustauben.
+
+Vom Shreddern von „Precious Plastic“ per Hometrainer hatte ich schon gehört, aber ihn jetzt auch endlich mal live gesehen. Dann gab es Kerzen-CNC-Fräsen, an sich eine sehr clevere Sache – mit gut recycelbarem Material, einfachem Aufbau und tollen Ergebnissen. Freundschaftsbänder automatisch flechten war auch ein witziges Konzept.
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}MFRom2023g.jpeg);"></div>
+
+Insbesondere von der Università Roma Tre gab es ein paar richtig witzige, nur leicht größenwahnsinnige Projekte. Zum einen ein paar Pavillons zum Thema Sinneswahrnehmung (das Titelbild), in einer anderen Messehalle gab es unsere Planeten in aufgeblasener Form, und schließlich übergroßes Konstruktionsspielzeug aus Wellpappe geschnitten; da hatten Kinder einen Riesenspaß mit.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFRom2023c.jpeg);"></div>
 

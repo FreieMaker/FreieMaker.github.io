@@ -20,6 +20,8 @@ Wieder auf dem Marktplatz, was eine super Kulisse ist. Auch wenn mich der Altern
 
 Auf der anderen Seite: Die Unterkunft in einem anderen Gästehaus, diesmal nicht mehr direkt am Meer, sondern weiter im Landesinneren, war auch keine Verschlechterung.
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}MFT25_2.jpeg);"></div>
+
 Diesmal waren wir direkt bei den Star-Wars-Cosplayern platziert; eine nette Truppe – und erstaunlich, wie sie es unter ihrem Make-up in der Hitze aushalten.
 
 Eine witzige Kleinigkeit war ein Fechttrainer, bei dem sowohl die Trefferbereiche auf einem Ziel per LED angezeigt als auch die Treffer registriert werden.

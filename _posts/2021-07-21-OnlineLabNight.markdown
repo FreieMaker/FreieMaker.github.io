@@ -16,6 +16,8 @@ syntaxHighlighter: no
 ---
 Da unser Makerspace wegen der Corona-Pandemie bis auf Weiteres geschlossen bleibt, treffen wir uns online. Einen Livestream bei YouTube gibt es jeden Dienstag ab 21 Uhr.
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}OLNS2.png);"></div>
+
 Wer selbst einmal als Gast dabei sein möchte oder auch außerhalb der Sendungen mit uns in Kontakt sein will, kommt in [unser Discord](https://discord.gg/FRPbrSP){:target="_blank"}.
 
 <div class="videoWrapper">
@@ -214,7 +216,7 @@ Virtuelle Maschinen und Container kann man mit der kostenlosen Software Proxmox 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bq_y7gggolE?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Computer und Algorithmen – damit machen Maker Kunst. Wir freuen uns auf unsere Gästin bleeptrack und packen ein paar zeitlose, generative Projekte aus. Haut eure Fragen und Kommentare in den Live-Chat bei YouTube und Facebook oder kommt direkt zu uns ins Discord.
+Computer and Algorithmen – damit machen Maker Kunst. Wir freuen uns auf unsere Gästin bleeptrack und packen ein paar zeitlose, generative Projekte aus. Haut eure Fragen und Kommentare in den Live-Chat bei YouTube und Facebook oder kommt direkt zu uns ins Discord.
 
 ## S2E22 - Amateurfunk
 
@@ -317,7 +319,7 @@ Jeden Dienstag im Januar werden wir uns um 21 Uhr mit Smart-Home-Themen beschäf
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DkQBc3_fEoY?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Am 05.01. beginnen wir mit einer interessanten Übersicht zum Thema Smart Home und sammeln eure Fragen und Anregungen im Live-Chat!
+Am 05.01. beginnen wir mit einer interessanten Übersicht zum Thema Smart Home und sammeln eure Fragen and Anregungen im Live-Chat!
 
 ## S2E9 Drohnen und Quadrocopter
 <div class="videoWrapper">
@@ -405,7 +407,7 @@ Links:
 
 # Staffel 1
 
-In der ersten Staffel haben wir uns mit spannenden Gästen zu allen Themen unterhalten, die uns als Maker bewegen. Die Sendungen waren für uns sehr wichtig, um uns trotz räumlicher Trennung auszutauschen und um an gemeinsamen Projekten zu arbeiten.
+In der ersten Staffel haben wir uns mit spannenden Gästen zu allen Themen unterhalten, die uns als Maker bewegen. Die Sendungen waren für uns sehr wichtig, um uns trotz räumlicher Trennung auszustauschen und um an gemeinsamen Projekten zu arbeiten.
 
 ## Episode 19
 Diese Woche Donnerstag (21 Uhr) wird live gebastelt. Blickt hinter die Kulissen und erfahrt, woran wir gerade arbeiten. Wenn ihr live dabei sein wollt, kontaktiert uns in Slack:
@@ -457,7 +459,7 @@ Marios neues buch über 3D-Scanner ist fertig, deshalb machen wir eine Sondersen
 </div>
 
 ## Episode 13: Wichtige Updates
-Mario gibt ein Update von seinem SLA-3D-Drucker und wir werfen einen Blick in das FabScan Pi Release, das kurz nach der Sendung veröffentlicht wurde.
+Mario gibt ein update von seinem SLA-3D-Drucker und wir werfen einen Blick in das FabScan Pi Release, das kurz nach der Sendung veröffentlicht wurde.
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yJB97Lb9QUg?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -499,7 +501,7 @@ Milliarden Geräte formen das Internet der Dinge. In diesem Livestream wollen wi
 ## Episode 8: 3D-Drucker
 
 Seit mehr als 10 Jahren gehören 3D-Drucker zu den Werkzeugen, die die Maker-Bewegung revolutioniert haben. Neben einer beachtlichen Entwicklung der Hardware ist es vor allem der modernen Software zu verdanken, dass 3D-Drucker heute auch von Einsteigern leicht zu bedienen sind. Profis steuern ihre Geräte mittlerweile über das Netzwerk und überwachen sie mit Kameras.
-<br />In dieser Episode diskutieren wir die Entwicklung der 3D-Drucker und freuen uns besonders auf das Gespräch mit Gina, die das octoprint.org-Projekt betreut.
+<br />In dieser Episode diskutieren wir die Entwicklung der 3D-Drucker und freuen uns besonders auf das Gespräch mit Gina, die das octoprint.org-projekt betreut.
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zlBk5vWwJCs?rel=0" frameborder="0" allowfullscreen></iframe>

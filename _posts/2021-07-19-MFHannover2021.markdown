@@ -26,9 +26,11 @@ Fazit: Ein gutes Warm-up, um hoffentlich so langsam wieder zu „echten“ Messe
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_ele.jpg);"></div>
 
-Kurze Zeit später ging es dann tatsächlich in die Welt hinaus – zumindest bis nach Nantes, wo der Nantes Maker Campus stattfand, eine ziemlich verrückte Mischung unterschiedlichster Kreationen. Mag auch am Ort liegen: eine alte Werfthalle, in der „Les Machines de l’île“ spannende Sachen bauen.
+Kurze Zeit später ging es dann tatsächlich in die Welt hinaus – zumindest bis nach Nantes, wo der Nantes Maker Campus stattfand, eine ziemlich verrückte Mischung unterschiedlichster Kreationen. 
 
-Die Ausstellung war somit überdacht, aber ohne Wände, was eine gute Durchlüftung ergab. Masken waren vorgeschrieben, und mit einem Minimum an akuten Corona-Fällen sowohl in Frankreich als auch in Deutschland fühlte man sich doch ziemlich sicher.
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021_stand2.jpg);"></div>
+
+Mag auch am Ort liegen: eine alte Werfthalle, in der „Les Machines de l’île“ spannende Sachen bauen. Die Ausstellung war somit überdacht, aber ohne Wände, was eine gute Durchlüftung ergab. Masken waren vorgeschrieben, und mit einem Minimum an akuten Corona-Fällen sowohl in Frankreich als auch in Deutschland fühlte man sich doch ziemlich sicher.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}mcn2021-fernbedienung.jpg);"></div>
 

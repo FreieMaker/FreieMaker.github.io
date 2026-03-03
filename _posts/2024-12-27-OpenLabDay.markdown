@@ -25,10 +25,12 @@ Für Leute aus Aachen und Umgebung: Jeden Donnerstag gegen 19:00 Uhr haben wir u
 
 Hier kann jeder vorbeikommen und uns sowie die Werkzeuge kennenlernen!
 
-Besucht uns in unserem Makerspace im [LabAix](https://www.labaix.de/){:target="_blank"}:
-Lukasstraße 1, 52070 Aachen
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}openlabdayhack.png);"></div>
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}openlabday.jpg);"></div>
+
+Besucht uns in unserem Makerspace im [LabAix](https://www.labaix.de/){:target="_blank"}:
+Lukasstraße 1, 52070 Aachen
 
 
 # OpenLabDay Youth

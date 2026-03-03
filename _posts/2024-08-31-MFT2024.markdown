@@ -16,11 +16,9 @@ syntaxHighlighter: no
 ---
 Am 31. August ging es zum ersten Mal zur Maker Faire Trieste. Aufgrund der Maker Faire Rome war das bei uns dummerweise immer untergegangen, was wohl ein Fehler war.
 
-Super Organisation, die Event-Location auf einem alten Renaissance-Marktplatz, wobei eine Seite offen zum Mittelmeer ist. Traumhaft, und man bekam für die weitere Anreise sogar eine nette Unterkunft gestellt. Maker-Dinner gab es auch, und ein T-Shirt für jeden Teilnehmer.
-
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFT24_Tshirt.jpeg);"></div>
 
-Es war teilweise wie ein Weihnachtsmarkt mit Hütten und Zelten – nur sehr unkommerziell, offen für jedermann mit interessanten Ausstellern und Mitmachaktionen.
+Super Organisation, die Event-Location auf einem alten Renaissance-Marktplatz, wobei eine Seite offen zum Mittelmeer ist. Traumhaft, und man bekam für die weitere Anreise sogar eine nette Unterkunft gestellt. Maker-Dinner gab es auch, und ein T-Shirt für jeden Teilnehmer.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}MFT24.jpeg);"></div>
 

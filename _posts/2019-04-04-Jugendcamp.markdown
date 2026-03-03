@@ -16,9 +16,9 @@ syntaxHighlighter: no
 ---
 Im Rahmen von Aktion Mensch, Personal Photonics, Make Light und Freie Maker – jedenfalls gefördert vom BMBF – waren unsere Mitglieder Sophy Stönner und Jan Thar zum Support der Projektwerkstatt des [Jugendcamps 2019](https://www.aktion-mensch.de/aktionstag-5-mai/aktionstag-2019/jugendaktionscamp.html) der Aktion Mensch unterwegs. 
 
-Dabei wurden natürlich auch als Inspirationsquelle viele alte Projekte präsentiert. Zusätzlich hatten wir noch die OpenLights aus „MadeForMyWheelchair“ mit im Gepäck, wobei wir direkt ein paar Gedanken hatten, was man vielleicht sonst noch als Beleuchtung machen könnte. Naja, wie das nun mal so ist, damit sind wir erst nach der Veranstaltung etwas weitergekommen:
-
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}AMJC_0.jpg);"></div>
+
+Dabei wurden natürlich auch als Inspirationsquelle viele alte Projekte präsentiert. Zusätzlich hatten wir noch die OpenLights aus „MadeForMyWheelchair“ mit im Gepäck, wobei wir direkt ein paar Gedanken hatten, was man vielleicht sonst noch als Beleuchtung machen könnte. Naja, wie das nun mal so ist, damit sind wir erst nach der Veranstaltung etwas weitergekommen:
 
 Aber natürlich gab es dort auch viele praxisnahe, spannende Ideen, wofür man an Hilfsmitteln entwickeln könnte, wie z. B. wohin mit der Krücke, wenn man mal die Hand freihaben muss; momentan denken wir da über ein Einhaksystem nach:
 
@@ -29,8 +29,6 @@ Aber natürlich gab es dort auch viele praxisnahe, spannende Ideen, wofür man a
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}AMJC_2.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}AMJC_3.jpg);"></div>
 
-Unsere großen Buttons für einen Rollstuhlfahrer sind wohl auch für andere Rollifahrer interessant; jedenfalls konnten wir direkt noch mal welche bauen und zum Testen schicken. 
-
-Lektion gelernt: Am besten das Design noch einmal skalierbarer machen; jeder hat so seine eigenen optimalen Vorstellungen bezüglich Größe und Tastendruck.
+Unsere großen Buttons für einen Rollstuhlfahrer sind wohl auch für andere Rollifahrer interessant; jedenfalls konnten wir direkt noch mal welche bauen und zum Testen schicken. Lektion gelernt: Am besten das Design noch einmal skalierbarer machen; jeder hat so seine eigenen optimalen Vorstellungen bezüglich Größe und Tastendruck.
 
 Insgesamt also: Es hat superviel Spaß gemacht, wir haben viel gelernt und einiges an (freiwilligen ^^) Hausaufgaben mit nach Hause genommen.

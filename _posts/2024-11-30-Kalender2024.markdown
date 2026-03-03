@@ -16,11 +16,15 @@ syntaxHighlighter: no
 ---
 Am 30.11. haben wir – auch dank der Förderung durch die Aktion „1000 € fürs Ehrenamt“ des Landes NRW und der Stadt Aachen – ein Samstagssonderevent zum Last-Minute-Adventskalenderbasteln veranstaltet.
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}Weihnachrsbasteln24.jpeg);"></div>
+
 Dazu wurden Folien mit unterschiedlichen Motiven nach eigener Zusammenstellung tiefgezogen und danach mit geschmolzener Schokolade gefüllt. Anschließend konnte man noch ein Motiv wählen und auf Karton drucken, der danach mit dem Vinylcutter als Box mit zu öffnenden Türchen zugeschnitten wurde.
 
 Insgesamt dauerte es dann doch etwas länger als zunächst geplant, aber es wurden eine Menge Adventskalender gebaut und viel geplaudert. Es haben es tatsächlich mehr Leute am Samstag geschafft als zum üblichen Donnerstagstermin, darunter auch viele alte Bekannte, die lange nicht mehr da waren.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}Kalender24_2.jpeg);"></div>
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}Weihnachtsfeier24.jpeg);"></div>
 
 Ende des Jahres probieren wir dann noch einmal ein Last-Minute-Weihnachtsgeschenkbasteln aus (diesmal ohne festen Plan), und am Samstag vor Silvester treffen wir uns zur jährlichen Vollversammlung.
 

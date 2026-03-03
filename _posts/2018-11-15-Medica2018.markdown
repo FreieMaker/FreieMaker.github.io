@@ -16,10 +16,8 @@ syntaxHighlighter: no
 ---
 Mal etwas anderes: Eine Medizinmesse!
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}Medica2018.jpg);"></div>
+
 Aber es ist ja nicht so, dass wir (bzw. das „Personal Photonics“-Projekt des FabLab Aachen im Rahmen des „Open Innovation Calls“ des Bundesministeriums für Forschung und Bildung – wobei es da ja ganz leichte Personalüberschneidungen gibt) nichts zum Thema ausstellen könnten.
 
-Interessanterweise war wieder einmal der Badgemaker von Moritz Messerschmidt das Highlight, aber auch [FabScan](http://www.fabscan.org){:target="_blank"}, andere Tools, Poster und natürlich viele von uns entwickelte Hilfsmittel wurden ausgestellt.
-
-Die Medica hat insgesamt wie üblich viel Spaß gemacht.
-
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}Medica2018.jpg);"></div>
+Interessanterweise war wieder einmal der Badgemaker von Moritz Messerschmidt das Highlight, aber auch [FabScan](http://www.fabscan.org){:target="_blank"}, andere Tools, Poster und natürlich viele von uns entwickelte Hilfsmittel wurden ausgestellt. Die Medica hat insgesamt wie üblich viel Spaß gemacht.

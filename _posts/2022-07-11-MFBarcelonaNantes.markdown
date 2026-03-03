@@ -16,6 +16,8 @@ syntaxHighlighter: no
 ---
 Eine Runde Maker Faire und Maker Campus: Vom 8. bis 10. Juli fand der Nantes Maker Campus statt; am Wochenende davor die Maker Faire Barcelona, was ja quasi auf dem Weg lag.
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_featured_img }}mcnantes22.jpeg);"></div>
+
 Jedenfalls gute Gründe, die Koffer zu packen – beziehungsweise genau einer: ein Testlauf, ob man mit etwas kleineren Versionen der Exponate aus QuantumEscape auch mit einem regulären Koffer statt eines übergewichtigen und übergroßen Flightcases hinkommt. Um das Ganze spannender zu machen, war das zu einem Zeitpunkt, als Flughäfen und Bahnen leicht überlastet waren, da auf einmal wieder jedermann in die Welt hinauswollte und -durfte. Es ist aber alles gut gelaufen.
 
 Bei beiden Veranstaltungen (Barcelona war etwas kleiner als gedacht) kam der Stand gut an, und man konnte wieder viele neue Ideen von anderen Ständen mitnehmen. In Barcelona gab es sogar noch einen anderen Stand mit Hinweisen zu Quantentechnologien, einen größeren Stand aus der Fabricademy-Ecke und mehrere Stände zum Thema Recycling. 
