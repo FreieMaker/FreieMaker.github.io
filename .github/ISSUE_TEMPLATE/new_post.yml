@@ -1,7 +1,6 @@
 name: Neuer Blog-Post (Vorschlag)
 description: Erstelle ein strukturiertes Issue, um automatisch einen neuen Post zu generieren.
 title: "[Vorschlag]: "
-labels: ["ready-to-publish"]
 body:
   - type: input
     id: title
