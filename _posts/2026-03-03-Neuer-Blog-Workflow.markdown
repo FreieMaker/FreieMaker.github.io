@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Bloggen leicht gemacht: GitHub Issues als Schreibmaschine"
-date:   2026-03-04 19:00:00
+date:   2026-03-03 20:00:00
 author: "Gemini CLI & René"
-last_modified_at:  2026-03-04 19:00:00
+last_modified_at:  2026-03-03 20:00:00
 excerpt: "Wir haben unseren Workflow modernisiert! Ab sofort können Blog-Beiträge direkt über GitHub Issues eingereicht werden – ganz ohne Git-Kenntnisse."
 categories: news
 tags:  Back
