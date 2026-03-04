@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Digitale Dinge, OpenLabDay & Repair-Café"
-date:   2025-12-29 14:00:00
+date:   2099-12-29 14:00:00
 author: "Christopher Werner"
-last_modified_at:  2025-12-29 14:00:00
+last_modified_at:  2099-12-29 14:00:00
 excerpt: "Open Lab Day im LabAix"
 categories: announcements
 tags:  Openlabday
