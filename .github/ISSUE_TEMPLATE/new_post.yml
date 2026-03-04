@@ -1,0 +1,54 @@
+name: Neuer Blog-Post (Vorschlag)
+description: Erstelle ein strukturiertes Issue, um automatisch einen neuen Post zu generieren.
+title: "[Vorschlag]: "
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Titel des Posts
+      description: Der Titel, der im Blog angezeigt wird.
+      placeholder: "Mein spannendes Projekt"
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Autor
+      description: Dein Name (oder die Person, die den Text verfasst hat).
+      placeholder: "Jan Thar"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Kategorie
+      options:
+        - events
+        - projects
+        - news
+    validations:
+      required: true
+  - type: textarea
+    id: excerpt
+    attributes:
+      label: Kurzbeschreibung (Excerpt)
+      description: Dieser Text erscheint in der Listenansicht auf der Startseite.
+      placeholder: "Wir haben am Wochenende..."
+    validations:
+      required: true
+  - type: textarea
+    id: content
+    attributes:
+      label: Haupt-Text (Markdown)
+      description: Der eigentliche Text des Posts. Bilder kannst du hier einfach per Drag & Drop reinziehen!
+      placeholder: "Schreibe hier deinen Text..."
+    validations:
+      required: true
+  - type: input
+    id: hero_image
+    attributes:
+      label: Hero-Bild (Name)
+      description: Der Dateiname des Bildes, das oben im Header angezeigt werden soll (z.B. 'mein_bild.jpg'). Lade das Bild unten in den 'Haupt-Text' hoch, damit wir es finden können.
+      placeholder: "herobild.jpg"
+    validations:
+      required: true

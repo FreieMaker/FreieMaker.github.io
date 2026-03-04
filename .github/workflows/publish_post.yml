@@ -1,0 +1,64 @@
+name: Publish Blog Post from Issue
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  publish_post:
+    if: github.event.label.name == 'ready-to-publish'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
+
+      - name: Create issue body file
+        shell: bash
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          echo "$ISSUE_BODY" > issue_body.txt
+
+      - name: Generate Post
+        run: python3 scripts/issue_to_markdown.py issue_body.txt
+
+      - name: Create Pull Request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BRANCH_NAME="content/issue-${{ github.event.issue.number }}"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Branch might exist if re-labeled, so delete if exists locally
+          git checkout -b $BRANCH_NAME || git checkout $BRANCH_NAME
+          git add _posts/ assets/images/hero/ assets/images/thumbnail/
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "feat: new blog post from issue #${{ github.event.issue.number }}"
+            git push origin $BRANCH_NAME --force
+            # Create PR only if it doesn't exist
+            if ! gh pr view $BRANCH_NAME > /dev/null 2>&1; then
+              gh pr create --title "New Post: ${{ github.event.issue.title }}" --body "Automated PR created from issue #${{ github.event.issue.number }}." --base master --head $BRANCH_NAME
+            else
+              echo "PR already exists"
+            fi
+          fi
+
+      - name: Comment on Issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --body "Ein neuer Pull Request für diesen Post wurde erstellt/aktualisiert!"
