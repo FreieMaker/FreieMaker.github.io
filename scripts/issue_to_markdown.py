@@ -5,12 +5,41 @@ import subprocess
 from datetime import datetime
 
 def parse_issue(body):
-    NL = chr(10)
-    # Regex to find sections: ### Label\n(Content)
-    sections = re.findall(f'### (.*?)\r?\n(.*?)(?=\r?\n### |\\Z)', body, re.DOTALL)
+    # The specific labels from our issue_template/new_post.yml
+    labels = [
+        "Titel des Posts",
+        "Autor",
+        "Kategorie",
+        "Kurzbeschreibung (Excerpt)",
+        "Haupt-Text (Markdown)",
+        "Hero-Bild (Name)"
+    ]
+    
     data = {}
-    for label, content in sections:
-        data[label.strip()] = content.strip()
+    # Find positions of all known labels
+    positions = []
+    for label in labels:
+        # Search for "### Label" at the start of a line
+        match = re.search(f'^### {re.escape(label)}', body, re.MULTILINE)
+        if match:
+            positions.append((match.start(), label))
+    
+    # Sort positions by their occurrence in the body
+    positions.sort()
+    
+    for i in range(len(positions)):
+        start_idx, label = positions[i]
+        # Content starts after the label line
+        content_start = body.find('\n', start_idx) + 1
+        
+        # Content ends at the start of the next label or end of string
+        if i < len(positions) - 1:
+            end_idx = positions[i+1][0]
+        else:
+            end_idx = len(body)
+            
+        data[label] = body[content_start:end_idx].strip()
+        
     return data
 
 def process_images(content, hero_name_hint):
@@ -25,11 +54,14 @@ def process_images(content, hero_name_hint):
         images.append((alt, url, f"![{alt}]({url})"))
     for url in html_images:
         # Find the full <img> tag to replace it later
-        full_tag = re.search(f'<img [^>]*src="{re.escape(url)}"[^>]*>', content).group(0)
-        images.append(("Image", url, full_tag))
+        full_tag_match = re.search(f'<img [^>]*src="{re.escape(url)}"[^>]*>', content)
+        if full_tag_match:
+            full_tag = full_tag_match.group(0)
+            images.append(("Image", url, full_tag))
     
     hero_image = ""
     processed_content = content
+    downloaded_filenames = []
     
     os.makedirs("assets/images/hero", exist_ok=True)
     
@@ -43,7 +75,6 @@ def process_images(content, hero_name_hint):
         # Use hero_name_hint for the first image if provided
         if i == 0 and hero_name_hint:
             filename = hero_name_hint
-            # Ensure extension matches if hint doesn't have one
             if "." not in filename:
                 filename += ext
             hero_image = filename
@@ -57,12 +88,13 @@ def process_images(content, hero_name_hint):
         
         print(f"Downloading {url} to {local_path}...")
         subprocess.run(["curl", "-L", "-s", "-o", local_path, url])
+        downloaded_filenames.append(filename)
         
         # Replace the original tag with the Jekyll div snippet
         img_snippet = f'<div class="img img--fullContainer img--14xLeading" style="background-image: url({{{{ site.baseurl_featured_img }}}}{filename});"></div>'
         processed_content = processed_content.replace(full_match, img_snippet)
 
-    return processed_content, hero_image
+    return processed_content, hero_image, downloaded_filenames
 
 def generate_markdown(data):
     title = data.get('Titel des Posts', 'Untitled')
@@ -72,7 +104,7 @@ def generate_markdown(data):
     content = data.get('Haupt-Text (Markdown)', '')
     hero_hint = data.get('Hero-Bild (Name)', '')
     
-    processed_content, hero_image = process_images(content, hero_hint)
+    processed_content, hero_image, downloaded_filenames = process_images(content, hero_hint)
     
     date_now = datetime.now()
     date_str = date_now.strftime('%Y-%m-%d %H:%M:%S')
@@ -101,7 +133,7 @@ syntaxHighlighter: no
 ---
 {processed_content}
 """
-    return filename, frontmatter
+    return filename, frontmatter, downloaded_filenames
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
@@ -117,12 +149,13 @@ if __name__ == "__main__":
     if not data:
         sys.exit(1)
         
-    filename, markdown = generate_markdown(data)
+    filename, markdown, downloaded_files = generate_markdown(data)
     with open(filename, 'w') as f:
         f.write(markdown)
     
     print(f"Created {filename}")
     
     if os.path.exists("generate_thumbnails.sh"):
-        print("Running generate_thumbnails.sh...")
-        subprocess.run(["bash", "generate_thumbnails.sh"])
+        for img_file in downloaded_files:
+            print(f"Running generate_thumbnails.sh for {img_file}...")
+            subprocess.run(["bash", "generate_thumbnails.sh", img_file])
