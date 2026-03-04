@@ -11,10 +11,11 @@
 
 .section--first,
 .section-backgroundImage {
-  height: 19 * $leading;
+  // Erhöhte Höhe für einen schöneren Look
+  height: 22 * $leading;
 
   @media (max-width: $screen-xs-max) {
-    height: 14 * $leading;
+    height: 16 * $leading;
   }
 }
 
@@ -47,44 +48,20 @@
   top: 0;
   z-index: $zIndex-neg2--carousel-backgroundImg;
   overflow: hidden;
+  
+  // Neues Cover-Styling
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll; // 'fixed' für Parallax, aber 'scroll' ist mobiler-freundlich
 
-  .post-featuredImage {
-    min-width: 100%;
-    min-height: 19 * $leading;
-    width: 2000px;
-    height: auto;
-    position: fixed;
-    left: 50%;
-    transform: translateX(-50%);
-    opacity: 0;
-    -webkit-transition-property: opacity, left, top, width;
-    -webkit-transition-duration: 1s, .1s, .1s, .1s;
-    -webkit-transition-timing-function: cubic-bezier(.33,0,.2,1);
-    -webkit-transition-delay: 0;
-    -moz-transition-property: opacity, left, top, width;
-    -moz-transition-duration: 1s, .1s, .1s, .1s;
-    -moz-transition-timing-function: cubic-bezier(.33,0,.2,1);
-    -moz-transition-delay: 0;
-    -ms-transition-property: opacity, left, top, width;
-    -ms-transition-duration: 1s, .1s, .1s, .1s;
-    -ms-transition-timing-function: cubic-bezier(.33,0,.2,1);
-    -ms-transition-delay: 0;
-    -o-transition-property: opacity, left, top, width;
-    -o-transition-duration: 1s, .1s, .1s, .1s;
-    -o-transition-timing-function: cubic-bezier(.33,0,.2,1);
-    -o-transition-delay: 0;
-    transition-property: opacity, left, top, width;
-    transition-duration: 1s, .1s, .1s, .1s;
-    transition-timing-function: cubic-bezier(.33,0,.2,1);
-    -transition-delay: 0;
-
-    &.is-loaded {
-      opacity: 1;
-    }
+  // Beibehalten für Kompatibilität mit dem Fade-In Effekt (falls JS genutzt wird)
+  &.is-loaded {
+    opacity: 1;
   }
 }
 
-.section-backgroundImage--previousPage img {
+.section-backgroundImage--previousPage {
   position: relative;
 }
 
