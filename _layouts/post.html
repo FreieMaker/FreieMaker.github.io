@@ -3,16 +3,7 @@ layout: default
 ---
 <article class="postWrapper">
   <section class="section--first is-darkBackgrounded u-table">
-    <div class="section-backgroundImage">
-
-      {% if page.image.feature %}
-        <img class="post-featuredImage" src="{{ page.image.feature | prepend: site.baseurl_featured_img }}" style="
-        {% if page.image.topPosition %}
-          top:{{ page.image.topPosition }};
-        {% endif %}
-        " alt="">
-      {% endif %}
-
+    <div class="section-backgroundImage" {% if page.image.feature %} style="background-image: url('{{ page.image.feature | prepend: site.baseurl_featured_img }}');" {% endif %}>
     </div>
     <div class="section-gradient
     {% if page.bgGradientOpacity == "darker" %}
@@ -71,12 +62,8 @@ layout: default
   <footer class="postFooter">
     {% if page.previous.url %}
       <section class="section--prePost is-darkBackgrounded u-table">
-        <div class="section-backgroundImage section-backgroundImage--previousPage">
-          <img class="post-featuredImage"
-          {% if page.previous.image.feature %}
-            src="{{ page.previous.image.feature | prepend: site.baseurl_featured_img }}"
-          {% endif %}
-          style="top:0" alt="">
+        <div class="section-backgroundImage section-backgroundImage--previousPage" 
+             {% if page.previous.image.feature %} style="background-image: url('{{ page.previous.image.feature | prepend: site.baseurl_featured_img }}');" {% endif %}>
         </div>
         <div class="section-gradient
         {% if page.previous.bgGradientOpacity == "darker" %}

@@ -2884,32 +2884,40 @@ body {
   display: none !important;
 }
 
-@media print {
-  .visible-print-inline-block {
-    display: inline-block !important;
-  }
+
+/* FINAL HERO & FRONTPAGE OVERRIDES */
+
+/* 1. Reset and Modernize Hero Images in Posts */
+.postWrapper .section-backgroundImage {
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: scroll !important;
+  height: 22rem !important;
+}
+.postWrapper .section--first {
+  height: 22rem !important;
+}
+.post-featuredImage {
+  display: none !important;
 }
 
-@media print {
-  .hidden-print {
-    display: none !important;
-  }
+/* 2. Specific fix for Frontpage Spacing */
+.section--frontpage {
+  height: auto !important;
+  min-height: 0 !important;
+  padding-top: 5rem !important;
+  padding-bottom: 10rem !important;
 }
 
-.videoWrapper {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 */
-    padding-top: 25px;
-    height: 0;
-    overflow: hidden;
-}
-.videoWrapper iframe,
-.videoWrapper object,
-.videoWrapper embed
-{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+/* 3. Mobile Adjustments */
+@media (max-width: 767px) {
+  .postWrapper .section-backgroundImage,
+  .postWrapper .section--first {
+    height: 16rem !important;
+  }
+  .section--frontpage {
+    padding-top: 3rem !important;
+    padding-bottom: 8rem !important;
+  }
 }
