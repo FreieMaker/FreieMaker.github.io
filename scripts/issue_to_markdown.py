@@ -7,7 +7,8 @@ from datetime import datetime
 def parse_issue(body):
     NL = chr(10)
     # Regex to find sections: ### Label\n(Content)
-    sections = re.findall(f'### (.*?){NL}(.*?)(?={NL}### |\\Z)', body, re.DOTALL)
+    # Support both \n and \r\n
+    sections = re.findall(f'### (.*?)\r?\n(.*?)(?=\r?\n### |\\Z)', body, re.DOTALL)
     data = {}
     for label, content in sections:
         data[label.strip()] = content.strip()
@@ -23,6 +24,7 @@ def process_images(content, hero_name_hint):
     os.makedirs("assets/images/hero", exist_ok=True)
     
     for i, (alt, url) in enumerate(image_patterns):
+        # Extract ID from URL for uniqueness
         img_id = re.sub(r'[^a-zA-Z0-9]', '', url.split('/')[-1])[:10]
         
         ext = ".jpg"
@@ -58,8 +60,12 @@ def generate_markdown(data):
     date_str = date_now.strftime('%Y-%m-%d %H:%M:%S')
     file_date = date_now.strftime('%Y-%m-%d')
     
+    # Safe filename: replace spaces with - and remove special chars
     safe_title = re.sub(r'[^a-zA-Z0-9\s]', '', title).strip().replace(' ', '-')
     filename = f"_posts/{file_date}-{safe_title}.markdown"
+    
+    # Format categories
+    categories = category.strip()
     
     frontmatter = f"""---
 layout: post
@@ -68,7 +74,7 @@ date:   {date_str}
 author: "{author}"
 last_modified_at:  {date_str}
 excerpt: "{excerpt}"
-categories: {category}
+categories: {categories}
 tags:  Back
 image:
   feature: {hero_image}
@@ -89,10 +95,12 @@ if __name__ == "__main__":
         body = sys.stdin.read()
     
     if not body.strip():
+        print("Empty body")
         sys.exit(1)
         
     data = parse_issue(body)
     if not data:
+        print("Could not parse issue body. Check format (### Label).")
         sys.exit(1)
         
     filename, markdown = generate_markdown(data)
