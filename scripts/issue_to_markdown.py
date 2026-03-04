@@ -15,21 +15,31 @@ def parse_issue(body):
     return data
 
 def process_images(content, hero_name_hint):
-    # Match any Markdown image pattern: ![alt](url)
-    image_patterns = re.findall(r'!\[(.*?)\]\((https?://.*?)\)', content)
+    # Match Markdown images: ![alt](url)
+    markdown_images = re.findall(r'!\[(.*?)\]\((https?://.*?)\)', content)
+    # Match HTML images: <img ... src="url" ... /> or <img src="url" ... />
+    html_images = re.findall(r'<img [^>]*src="(https?://[^"]+)"[^>]*>', content)
+    
+    # Standardize image list: (alt, url)
+    images = []
+    for alt, url in markdown_images:
+        images.append((alt, url, f"![{alt}]({url})"))
+    for url in html_images:
+        images.append(("Image", url, re.search(f'<img [^>]*src="{re.escape(url)}"[^>]*>', content).group(0)))
     
     hero_image = hero_name_hint if hero_name_hint else ""
     processed_content = content
     
     os.makedirs("assets/images/hero", exist_ok=True)
     
-    for i, (alt, url) in enumerate(image_patterns):
+    for i, (alt, url, full_match) in enumerate(images):
         # Extract ID from URL for uniqueness
         img_id = re.sub(r'[^a-zA-Z0-9]', '', url.split('/')[-1])[:10]
         
         ext = ".jpg"
         if ".png" in url.lower(): ext = ".png"
         elif ".jpeg" in url.lower(): ext = ".jpeg"
+        elif ".svg" in url.lower(): ext = ".svg"
         
         filename = f"issue_{img_id}{ext}"
         
@@ -42,7 +52,7 @@ def process_images(content, hero_name_hint):
         subprocess.run(["curl", "-L", "-s", "-o", local_path, url])
         
         img_snippet = f'<div class="img img--fullContainer img--14xLeading" style="background-image: url({{{{ site.baseurl_featured_img }}}}{filename});"></div>'
-        processed_content = processed_content.replace(f"![{alt}]({url})", img_snippet)
+        processed_content = processed_content.replace(full_match, img_snippet)
 
     return processed_content, hero_image
 
