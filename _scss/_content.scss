@@ -233,19 +233,21 @@
 }
 
 .socialAccountList {
-  @include clearfix();
   list-style: none;
   margin: $leading auto;
   padding-left: 0;
-  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  li {
+    padding: 0 10px;
+  }
 }
 
 .socialAccount {
   display: block;
-  float: left;
-  margin: 0;
-  padding: 0 15px;
-  width: 14.2%;
+  width: 30px;
   height: 25px;
   text-decoration: none;
   background-repeat: no-repeat;
@@ -258,8 +260,8 @@
   }
 }
 
-.socialAccount--twitter {
-  background-image: url(../images/twitter--black.svg);
+.socialAccount--x {
+  background-image: url(../images/x--black.svg);
 }
 
 .socialAccount--facebook {
@@ -280,6 +282,14 @@
 
 .socialAccount--kiva {
   background-image: url(../images/kiva--black.svg);
+}
+
+.socialAccount--instagram {
+  background-image: url(../images/instagram--black.svg);
+}
+
+.socialAccount--discord {
+  background-image: url(../images/discord--black.svg);
 }
 
 .socialAccount--rss {

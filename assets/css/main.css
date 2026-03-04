@@ -2895,29 +2895,38 @@ body {
   background-attachment: scroll !important;
   height: 22rem !important;
 }
-.postWrapper .section--first {
-  height: 22rem !important;
-}
-.post-featuredImage {
-  display: none !important;
-}
 
-/* 2. Specific fix for Frontpage Spacing */
-.section--frontpage {
-  height: auto !important;
-  min-height: 0 !important;
-  padding-top: 5rem !important;
-  padding-bottom: 10rem !important;
-}
 
-/* 3. Mobile Adjustments */
-@media (max-width: 767px) {
-  .postWrapper .section-backgroundImage,
-  .postWrapper .section--first {
-    height: 16rem !important;
-  }
-  .section--frontpage {
-    padding-top: 3rem !important;
-    padding-bottom: 8rem !important;
-  }
+/* FINAL SOCIAL MEDIA FOOTER FIX */
+.socialAccountList {
+  list-style: none !important;
+  margin: 2rem auto !important;
+  padding: 0 !important;
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100% !important;
+  clear: both !important;
 }
+.socialAccountList li {
+  float: none !important;
+  display: inline-block !important;
+  padding: 0 10px !important;
+  margin: 0 !important;
+}
+.socialAccount {
+  display: block !important;
+  float: none !important;
+  width: 32px !important;
+  height: 32px !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+  background-size: contain !important;
+  opacity: 0.8 !important;
+}
+.socialAccount:hover { opacity: 1 !important; }
+.socialAccount--x { background-image: url(../images/x--black.svg) !important; }
+.socialAccount--instagram { background-image: url(../images/instagram--black.svg) !important; }
+.socialAccount--discord { background-image: url(../images/discord--black.svg) !important; }
+.socialAccount--facebook { background-image: url(../images/facebook--black.svg) !important; }
